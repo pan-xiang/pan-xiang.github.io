@@ -22,7 +22,7 @@ repository               : "xiangpancn/xiangpancn.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Xiang Pan (潘 翔)"
+  name             : "Xiang Pan"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
