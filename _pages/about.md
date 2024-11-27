@@ -9,17 +9,17 @@ redirect_from:
 
 I am a PhD cadidate in the [gradudate school of Informatics](https://www.i.kyoto-u.ac.jp/en/) at [Kyoto University](https://www.kyoto-u.ac.jp/en). I am working in [Human Robot Interaction Lab](https://www.robot.soc.i.kyoto-u.ac.jp/en/), supervised by Professor [Takayuki Kanda](https://scholar.google.com/citations?hl=en&user=BL9EACgAAAAJ). 
 
-# **Publications**
+## **Publications**
 
 
-# **Service**
+## **Service**
 
 Journal Reviewer: Electronics Letters
 
 Conference Reviewer: CHI 2023, RO-MAN 2024, HAI 2024, HRI 2025
 
 
-# **Education**
+## **Education**
 
 2022.4-Present PhD student, Social Informatics, Kyoto University
 
