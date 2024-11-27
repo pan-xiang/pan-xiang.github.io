@@ -7,11 +7,11 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "zh" # "en-US"
-title                    : "Xiang Pan"
+locale                   : "en-US"
+title                    : "HomePages"
 title_separator          : "-"
-name                     : &name "Xiang Pan"
-description              : &description "personal description"
+name                     : # &name "Xiang Pan"
+description              : # &description "personal description"
 url                      : https://pan-xiang.github.io   # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "pan-xiang/pan-xiang.github.io"
