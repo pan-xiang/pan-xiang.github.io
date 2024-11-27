@@ -19,7 +19,7 @@ I am a PhD cadidate in the at [Kyoto University](https://www.kyoto-u.ac.jp/en). 
 
 
 **Education**
-
+2022.4-Present PhD student, Social Informatics, Kyoto University
 
 
 <!-- A data-driven personal website
