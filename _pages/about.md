@@ -7,13 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD cadidate in the at [Kyoto University]. I am working in [Human Robot Interaction Lab](https://www.robot.soc.i.kyoto-u.ac.jp/en/), supervised by Professor [Takayuki Kanda](https://scholar.google.com/citations?hl=en&user=BL9EACgAAAAJ). 
+I am a PhD cadidate in the at [Kyoto University](https://www.kyoto-u.ac.jp/en). I am working in [Human Robot Interaction Lab](https://www.robot.soc.i.kyoto-u.ac.jp/en/), supervised by Professor [Takayuki Kanda](https://scholar.google.com/citations?hl=en&user=BL9EACgAAAAJ). 
 
 Publications
+======
 
 Service
+======
 
 Education
+======
+
 
 <!-- A data-driven personal website
 ======
