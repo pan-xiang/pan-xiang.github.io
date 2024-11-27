@@ -9,14 +9,17 @@ redirect_from:
 
 I am a PhD cadidate in the at [Kyoto University](https://www.kyoto-u.ac.jp/en). I am working in [Human Robot Interaction Lab](https://www.robot.soc.i.kyoto-u.ac.jp/en/), supervised by Professor [Takayuki Kanda](https://scholar.google.com/citations?hl=en&user=BL9EACgAAAAJ). 
 
-Publications
-======
+**News**
+------
 
-Service
-======
+***Publications***
 
-Education
-======
+
+**Service**
+
+
+**Education**
+
 
 
 <!-- A data-driven personal website
