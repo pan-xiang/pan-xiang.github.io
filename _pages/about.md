@@ -21,7 +21,7 @@ Conference Reviewer: CHI 2023, RO-MAN 2024, HAI 2024, HRI 2025
 
 ## **Education**
 
-2022.4-Present PhD student, Social Informatics, Kyoto University
+(2022.4-Present) PhD student, Kyoto University, Kyoto, Japan
 
 
 <!-- A data-driven personal website
