@@ -23,8 +23,6 @@ Publications
 
 † indicates equal contribution; * indicates equal contribution;
 
-<ul>
-
 
 Service
 ======
@@ -34,10 +32,7 @@ Conference Reviewer: CHI 2023, RO-MAN 2024, HAI 2024, HRI 2025
 
 Education
 ======
-<ul>
+- (2022.4-Present) PhD student, Kyoto University, Kyoto, Japan
+- (2017.9-2020.6) M.S, Zhejiang University, Hangzhou, China
+- (2013.9-2017.7) B.S, Anhui University of Technology, Maanshan, China
 
-<li>(2022.4-Present) PhD student, Kyoto University, Kyoto, Japan</li>
-<li>(2017.9-2020.6) M.S, Zhejiang University, Hangzhou, China</li>
-<li>(2013.9-2017.7) B.S, Anhui University of Technology, Maanshan, China</li>
-
-</ul>
