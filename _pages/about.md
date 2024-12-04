@@ -10,7 +10,7 @@ redirect_from:
 I am a PhD candidate in the [gradudate school of Informatics](https://www.i.kyoto-u.ac.jp/en/) at [Kyoto University](https://www.kyoto-u.ac.jp/en), supported by Japanese Government (MEXT) Scholarship. I am working in the [Human-Robot Interaction Lab](https://www.robot.soc.i.kyoto-u.ac.jp/en/), supervised by Professor [Takayuki Kanda](https://scholar.google.com/citations?hl=en&user=BL9EACgAAAAJ). My research mainly focus on social robotics, and human-robot interaction.
 
 
-Publications 
+Selected Publications 
 ======
 - Xiang Pan *, Malcolm Doering, Stela H. Seo, and Takayuki Kanda. **Communicating Physical Properties through Robot Object Manipulation**. ACM/IEEE International Conference on Human-Robot Interaction, 2025.  
   Top HRI conference, 25 % acceptance rate (100/400)
@@ -29,7 +29,7 @@ Journal Reviewer: Electronics Letters
 Conference Reviewer: CHI 2023, RO-MAN 2024, HAI 2024, HRI 2025
 
 
-Awards
+Selected Awards
 ======
 - Outstanding Graduate of Zhejiang University, 2020
 - Outstanding Graduate Student Leader of Zhejiang University, 2018
