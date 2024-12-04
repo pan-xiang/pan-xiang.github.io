@@ -13,15 +13,16 @@ My research interests include social robotics, and human-robot interaction.
 
 Publications 
 ======
-<ul>
-<li> Xiang Pan *, Malcolm Doering, Stela H. Seo, and Takayuki Kanda. **Communicating Physical Properties through Robot Object Manipulation**. ACM/IEEE International Conference on Human-Robot Interaction, 2025.  
-      Top HRI conference, 25 % acceptance rate (100/400)
-<li> Xiang Pan *, Malcolm Doering, and Takayuki Kanda. **What Is Your Other Hand Doing, Robot? A Model of Behavior for Shopkeeper Robot's Idle Hand**. ACM/IEEE International Conference on Human-Robot Interaction, pp. 552-560, 2024.  
-      Top HRI conference, 25 % acceptance rate (87/352)
-<li> Xiang Pan, Dong Li, Weijia Wu, and Hong Zhou *. **Efficient Barcode Localization Method for Low-Quality Images**. International Conference on Graphics and Signal Processing, pp. 1-7, 2019.
+- Xiang Pan *, Malcolm Doering, Stela H. Seo, and Takayuki Kanda. **Communicating Physical Properties through Robot Object Manipulation**. ACM/IEEE International Conference on Human-Robot Interaction, 2025.  
+  Top HRI conference, 25 % acceptance rate (100/400)
 
+- Xiang Pan *, Malcolm Doering, and Takayuki Kanda. **What Is Your Other Hand Doing, Robot? A Model of Behavior for Shopkeeper Robot's Idle Hand**. ACM/IEEE International Conference on Human-Robot Interaction, pp. 552-560, 2024.  
+  Top HRI conference, 25 % acceptance rate (87/352)
 
-† indicates equal contribution; * indicates equal contribution; 
+- Xiang Pan, Dong Li, Weijia Wu, and Hong Zhou *. **Efficient Barcode Localization Method for Low-Quality Images**. International Conference on Graphics and Signal Processing, pp. 1-7, 2019.
+
+† indicates equal contribution; * indicates equal contribution;
+
 <ul>
 
 
