@@ -17,7 +17,7 @@ Publications
   Top HRI conference, 25 % acceptance rate (100/400)
 
 - Xiang Pan *, Malcolm Doering, and Takayuki Kanda. **What Is Your Other Hand Doing, Robot? A Model of Behavior for Shopkeeper Robot's Idle Hand**. ACM/IEEE International Conference on Human-Robot Interaction, pp. 552-560, 2024.  
-  Top HRI conference, 25 % acceptance rate (87/352)
+  Top HRI conference, 24.7 % acceptance rate (87/352)
 
 - Xiang Pan, Dong Li, Weijia Wu, and Hong Zhou *. **Efficient Barcode Localization Method for Low-Quality Images**. International Conference on Graphics and Signal Processing, pp. 1-7, 2019.
 
