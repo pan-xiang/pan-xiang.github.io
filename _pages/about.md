@@ -26,8 +26,13 @@ Publications
 
 Service
 ======
-Journal Reviewer: Electronics Letters
+Journal Reviewer: Electronics Letters  
 Conference Reviewer: CHI 2023, RO-MAN 2024, HAI 2024, HRI 2025
+
+
+Awards
+======
+
 
 
 Education
