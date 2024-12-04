@@ -33,7 +33,7 @@ Awards
 ======
 - Outstanding Graduate of Zhejiang University, 2020
 - Outstanding Graduate Student of Zhejiang University, 2018
-- Outstanding Graduate Student of Zhejiang University, 2017
+- Outstanding Graduate of Anhui Provice, 2017
 - "Youth May Fourth Medal" of Anhui University of Technology (Highest Honor for Undergraduate Students), 2017
 
 
