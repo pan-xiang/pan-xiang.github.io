@@ -14,30 +14,22 @@ I am a PhD candidate in the [gradudate school of Informatics](https://www.i.kyot
 
 Selected Publications 
 ======
-<!-- - Xiang Pan *, Malcolm Doering, Stela H. Seo, and Takayuki Kanda. **Communicating Physical Properties through Robot Object Manipulation**. ACM/IEEE International Conference on Human-Robot Interaction, 2025.  
-  Top HRI conference, 25 % acceptance rate (100/400)
-  <a href="files/HRI2025.pdf" class="button" target="_blank">PDF</a>
-
-
-- Xiang Pan *, Malcolm Doering, and Takayuki Kanda. **What Is Your Other Hand Doing, Robot? A Model of Behavior for Shopkeeper Robot's Idle Hand**. ACM/IEEE International Conference on Human-Robot Interaction, pp. 552-560, 2024.  
-  Top HRI conference, 24.7 % acceptance rate (87/352)
-  <a href="files/HRI2024.pdf" class="button" target="_blank">PDF</a>
-
-- Xiang Pan, Dong Li, Weijia Wu, and Hong Zhou *. **Efficient Barcode Localization Method for Low-Quality Images**. International Conference on Graphics and Signal Processing, pp. 1-7, 2019.
-  <a href="files/ICGSP2019.pdf" class="button" target="_blank">PDF</a>
-
-† indicates equal contribution; * indicates equal contribution; -->
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Publications</title>
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
 
 <div class="publications">
-
   <div class="pub-item">
     <h3>Communicating Physical Properties through Robot Object Manipulation</h3>
     <p><strong>Xiang Pan *</strong>, Malcolm Doering, Stela H. Seo, and Takayuki Kanda</p>
     <p><em>ACM/IEEE International Conference on Human-Robot Interaction, 2025</em></p>
     <p>Top HRI conference, 25% acceptance rate (100/400)</p>
     <div class="links">
-      <a href="files/HRI2025.pdf" class="button" target="_blank">PDF</a>
-      <a href="files/HRI2025.mp4" class="button" target="_blank">PDF</a>
+      <a href="files/HRI2025.pdf" class="button" target="_blank">Pdf</a>
+      <a href="files/HRI2025.mp4" class="button" target="_blank">Video</a>
     </div>
   </div>
 
@@ -47,8 +39,8 @@ Selected Publications
     <p><em>ACM/IEEE International Conference on Human-Robot Interaction, pp. 552-560, 2024</em></p>
     <p>Top HRI conference, 24.7% acceptance rate (87/352)</p>
     <div class="links">
-      <a href="files/HRI2024.pdf" class="button" target="_blank">PDF</a>
-      <a href="files/HRI2024.mp4" class="button" target="_blank">PDF</a>
+      <a href="files/HRI2024.pdf" class="button" target="_blank">Pdf</a>
+      <a href="files/HRI2024.mp4" class="button" target="_blank">Video</a>
     </div>
   </div>
 
@@ -57,7 +49,7 @@ Selected Publications
     <p><strong>Xiang Pan</strong>, Dong Li, Weijia Wu, and Hong Zhou *</p>
     <p><em>International Conference on Graphics and Signal Processing, pp. 1-7, 2019</em></p>
     <div class="links">
-      <a href="files/ICGSP2019.pdf" class="button" target="_blank">PDF</a>
+      <a href="files/ICGSP2019.pdf" class="button" target="_blank">Pdf</a>
     </div>
   </div>
 
