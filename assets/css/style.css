@@ -1,3 +1,11 @@
+/* 
+ * Author: Xiang Pan
+ * Created: January 7, 2025
+ * Purpose: Styling for the publications page, including buttons, layout, and typography.
+ * Description: This CSS file defines the styles for displaying publication items with
+ * buttons for PDF and video links in a clean and user-friendly format.
+ */
+
 .publications {
     font-family: Arial, sans-serif;
     margin-top: 20px;
@@ -34,17 +42,21 @@
   
   .button {
     display: inline-block;
-    margin-right: 10px;
-    padding: 6px 12px;
-    background-color: #007bff;
-    color: white;
-    text-decoration: none;
-    border-radius: 5px;
-    font-size: 0.85em;
-    font-weight: bold;
+    padding: 8px 16px; /* 按钮内部的间距 */
+    background-color: white; /* 背景颜色为白色 */
+    color: #333; /* 文字颜色为深灰色或黑色 */
+    text-decoration: none; /* 去掉下划线 */
+    border: 1px solid #ccc; /* 浅灰色边框 */
+    border-radius: 10px; /* 圆角设置 */
+    font-size: 0.9em; /* 字体大小 */
+    font-weight: bold; /* 字体加粗 */
+    text-align: center; /* 文本居中 */
+    transition: all 0.3s ease; /* 增加过渡效果 */
   }
   
   .button:hover {
-    background-color: #0056b3;
+    background-color: #f0f0f0; /* 鼠标悬浮时的背景颜色（浅灰） */
+    border-color: #999; /* 悬浮时边框颜色加深 */
+    color: #000; /* 文字颜色加深 */
   }
   
