@@ -5,7 +5,7 @@ permalink: /sitemap/
 author_profile: true
 ---
 
-Hi, this is Xiang Pan.
+Hi, welcome to my website!
 
 <!-- {% include base_path %} -->
 

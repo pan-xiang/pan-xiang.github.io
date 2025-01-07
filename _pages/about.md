@@ -10,7 +10,7 @@ redirect_from:
 I am a PhD candidate in the [gradudate school of Informatics](https://www.i.kyoto-u.ac.jp/en/) at [Kyoto University](https://www.kyoto-u.ac.jp/en), supported by Japanese Government (MEXT) Scholarship. I am working in the [Human-Robot Interaction Lab](https://www.robot.soc.i.kyoto-u.ac.jp/en/), supervised by Professor [Takayuki Kanda](https://scholar.google.com/citations?hl=en&user=BL9EACgAAAAJ). My research mainly focuses on social robotics, and human-robot interaction.
 
 
-Selected Publications 
+<!-- Selected Publications 
 ======
 - Xiang Pan *, Malcolm Doering, Stela H. Seo, and Takayuki Kanda. **Communicating Physical Properties through Robot Object Manipulation**. ACM/IEEE International Conference on Human-Robot Interaction, 2025.  
   Top HRI conference, 25 % acceptance rate (100/400)
@@ -20,7 +20,33 @@ Selected Publications
 
 - Xiang Pan, Dong Li, Weijia Wu, and Hong Zhou *. **Efficient Barcode Localization Method for Low-Quality Images**. International Conference on Graphics and Signal Processing, pp. 1-7, 2019.
 
-† indicates equal contribution; * indicates equal contribution;
+† indicates equal contribution; * indicates equal contribution; -->
+
+<div class="publications">
+  <h2>Selected Publications</h2>
+
+  <div class="pub-item">
+    <h3>Communicating Physical Properties through Robot Object Manipulation</h3>
+    <p><strong>Authors:</strong> Xiang Pan *, Malcolm Doering, Stela H. Seo, and Takayuki Kanda</p>
+    <p><em>ACM/IEEE International Conference on Human-Robot Interaction, 2025</em></p>
+    <p>Top HRI conference, 25% acceptance rate (100/400)</p>
+  </div>
+
+  <div class="pub-item">
+    <h3>What Is Your Other Hand Doing, Robot? A Model of Behavior for Shopkeeper Robot's Idle Hand</h3>
+    <p><strong>Authors:</strong> Xiang Pan *, Malcolm Doering, and Takayuki Kanda</p>
+    <p><em>ACM/IEEE International Conference on Human-Robot Interaction, pp. 552-560, 2024</em></p>
+    <p>Top HRI conference, 24.7% acceptance rate (87/352)</p>
+  </div>
+
+  <div class="pub-item">
+    <h3>Efficient Barcode Localization Method for Low-Quality Images</h3>
+    <p><strong>Authors:</strong> Xiang Pan, Dong Li, Weijia Wu, and Hong Zhou *</p>
+    <p><em>International Conference on Graphics and Signal Processing, pp. 1-7, 2019</em></p>
+  </div>
+
+  <p>† indicates equal contribution; * indicates equal contribution;</p>
+</div>
 
 
 Service
