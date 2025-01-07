@@ -28,7 +28,7 @@ Selected Publications
     <p><em>ACM/IEEE International Conference on Human-Robot Interaction, Melbourne, Australia, 2025</em></p>
     <p>Top HRI conference, 25% acceptance rate (100/400)</p>
     <div class="links">
-      <a href="files/HRI2025.pdf" class="button" target="_blank">Pdf</a>
+      <a href="files/HRI2025.pdf" class="button" target="_blank">Paper</a>
       <a href="files/HRI2025.mp4" class="button" target="_blank">Video</a>
     </div>
   </div>
@@ -39,7 +39,7 @@ Selected Publications
     <p><em>ACM/IEEE International Conference on Human-Robot Interaction, Colorado, USA, 2024</em></p>
     <p>Top HRI conference, 24.7% acceptance rate (87/352)</p>
     <div class="links">
-      <a href="files/HRI2024.pdf" class="button" target="_blank">Pdf</a>
+      <a href="files/HRI2024.pdf" class="button" target="_blank">Paper</a>
       <a href="files/HRI2024.mp4" class="button" target="_blank">Video</a>
     </div>
   </div>
@@ -49,7 +49,7 @@ Selected Publications
     <p><strong>Xiang Pan</strong>, Dong Li, Weijia Wu, and Hong Zhou *</p>
     <p><em>International Conference on Graphics and Signal Processing, Hong Kong, China, 2019</em></p>
     <div class="links">
-      <a href="files/ICGSP2019.pdf" class="button" target="_blank">Pdf</a>
+      <a href="files/ICGSP2019.pdf" class="button" target="_blank">Paper</a>
     </div>
   </div>
 
