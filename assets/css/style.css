@@ -1,0 +1,50 @@
+.publications {
+    font-family: Arial, sans-serif;
+    margin-top: 20px;
+  }
+  
+  .pub-item {
+    margin-bottom: 20px;
+    padding: 10px;
+    border-left: 3px solid #007bff; /* 左侧蓝色边框 */
+    background-color: #f9f9f9; /* 背景颜色 */
+    border-radius: 5px;
+  }
+  
+  .pub-item h3 {
+    font-size: 1.2em;
+    margin: 0 0 5px;
+    color: #333;
+  }
+  
+  .pub-item p {
+    margin: 5px 0;
+    font-size: 0.9em;
+    color: #555;
+  }
+  
+  .pub-item em {
+    font-style: italic;
+    color: #777;
+  }
+  
+  .links {
+    margin-top: 10px;
+  }
+  
+  .button {
+    display: inline-block;
+    margin-right: 10px;
+    padding: 6px 12px;
+    background-color: #007bff;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 0.85em;
+    font-weight: bold;
+  }
+  
+  .button:hover {
+    background-color: #0056b3;
+  }
+  

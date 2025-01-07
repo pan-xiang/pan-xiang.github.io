@@ -7,22 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-<style>
-.button {
-  display: inline-block;
-  margin-top: 5px;
-  padding: 8px 12px;
-  background-color: #007bff;
-  color: white;
-  text-decoration: none;
-  border-radius: 5px;
-  font-size: 0.9em;
-}
-
-.button:hover {
-  background-color: #0056b3;
-}
-</style>
 
 I am a PhD candidate in the [gradudate school of Informatics](https://www.i.kyoto-u.ac.jp/en/) at [Kyoto University](https://www.kyoto-u.ac.jp/en), funded by the Japanese Government (MEXT) Scholarship. I am working in the [Human-Robot Interaction Lab](https://www.robot.soc.i.kyoto-u.ac.jp/en/), supervised by Prof. [Takayuki Kanda](https://scholar.google.com/citations?hl=en&user=BL9EACgAAAAJ). My research mainly focuses on human-robot interaction, and social robotics.
 
@@ -30,7 +14,7 @@ I am a PhD candidate in the [gradudate school of Informatics](https://www.i.kyot
 
 Selected Publications 
 ======
-- Xiang Pan *, Malcolm Doering, Stela H. Seo, and Takayuki Kanda. **Communicating Physical Properties through Robot Object Manipulation**. ACM/IEEE International Conference on Human-Robot Interaction, 2025.  
+<!-- - Xiang Pan *, Malcolm Doering, Stela H. Seo, and Takayuki Kanda. **Communicating Physical Properties through Robot Object Manipulation**. ACM/IEEE International Conference on Human-Robot Interaction, 2025.  
   Top HRI conference, 25 % acceptance rate (100/400)
   <a href="files/HRI2025.pdf" class="button" target="_blank">PDF</a>
 
@@ -42,8 +26,23 @@ Selected Publications
 - Xiang Pan, Dong Li, Weijia Wu, and Hong Zhou *. **Efficient Barcode Localization Method for Low-Quality Images**. International Conference on Graphics and Signal Processing, pp. 1-7, 2019.
   <a href="files/ICGSP2019.pdf" class="button" target="_blank">PDF</a>
 
-† indicates equal contribution; * indicates equal contribution;
+† indicates equal contribution; * indicates equal contribution; -->
 
+# Selected Publications
+
+<div class="publications">
+
+  <div class="pub-item">
+    <h3>Leveraging Symmetries in Pick and Place</h3>
+    <p><strong>Authors:</strong> Haojie Huang, <strong>Dian Wang</strong>, Arsh Tangri, Robin Walters<sup>†</sup>, Robert Platt<sup>†</sup></p>
+    <p><em>The International Journal of Robotics Research, 2023</em></p>
+    <div class="links">
+      <a href="files/HRI2025.pdf" class="button" target="_blank">PDF</a>
+      <a href="files/HRI2024.mp4" class="button" target="_blank">Code</a>
+    </div>
+  </div>
+
+</div>
 
 
 Service
