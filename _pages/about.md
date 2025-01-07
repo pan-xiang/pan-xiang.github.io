@@ -7,11 +7,43 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in the [gradudate school of Informatics](https://www.i.kyoto-u.ac.jp/en/) at [Kyoto University](https://www.kyoto-u.ac.jp/en), supported by Japanese Government (MEXT) Scholarship. I am working in the [Human-Robot Interaction Lab](https://www.robot.soc.i.kyoto-u.ac.jp/en/), supervised by Professor [Takayuki Kanda](https://scholar.google.com/citations?hl=en&user=BL9EACgAAAAJ). My research mainly focuses on social robotics, and human-robot interaction.
+<style>
+.publications {
+  font-family: Arial, sans-serif;
+  margin-top: 20px;
+}
+
+.pub-item {
+  margin-bottom: 20px;
+  padding: 15px;
+  border-left: 3px solid #007bff;
+}
+
+.pub-item h3 {
+  margin: 0 0 10px;
+  font-size: 1.2em;
+  color: #333;
+}
+
+.pub-item p {
+  margin: 5px 0;
+  font-size: 0.95em;
+  color: #555;
+}
+
+.pub-item em {
+  font-style: italic;
+  color: #444;
+}
+</style>
 
 
-<!-- Selected Publications 
-======
+
+I am a PhD candidate in the [gradudate school of Informatics](https://www.i.kyoto-u.ac.jp/en/) at [Kyoto University](https://www.kyoto-u.ac.jp/en), funded by the Japanese Government (MEXT) Scholarship. I am working in the [Human-Robot Interaction Lab](https://www.robot.soc.i.kyoto-u.ac.jp/en/), supervised by Prof. [Takayuki Kanda](https://scholar.google.com/citations?hl=en&user=BL9EACgAAAAJ). My research mainly focuses on human-robot interaction, and social robotics.
+
+
+Selected Publications 
+<!-- ======
 - Xiang Pan *, Malcolm Doering, Stela H. Seo, and Takayuki Kanda. **Communicating Physical Properties through Robot Object Manipulation**. ACM/IEEE International Conference on Human-Robot Interaction, 2025.  
   Top HRI conference, 25 % acceptance rate (100/400)
 
@@ -21,9 +53,14 @@ I am a PhD candidate in the [gradudate school of Informatics](https://www.i.kyot
 - Xiang Pan, Dong Li, Weijia Wu, and Hong Zhou *. **Efficient Barcode Localization Method for Low-Quality Images**. International Conference on Graphics and Signal Processing, pp. 1-7, 2019.
 
 † indicates equal contribution; * indicates equal contribution; -->
+---
+layout: default
+title: About
+---
+
+# Selected Publications
 
 <div class="publications">
-  <h2>Selected Publications</h2>
 
   <div class="pub-item">
     <h3>Communicating Physical Properties through Robot Object Manipulation</h3>
@@ -46,7 +83,9 @@ I am a PhD candidate in the [gradudate school of Informatics](https://www.i.kyot
   </div>
 
   <p>† indicates equal contribution; * indicates equal contribution;</p>
+
 </div>
+
 
 
 Service
