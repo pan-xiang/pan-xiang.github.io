@@ -2,8 +2,6 @@
  * Author: Xiang Pan
  * Created: January 7, 2025
  * Purpose: Styling for the publications page, including buttons, layout, and typography.
- * Description: This CSS file defines the styles for displaying publication items with
- * buttons for PDF and video links in a clean and user-friendly format.
  */
 
 .publications {
@@ -14,7 +12,7 @@
   .pub-item {
     margin-bottom: 20px;
     padding: 10px;
-    border-left: 3px solid #007bff; /* 左侧蓝色边框 */
+    border-left: 3px solid #00FFFF; /* 左侧蓝色边框 */
     background-color: #f9f9f9; /* 背景颜色 */
     border-radius: 5px;
   }

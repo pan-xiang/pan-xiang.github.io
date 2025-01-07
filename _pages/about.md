@@ -25,7 +25,7 @@ Selected Publications
   <div class="pub-item">
     <h3>Communicating Physical Properties through Robot Object Manipulation</h3>
     <p><strong>Xiang Pan *</strong>, Malcolm Doering, Stela H. Seo, and Takayuki Kanda</p>
-    <p><em>ACM/IEEE International Conference on Human-Robot Interaction, 2025</em></p>
+    <p><em>ACM/IEEE International Conference on Human-Robot Interaction, Melbourne, Australia, 2025</em></p>
     <p>Top HRI conference, 25% acceptance rate (100/400)</p>
     <div class="links">
       <a href="files/HRI2025.pdf" class="button" target="_blank">Pdf</a>
@@ -36,7 +36,7 @@ Selected Publications
   <div class="pub-item">
     <h3>What Is Your Other Hand Doing, Robot? A Model of Behavior for Shopkeeper Robot's Idle Hand</h3>
     <p><strong>Xiang Pan *</strong>, Malcolm Doering, and Takayuki Kanda</p>
-    <p><em>ACM/IEEE International Conference on Human-Robot Interaction, pp. 552-560, 2024</em></p>
+    <p><em>ACM/IEEE International Conference on Human-Robot Interaction, Colorado, USA, 2024</em></p>
     <p>Top HRI conference, 24.7% acceptance rate (87/352)</p>
     <div class="links">
       <a href="files/HRI2024.pdf" class="button" target="_blank">Pdf</a>
@@ -47,7 +47,7 @@ Selected Publications
   <div class="pub-item">
     <h3>Efficient Barcode Localization Method for Low-Quality Images</h3>
     <p><strong>Xiang Pan</strong>, Dong Li, Weijia Wu, and Hong Zhou *</p>
-    <p><em>International Conference on Graphics and Signal Processing, pp. 1-7, 2019</em></p>
+    <p><em>International Conference on Graphics and Signal Processing, Hong Kong, China, 2019</em></p>
     <div class="links">
       <a href="files/ICGSP2019.pdf" class="button" target="_blank">Pdf</a>
     </div>
