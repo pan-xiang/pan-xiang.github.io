@@ -28,21 +28,41 @@ Selected Publications
 
 † indicates equal contribution; * indicates equal contribution; -->
 
-# Selected Publications
-
 <div class="publications">
 
   <div class="pub-item">
-    <h3>Leveraging Symmetries in Pick and Place</h3>
-    <p><strong>Authors:</strong> Haojie Huang, <strong>Dian Wang</strong>, Arsh Tangri, Robin Walters<sup>†</sup>, Robert Platt<sup>†</sup></p>
-    <p><em>The International Journal of Robotics Research, 2023</em></p>
+    <h3>Communicating Physical Properties through Robot Object Manipulation</h3>
+    <p><strong>Authors:</strong> Xiang Pan *, Malcolm Doering, Stela H. Seo, and Takayuki Kanda</p>
+    <p><em>ACM/IEEE International Conference on Human-Robot Interaction, 2025</em></p>
+    <p>Top HRI conference, 25% acceptance rate (100/400)</p>
     <div class="links">
       <a href="files/HRI2025.pdf" class="button" target="_blank">PDF</a>
-      <a href="files/HRI2024.mp4" class="button" target="_blank">Code</a>
     </div>
   </div>
 
+  <div class="pub-item">
+    <h3>What Is Your Other Hand Doing, Robot? A Model of Behavior for Shopkeeper Robot's Idle Hand</h3>
+    <p><strong>Authors:</strong> Xiang Pan *, Malcolm Doering, and Takayuki Kanda</p>
+    <p><em>ACM/IEEE International Conference on Human-Robot Interaction, pp. 552-560, 2024</em></p>
+    <p>Top HRI conference, 24.7% acceptance rate (87/352)</p>
+    <div class="links">
+      <a href="files/HRI2024.pdf" class="button" target="_blank">PDF</a>
+    </div>
+  </div>
+
+  <div class="pub-item">
+    <h3>Efficient Barcode Localization Method for Low-Quality Images</h3>
+    <p><strong>Authors:</strong> Xiang Pan, Dong Li, Weijia Wu, and Hong Zhou *</p>
+    <p><em>International Conference on Graphics and Signal Processing, pp. 1-7, 2019</em></p>
+    <div class="links">
+      <a href="files/ICGSP2019.pdf" class="button" target="_blank">PDF</a>
+    </div>
+  </div>
+
+  <p>† indicates equal contribution; * indicates equal contribution;</p>
+
 </div>
+
 
 
 Service
