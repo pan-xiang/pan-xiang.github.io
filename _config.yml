@@ -21,7 +21,7 @@ repository               : "pan-xiang/pan-xiang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "xiangpan.jpg"
+  avatar           : "xiang.png"
   name             : "Xiang Pan"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate at Kyoto University"
@@ -34,7 +34,7 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : # "http://orcid.org/0000-0002-3483-4578"
+  orcid            : "http://orcid.org/0000-0002-3483-4578"
   semantic         : # URL
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
