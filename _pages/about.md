@@ -53,7 +53,7 @@ Selected Publications
     </div>
   </div>
 
-  <p>† indicates equal contribution; * indicates equal contribution;</p>
+  <p>* indicates contact author</p>
 
 </div>
 
