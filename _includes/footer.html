@@ -25,10 +25,20 @@
 </div>
 
 <!-- Busuanzi 访问统计 -->
-<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-<div>
-  Total visits：<span id="busuanzi_value_site_pv"></span> 次
+<div id="statistics-container">
+  <p>🚀 Total Visits：<span id="busuanzi_value_site_pv"></span> 次</p>
 </div>
-<div>
-  Total visits：<span id="busuanzi_value_site_uv"></span> 人
-</div>
+
+<!-- CSS 样式 -->
+<style>
+  #statistics-container {
+    text-align: center; /* 文字居中 */
+    font-size: 14px; /* 字体大小 */
+    color: #555; /* 字体颜色 */
+    margin-top: 20px; /* 顶部间距 */
+    line-height: 1.6; /* 行间距 */
+  }
+  #statistics-container p {
+    margin: 0; /* 去掉段落默认的上下边距 */
+  }
+</style>
