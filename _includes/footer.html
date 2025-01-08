@@ -19,27 +19,37 @@
 </div>
 {% endif %}
 
-<div class="page__footer-copyright">
+<!-- <div class="page__footer-copyright">
   &copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}, {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://github.com/academicpages/academicpages.github.io">AcademicPages</a>, a fork of <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.<br />
-  <!-- Site last updated {{ "now" | date: '%Y-%m-%d' %}} -->
-</div>
+  Site last updated {{ "now" | date: '%Y-%m-%d' %}}
+</div> -->
 
-<!-- Busuanzi Statistics -->
-<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+<!-- Statistics Container -->
 <div id="statistics-container">
-  🚀 Total visits: <span id="busuanzi_value_site_pv"></span> | 
-  👥 Total visitors: <span id="busuanzi_value_site_uv"></span>
+  <div class="footer-text">
+    &copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}, {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} 
+    <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; 
+    <a href="https://github.com/academicpages/academicpages.github.io">AcademicPages</a>, a fork of 
+    <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.
+  </div>
+  <div class="statistics">
+    🚀 Total visits: <span id="busuanzi_value_site_pv"></span> | 
+    👥 Total visitors: <span id="busuanzi_value_site_uv"></span>
+  </div>
 </div>
 
 <!-- CSS Styles -->
 <style>
   #statistics-container {
-    display: flex; /* Use flexbox for layout */
-    justify-content: center; /* Center the content */
-    align-items: center; /* Vertically align items */
+    text-align: center; /* Center the text */
     font-size: 12px; /* Adjust font size */
-    color: #f9f9f9; /* Set text color */
-    margin-top: 20px; /* Add margin above */
-    gap: 10px; /* Space between elements */
+    color: #555; /* Set text color */
+    margin-top: 20px; /* Add some margin above the container */
+  }
+  #statistics-container .footer-text {
+    margin-bottom: 10px; /* Add space below the footer text */
+  }
+  #statistics-container .statistics {
+    margin-top: 10px; /* Add space above the statistics section */
   }
 </style>
