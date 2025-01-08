@@ -1,4 +1,4 @@
-{% include base_path %}
+<!-- {% include base_path %}
 
 {% if site.author.github or site.author.bitbucket or site.atom_feed.hide != true %}
 <div class="page__footer-follow">
@@ -17,31 +17,30 @@
     {% endif %}
   </ul>
 </div>
-{% endif %}
+{% endif %} -->
 
 <!-- <div class="page__footer-copyright">
   &copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}, {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://github.com/academicpages/academicpages.github.io">AcademicPages</a>, a fork of <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.<br />
   Site last updated {{ "now" | date: '%Y-%m-%d' %}}
 </div> -->
 
-<!-- Busuanzi 访问统计 -->
+<!-- Busuanzi Statistics -->
 <div id="statistics-container">
   &copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}, {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://github.com/academicpages/academicpages.github.io">AcademicPages</a>, a fork of <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.<br />
   Site last updated {{ "now" | date: '%Y-%m-%d' %}}
-
-  <p>🚀 Total visits: <span id="busuanzi_value_site_pv"></span>, 👥 Total visitors: <span id="busuanzi_value_site_uv"></span></p>
+  🚀 Total visits: <span id="busuanzi_value_site_pv"></span> | 
+  👥 Total visitors: <span id="busuanzi_value_site_uv"></span>
 </div>
 
-<!-- CSS 样式 -->
+<!-- CSS Styles -->
 <style>
   #statistics-container {
-    text-align: center; /* 文字居中 */
-    font-size: 14px; /* 字体大小 */
-    color: #555; /* 字体颜色 */
-    margin-top: 20px; /* 顶部间距 */
-    line-height: 1.6; /* 行间距 */
-  }
-  #statistics-container p {
-    margin: 0; /* 去掉段落默认的上下边距 */
+    display: flex; /* Use flexbox for layout */
+    justify-content: center; /* Center the content */
+    align-items: center; /* Vertically align items */
+    font-size: 14px; /* Adjust font size */
+    color: #555; /* Set text color */
+    margin-top: 20px; /* Add margin above */
+    gap: 10px; /* Space between elements */
   }
 </style>
