@@ -1,4 +1,4 @@
-{% include base_path %}
+<!-- {% include base_path %}
 
 {% if site.author.github or site.author.bitbucket or site.atom_feed.hide != true %}
 <div class="page__footer-follow">
@@ -17,17 +17,16 @@
     {% endif %}
   </ul>
 </div>
-{% endif %}
+{% endif %} -->
 
-<!-- <div class="page__footer-copyright">
+<div class="page__footer-copyright">
   &copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}, {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://github.com/academicpages/academicpages.github.io">AcademicPages</a>, a fork of <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.<br />
-  Site last updated {{ "now" | date: '%Y-%m-%d' %}}
-</div> -->
+  <!-- Site last updated {{ "now" | date: '%Y-%m-%d' %}} -->
+</div>
 
 <!-- Busuanzi Statistics -->
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 <div id="statistics-container">
-  &copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}, {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://github.com/academicpages/academicpages.github.io">AcademicPages</a>, a fork of <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.
   🚀 Total visits: <span id="busuanzi_value_site_pv"></span> | 
   👥 Total visitors: <span id="busuanzi_value_site_uv"></span>
 </div>
@@ -40,7 +39,7 @@
     align-items: center; /* Vertically align items */
     font-size: 12px; /* Adjust font size */
     color: #555; /* Set text color */
-    margin-top: 20px; /* Add margin above */
+    margin-top: 10px; /* Add margin above */
     gap: 20px; /* Space between elements */
   }
 </style>
