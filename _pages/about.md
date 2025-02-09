@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I am a PhD candidate in the [gradudate school of Informatics](https://www.i.kyoto-u.ac.jp/en/) at [Kyoto University](https://www.kyoto-u.ac.jp/en), funded by the Japanese Government (MEXT) Scholarship. I am working in the [Human-Robot Interaction Lab](https://www.robot.soc.i.kyoto-u.ac.jp/en/), supervised by Prof. [Takayuki Kanda](https://scholar.google.com/citations?hl=en&user=BL9EACgAAAAJ). My research mainly focuses on human-robot interaction, and social robotics.
+I am a PhD candidate in the [gradudate school of Informatics](https://www.i.kyoto-u.ac.jp/en/) at [Kyoto University](https://www.kyoto-u.ac.jp/en), supported by the Japanese Government (MEXT) Scholarship. I conducte research in the [Human-Robot Interaction Lab](https://www.robot.soc.i.kyoto-u.ac.jp/en/) under the supervision of Prof. [Takayuki Kanda](https://scholar.google.com/citations?hl=en&user=BL9EACgAAAAJ). My research mainly focuses on human-robot interaction, and social robotics.
 
 
 Selected Publications 
@@ -65,10 +65,10 @@ Journal Reviewer: Electronics Letters
 
 Selected Awards
 ======
-- Outstanding Graduate of Zhejiang University, 2020
-- Outstanding Graduate Student Leader of Zhejiang University, 2018
-- Outstanding Graduate of Anhui Provice, 2017
-- “Youth May Fourth Medal” of Anhui University of Technology, 2017 (Highest Honor for Undergraduate Students)
+- Outstanding Graduate, Zhejiang University, 2020
+- Outstanding Graduate Student Leader, Zhejiang University, 2018
+- Outstanding Graduate, Anhui Provice, 2017
+- Youth May Fourth Medal, Anhui University of Technology, 2017 (Highest Honor for Undergraduate Students)
 
 
 Education
