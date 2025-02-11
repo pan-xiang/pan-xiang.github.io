@@ -11,7 +11,7 @@ redirect_from:
 I am a PhD candidate in the [gradudate school of Informatics](https://www.i.kyoto-u.ac.jp/en/) at [Kyoto University](https://www.kyoto-u.ac.jp/en), supported by the Japanese Government (MEXT) Scholarship. I conduct research in the [Human-Robot Interaction Lab](https://www.robot.soc.i.kyoto-u.ac.jp/en/) under the supervision of Prof. [Takayuki Kanda](https://scholar.google.com/citations?hl=en&user=BL9EACgAAAAJ). My research mainly focuses on human-robot interaction, and social robotics.
 
 
-# Selected Publications 
+# 📚 Selected Publications 
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -56,10 +56,9 @@ I am a PhD candidate in the [gradudate school of Informatics](https://www.i.kyot
 </div>
 
 
-# Academic Service
+# 📌 Academic Service
 
 ## Conference Reviewer  
-📌 **Reviewed for the following conferences:**  
 - **ACM CHI** (Conference on Human Factors in Computing Systems), 2023  
 - **IEEE RO-MAN** (International Conference on Robot and Human Interactive Communication), 2024  
 - **HAI** (International Conference on Human-Agent Interaction), 2024  
@@ -68,7 +67,6 @@ I am a PhD candidate in the [gradudate school of Informatics](https://www.i.kyot
 - **ACM IDC** (Interaction Design and Children Conference), 2025  
 
 ## Journal Reviewer  
-📖 **Reviewed for:**  
 - **Electronics Letters**  
 
 ---
@@ -84,9 +82,12 @@ I am a PhD candidate in the [gradudate school of Informatics](https://www.i.kyot
 
 # 🎓 Education  
 
-| Period           | Degree  | Institution                            | Location        |
-|-----------------|---------|----------------------------------------|----------------|
-| **2022.4 - Present** | Ph.D.    | Kyoto University                     | Kyoto, Japan   |
-| **2017.9 - 2020.6** | M.S.     | Zhejiang University                   | Hangzhou, China |
-| **2013.9 - 2017.7** | B.S.     | Anhui University of Technology        | Ma'anshan, China |
+- **Kyoto University** (2022.4 - Present)  
+  *Ph.D. Student, Kyoto, Japan*  
+
+- **Zhejiang University** (2017.9 - 2020.6)  
+  *M.S., Hangzhou, China*  
+
+- **Anhui University of Technology** (2013.9 - 2017.7)  
+  *B.S., Ma’anshan, China*  
 
