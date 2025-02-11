@@ -11,7 +11,8 @@ redirect_from:
 I am a PhD candidate in the [gradudate school of Informatics](https://www.i.kyoto-u.ac.jp/en/) at [Kyoto University](https://www.kyoto-u.ac.jp/en), supported by the Japanese Government (MEXT) Scholarship. I conduct research in the [Human-Robot Interaction Lab](https://www.robot.soc.i.kyoto-u.ac.jp/en/) under the supervision of Prof. [Takayuki Kanda](https://scholar.google.com/citations?hl=en&user=BL9EACgAAAAJ). My research mainly focuses on human-robot interaction, and social robotics.
 
 
-# 📚 Selected Publications 
+
+# 📌 Selected Publications 
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -56,31 +57,32 @@ I am a PhD candidate in the [gradudate school of Informatics](https://www.i.kyot
 </div>
 
 
+
 # 📌 Academic Service
 
 ## Conference Reviewer  
-- **ACM CHI** (Conference on Human Factors in Computing Systems), 2023  
-- **IEEE RO-MAN** (International Conference on Robot and Human Interactive Communication), 2024  
-- **HAI** (International Conference on Human-Agent Interaction), 2024  
-- **ACM/IEEE HRI** (International Conference on Human-Robot Interaction), 2025  
-- **ACM DIS** (Conference on Designing Interactive Systems), 2025  
-- **ACM IDC** (Interaction Design and Children Conference), 2025  
+- **ACM CHI** (Conference on Human Factors in Computing Systems): 2023  
+- **IEEE RO-MAN** (International Conference on Robot and Human Interactive Communication): 2024  
+- **HAI** (International Conference on Human-Agent Interaction): 2024  
+- **ACM/IEEE HRI** (International Conference on Human-Robot Interaction): 2025  
+- **ACM DIS** (Conference on Designing Interactive Systems): 2025  
+- **ACM IDC** (Interaction Design and Children Conference): 2025  
 
 ## Journal Reviewer  
 - **Electronics Letters**  
 
----
 
-# 🏆 Selected Awards  
+
+# 📌 Selected Awards  
 
 - **Outstanding Graduate**, Zhejiang University, 2020  
 - **Outstanding Graduate Student Leader**, Zhejiang University, 2018  
 - **Outstanding Graduate**, Anhui Province, 2017  
 - **Youth May Fourth Medal**, Anhui University of Technology, 2017 *(Highest Honor for Undergraduate Students)*  
 
----
 
-# 🎓 Education  
+
+# 📌 Education  
 
 - **Kyoto University** (2022.4 - Present)  
   *Ph.D. Student, Kyoto, Japan*  
