@@ -12,7 +12,6 @@ I am a PhD candidate in the [gradudate school of Informatics](https://www.i.kyot
 
 
 # Selected Publications 
-======
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -58,29 +57,36 @@ I am a PhD candidate in the [gradudate school of Informatics](https://www.i.kyot
 
 
 # Academic Service
+
 ## Conference Reviewer  
-- **ACM Conference on Human Factors in Computing Systems (CHI)**: 2023  
-- **IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)**: 2024  
-- **International Conference on Human-Agent Interaction (HAI)**: 2024  
-- **ACM/IEEE International Conference on Human-Robot Interaction (HRI)**: 2025  
-- **ACM Conference on Designing Interactive Systems (DIS)**: 2025  
-- **ACM Interaction Design and Children Conference (IDC)**: 2025  
+📌 **Reviewed for the following conferences:**  
+- **ACM CHI** (Conference on Human Factors in Computing Systems), 2023  
+- **IEEE RO-MAN** (International Conference on Robot and Human Interactive Communication), 2024  
+- **HAI** (International Conference on Human-Agent Interaction), 2024  
+- **ACM/IEEE HRI** (International Conference on Human-Robot Interaction), 2025  
+- **ACM DIS** (Conference on Designing Interactive Systems), 2025  
+- **ACM IDC** (Interaction Design and Children Conference), 2025  
 
 ## Journal Reviewer  
+📖 **Reviewed for:**  
 - **Electronics Letters**  
 
+---
 
-# Selected Awards
-======
-- Outstanding Graduate, Zhejiang University, 2020
-- Outstanding Graduate Student Leader, Zhejiang University, 2018
-- Outstanding Graduate, Anhui Provice, 2017
-- Youth May Fourth Medal, Anhui University of Technology, 2017 (Highest Honor for Undergraduate Students)
+# 🏆 Selected Awards  
 
+- **Outstanding Graduate**, Zhejiang University, 2020  
+- **Outstanding Graduate Student Leader**, Zhejiang University, 2018  
+- **Outstanding Graduate**, Anhui Province, 2017  
+- **Youth May Fourth Medal**, Anhui University of Technology, 2017 *(Highest Honor for Undergraduate Students)*  
 
-# Education
-======
-- (2022.4-Present) PhD student, Kyoto University, Kyoto, Japan
-- (2017.9-2020.6) M.S, Zhejiang University, Hangzhou, China
-- (2013.9-2017.7) B.S, Anhui University of Technology, Maanshan, China
+---
+
+# 🎓 Education  
+
+| Period           | Degree  | Institution                            | Location        |
+|-----------------|---------|----------------------------------------|----------------|
+| **2022.4 - Present** | Ph.D.    | Kyoto University                     | Kyoto, Japan   |
+| **2017.9 - 2020.6** | M.S.     | Zhejiang University                   | Hangzhou, China |
+| **2013.9 - 2017.7** | B.S.     | Anhui University of Technology        | Ma'anshan, China |
 
