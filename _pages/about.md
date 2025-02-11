@@ -75,10 +75,10 @@ I am a PhD candidate in the [gradudate school of Informatics](https://www.i.kyot
 
 # 📌 Selected Awards  
 
-- **Outstanding Graduate**, Zhejiang University, 2020  
-- **Outstanding Graduate Student Leader**, Zhejiang University, 2018  
-- **Outstanding Graduate**, Anhui Province, 2017  
-- **Youth May Fourth Medal**, Anhui University of Technology, 2017 *(Highest Honor for Undergraduate Students)*  
+- Outstanding Graduate, Zhejiang University, 2020  
+- Outstanding Graduate Student Leader, Zhejiang University, 2018  
+- Outstanding Graduate, Anhui Province, 2017  
+- Youth May Fourth Medal, Anhui University of Technology, 2017 *(Highest Honor for Undergraduate Students)*  
 
 
 
