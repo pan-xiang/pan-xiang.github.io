@@ -19,22 +19,14 @@
 </div>
 {% endif %} -->
 
-<div style="text-align: center;">
-  <div style="font-size: 18px; font-weight: bold; margin-bottom: 5px;">
-      <span id="total-pageviews">Loading...</span> Total Pageviews
-  </div>
-
-  <script type="text/javascript" id="clustrmaps" 
-      src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=324&t=tt&d=0fLFhVUo_NwdYn7Bxkf3b5mVEK5UCitEC2XJY1eqdro">
-  </script>
-
-</div>
-
 <div class="page__footer-copyright">
   &copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}, {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://github.com/academicpages/academicpages.github.io">AcademicPages</a>, a fork of <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.<br />
   <!-- Site last updated {{ "now" | date: '%Y-%m-%d' %}} -->
 </div>
 
+<div style="width: 300px; height: auto; overflow: hidden;">
+  <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=324&t=tt&d=0fLFhVUo_NwdYn7Bxkf3b5mVEK5UCitEC2XJY1eqdro"></script>
+</div>
 
 <!-- Busuanzi Statistics -->
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
