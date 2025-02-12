@@ -61,7 +61,7 @@ I am a PhD candidate in the [gradudate school of Informatics](https://www.i.kyot
 
 # 📌 Academic Service
 ---
-## Conference Reviewer  
+- ## Conference Reviewer  
 - **ACM CHI** (Conference on Human Factors in Computing Systems): 2023  
 - **IEEE RO-MAN** (International Conference on Robot and Human Interactive Communication): 2024  
 - **HAI** (International Conference on Human-Agent Interaction): 2024  
@@ -69,7 +69,7 @@ I am a PhD candidate in the [gradudate school of Informatics](https://www.i.kyot
 - **ACM DIS** (Conference on Designing Interactive Systems): 2025  
 - **ACM IDC** (Interaction Design and Children Conference): 2025  
 
-## Journal Reviewer  
+- ## Journal Reviewer  
 - **Electronics Letters**  
 
 
