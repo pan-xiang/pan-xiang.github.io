@@ -62,17 +62,18 @@ I am a PhD candidate in the [gradudate school of Informatics](https://www.i.kyot
 # 📌 Academic Service
 ---
 - ## Conference Reviewer  
-- **ACM CHI** (Conference on Human Factors in Computing Systems): 2023  
-- **IEEE RO-MAN** (International Conference on Robot and Human Interactive Communication): 2024  
-- **HAI** (International Conference on Human-Agent Interaction): 2024  
-- **ACM/IEEE HRI** (International Conference on Human-Robot Interaction): 2025  
-- **ACM DIS** (Conference on Designing Interactive Systems): 2025  
-- **ACM IDC** (Interaction Design and Children Conference): 2025  
+  - **CHI** (ACM Conference on Human Factors in Computing Systems): 2023  
+  - **RO-MAN** (IEEE International Conference on Robot and Human Interactive Communication): 2024  
+  - **HAI** (International Conference on Human-Agent Interaction): 2024  
+  - **HRI** (ACM/IEEE International Conference on Human-Robot Interaction): 2025  
+  - **DIS** (ACM Conference on Designing Interactive Systems): 2025  
+  - **IDC** (ACM Interaction Design and Children Conference): 2025  
 
 - ## Journal Reviewer  
-- **Electronics Letters**  
+  - **Electronics Letters**  
 
-
+- ## Student Volunteer
+  - **IROS** (IEEE/RSJ International Conference on Intelligent Robots and Systems): 2022   
 
 # 📌 Selected Awards  
 ---
