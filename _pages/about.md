@@ -12,7 +12,7 @@ I am a PhD candidate in the [gradudate school of Informatics](https://www.i.kyot
 
 
 
-# 📌 Selected Publications 
+# Selected Publications 
 ---
 <head>
   <meta charset="UTF-8">
@@ -59,7 +59,7 @@ I am a PhD candidate in the [gradudate school of Informatics](https://www.i.kyot
 
 
 
-# 📌 Academic Service
+# Academic Service
 ---
 - ## Conference Reviewer  
   - **CHI** (ACM Conference on Human Factors in Computing Systems): 2023  
@@ -75,7 +75,7 @@ I am a PhD candidate in the [gradudate school of Informatics](https://www.i.kyot
 - ## Student Volunteer
   - **IROS** (IEEE/RSJ International Conference on Intelligent Robots and Systems): 2022   
 
-# 📌 Selected Awards  
+# Selected Awards  
 ---
 - Outstanding Graduate, Zhejiang University, 2020  
 - Outstanding Graduate Student Leader, Zhejiang University, 2018  
@@ -84,7 +84,7 @@ I am a PhD candidate in the [gradudate school of Informatics](https://www.i.kyot
 
 
 
-# 📌 Education  
+# Education  
 ---
 - **Kyoto University** (2022.4 - Present)  
   *Ph.D. Student, Kyoto, Japan*  
