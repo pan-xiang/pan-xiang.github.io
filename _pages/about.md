@@ -68,6 +68,7 @@ I am a PhD candidate in the [gradudate school of Informatics](https://www.i.kyot
   - **HRI** (ACM/IEEE International Conference on Human-Robot Interaction): 2025  
   - **DIS** (ACM Conference on Designing Interactive Systems): 2025  
   - **IDC** (ACM Interaction Design and Children Conference): 2025  
+  - **WHC** (IEEE World Haptics Conference): 2025  
 
 - ## Journal Reviewer  
   - **Electronics Letters**  
