@@ -21,7 +21,7 @@ repository               : "pan-xiang/pan-xiang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "me.png"
+  avatar           : "xiang.png"
   name             : "Xiang Pan"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate at Kyoto University"
