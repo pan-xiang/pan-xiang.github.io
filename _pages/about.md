@@ -69,6 +69,7 @@ I am a Ph.D. candidate in the [Gradudate school of Informatics](https://www.i.ky
   - **DIS** (ACM Conference on Designing Interactive Systems): 2025  
   - **IDC** (ACM Interaction Design and Children Conference): 2025  
   - **WHC** (IEEE World Haptics Conference): 2025  
+  - **INTERACT** (IFIP TC13 International Conference on Human-Computer Interaction): 2025  
 
 - ## Journal Reviewer  
   - **Electronics Letters**  
