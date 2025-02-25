@@ -4,57 +4,44 @@
  * Purpose: Styling for the publications page, including buttons, layout, and typography.
  */
 
-.publications {
-    font-family: Arial, sans-serif;
-    margin-top: 20px;
-  }
-  
-  .pub-item {
-    margin-bottom: 20px;
-    padding: 10px;
-    border-left: 3px solid #00FFFF; /* 左侧蓝色边框 */
-    background-color: #f9f9f9; /* 背景颜色 */
-    border-radius: 5px;
-  }
-  
-  .pub-item h3 {
-    font-size: 1.2em;
-    margin: 0 0 5px;
-    color: #333;
-  }
-  
-  .pub-item p {
-    margin: 5px 0;
-    font-size: 0.9em;
-    color: #555;
-  }
-  
-  .pub-item em {
-    font-style: italic;
-    color: #777;
-  }
-  
-  .links {
-    margin-top: 10px;
-  }
-  
-  .button {
-    display: inline-block;
-    padding: 8px 16px; /* 按钮内部的间距 */
-    background-color: white; /* 背景颜色为白色 */
-    color: #333; /* 文字颜色为深灰色或黑色 */
-    text-decoration: none; /* 去掉下划线 */
-    border: 1px solid #ccc; /* 浅灰色边框 */
-    border-radius: 10px; /* 圆角设置 */
-    font-size: 0.9em; /* 字体大小 */
-    font-weight: bold; /* 字体加粗 */
-    text-align: center; /* 文本居中 */
-    transition: all 0.3s ease; /* 增加过渡效果 */
-  }
-  
-  .button:hover {
-    background-color: #f0f0f0; /* 鼠标悬浮时的背景颜色（浅灰） */
-    border-color: #999; /* 悬浮时边框颜色加深 */
-    color: #000; /* 文字颜色加深 */
-  }
-  
+ <style>
+ /* 仅做核心调整 */
+ .pub-item h3 {
+   text-align: justify; /* 两端对齐 */
+   margin: 0 0 10px;
+ }
+
+ /* 保持标题颜色与悬浮效果 */
+ .pub-item h3 a {
+   text-decoration: none;
+   color: black;
+ }
+
+ .pub-item h3 a:hover {
+   text-decoration: underline;
+   color: #007BFF; /* 悬浮时变蓝 */
+ }
+
+ /* 增加上下间距让排版更整齐 */
+ .pub-item {
+   margin-bottom: 20px;
+   padding: 10px;
+   border: 1px solid #ddd;
+   border-radius: 5px;
+ }
+
+ /* 稍微优化按钮 */
+ .button {
+   display: inline-block;
+   padding: 5px 10px;
+   background-color: #00bcd4;
+   color: white;
+   text-decoration: none;
+   border-radius: 4px;
+   transition: background-color 0.3s ease;
+ }
+
+ .button:hover {
+   background-color: #0097a7;
+ }
+</style>
