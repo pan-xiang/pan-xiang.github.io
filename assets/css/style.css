@@ -14,21 +14,15 @@
     margin-bottom: 10px;                 /* 每个条目之间的间距 */
     padding: 10px;
     border-left: 3px solid #9ed1e0;    /* 左侧蓝色边框 */
-    background-color: #f9f9f9;         /* 背景颜色 */
+    background-color: #fff;         /* 背景颜色 */
     border-radius: 5px;
   }
   
   /* 通用标题样式（无论是否有超链接） */
   .pub-item h3 {
     font-size: 1.2em;                    /* 略微加大标题字体 */
-    color: #333;                       /* 黑色字体 */
+    color: #555;                       /* 黑色字体 */
     margin: 0 0 5px;
-  }
-
-  /* 悬浮状态下：保持蓝色且无下划线 */
-  .pub-item h3 a:hover {
-    color: #9ed1e0;               /* 悬浮时变色 */
-    text-decoration: none;          /* 仍无下划线 */
   }
 
   .pub-item p {
@@ -49,8 +43,8 @@
   .button {
     display: inline-block;
     padding: 4px 10px;                  /* 按钮内部的间距 */
-    background-color: white;          /* 背景颜色为白色 */
-    color: #333;                      /* 文字颜色为深灰色或黑色 */
+    background-color: #fff;           /* 背景颜色为白色 */
+    color: #555;                      /* 文字颜色为深灰色或黑色 */
     text-decoration: none;              /* 去掉下划线 */
     border: 1px solid #ccc;           /* 浅灰色边框 */
     border-radius: 5px;                 /* 圆角设置 */
