@@ -11,30 +11,29 @@
   }
   
   .pub-item {
-    margin-bottom: 10px;    /* 每个条目之间的间距 */
+    margin-bottom: 10px;                 /* 每个条目之间的间距 */
     padding: 10px;
     border-left: 3px solid #5A9BD5;    /* 左侧蓝色边框 */
-    background-color: #f9f9f9;      /* 背景颜色 */
+    background-color: #f9f9f9;         /* 背景颜色 */
     border-radius: 5px;
   }
   
-  .pub-item h3 a {
+  .pub-item h3{
     font-size: 1.2em; 
-    margin: 0 0 5px;
     color: #333;
   }
 
   /* 正常状态下：黑色、无下划线 */
   .pub-item h3 a {
-    font-size: 1.2em; 
+    font-size: 1.2em;            /* 略微加大标题字体 */
     color: #333;               /* 黑色字体 */
-    text-decoration: none;      /* 去掉下划线 */
+    text-decoration: none;       /* 去掉下划线 */
   }
 
   /* 悬浮状态下：保持黑色且无下划线 */
   .pub-item h3 a:hover {
     color: #5A9BD5;               /* 悬浮时仍保持黑色 */
-    text-decoration: none;      /* 悬浮时无下划线 */
+    text-decoration: none;          /* 悬浮时无下划线 */
   }
 
   .pub-item p {
@@ -54,21 +53,21 @@
   
   .button {
     display: inline-block;
-    padding: 8px 16px; /* 按钮内部的间距 */
-    background-color: white; /* 背景颜色为白色 */
-    color: #333; /* 文字颜色为深灰色或黑色 */
-    text-decoration: none; /* 去掉下划线 */
-    border: 1px solid #ccc; /* 浅灰色边框 */
-    border-radius: 10px; /* 圆角设置 */
-    font-size: 0.9em; /* 字体大小 */
-    font-weight: bold; /* 字体加粗 */
-    text-align: center; /* 文本居中 */
-    transition: all 0.3s ease; /* 增加过渡效果 */
+    padding: 8px 16px;                  /* 按钮内部的间距 */
+    background-color: white;          /* 背景颜色为白色 */
+    color: #333;                      /* 文字颜色为深灰色或黑色 */
+    text-decoration: none;              /* 去掉下划线 */
+    border: 1px solid #ccc;           /* 浅灰色边框 */
+    border-radius: 10px;                /* 圆角设置 */
+    font-size: 0.9em;                   /* 字体大小 */
+    font-weight: bold;                  /* 字体加粗 */
+    text-align: center;                 /* 文本居中 */
+    transition: all 0.3s ease;          /* 增加过渡效果 */
   }
   
   .button:hover {
-    background-color: #f0f0f0; /* 鼠标悬浮时的背景颜色（浅灰） */
-    border-color: #999; /* 悬浮时边框颜色加深 */
-    color: #000; /* 文字颜色加深 */
+    background-color: #f0f0f0;        /* 鼠标悬浮时的背景颜色（浅灰） */
+    border-color: #999;               /* 悬浮时边框颜色加深 */
+    color: #000;                      /* 文字颜色加深 */
   }
   
