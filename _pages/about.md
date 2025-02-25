@@ -34,7 +34,7 @@ I am a Ph.D. candidate in the [Gradudate School of Informatics](https://www.i.ky
 
   <div class="pub-item">
     <h3>
-      <a href="https://dl.acm.org/doi/10.1145/3610977.3634986" target="_blank" style="color: black">What Is Your Other Hand Doing, Robot? A Model of Behavior for Shopkeeper Robot's Idle Hand</a>
+      <a href="https://dl.acm.org/doi/10.1145/3610977.3634986" target="_blank">What Is Your Other Hand Doing, Robot? A Model of Behavior for Shopkeeper Robot's Idle Hand</a>
     </h3>
     <p><strong>Xiang Pan *</strong>, Malcolm Doering, and Takayuki Kanda</p>
     <p><em>ACM/IEEE International Conference on Human-Robot Interaction, Colorado, USA, 2024</em></p>
@@ -46,7 +46,7 @@ I am a Ph.D. candidate in the [Gradudate School of Informatics](https://www.i.ky
 
   <div class="pub-item">
     <h3>
-      <a href="https://dl.acm.org/doi/10.1145/3338472.3338474" target="_blank" style="color: black">Efficient Barcode Localization Method for Low-Quality Images</a>
+      <a href="https://dl.acm.org/doi/10.1145/3338472.3338474" target="_blank">Efficient Barcode Localization Method for Low-Quality Images</a>
     </h3>
     <p><strong>Xiang Pan</strong>, Dong Li, Weijia Wu, and Hong Zhou *</p>
     <p><em>International Conference on Graphics and Signal Processing, Hong Kong, China, 2019</em></p>
