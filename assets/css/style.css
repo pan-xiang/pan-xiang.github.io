@@ -50,12 +50,6 @@
   
   .links {
     margin-top: 10px;
-    text-decoration: none;            /* 去掉下划线 */
-  }
-
-  .links a:hover {
-    margin-top: 10px;
-    text-decoration: none;            /* 去掉下划线 */
   }
   
   .button {
