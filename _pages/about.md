@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I am a Ph.D. candidate in the [Gradudate school of Informatics](https://www.i.kyoto-u.ac.jp/en/) at [Kyoto University](https://www.kyoto-u.ac.jp/en), supported by the Japanese Government (MEXT) Scholarship. I conduct research in the [Human-Robot Interaction Lab](https://www.robot.soc.i.kyoto-u.ac.jp/en/) under the supervision of Prof. [Takayuki Kanda](https://scholar.google.com/citations?hl=en&user=BL9EACgAAAAJ). My research mainly focuses on human-robot interaction, and social robotics.
+I am a Ph.D. candidate in the [Gradudate School of Informatics](https://www.i.kyoto-u.ac.jp/en/) at [Kyoto University](https://www.kyoto-u.ac.jp/en), supported by the Japanese Government (MEXT) Scholarship. I conduct research in the [Human-Robot Interaction Lab](https://www.robot.soc.i.kyoto-u.ac.jp/en/) under the supervision of Prof. [Takayuki Kanda](https://scholar.google.com/citations?hl=en&user=BL9EACgAAAAJ). My research mainly focuses on human-robot interaction, and social robotics.
 
 
 
@@ -29,7 +29,6 @@ I am a Ph.D. candidate in the [Gradudate school of Informatics](https://www.i.ky
     <p>Top HRI conference, 25% acceptance rate (100/400)</p>
     <div class="links">
       <a href="files/HRI2025.pdf" class="button" target="_blank">Paper</a>
-      <!-- <a href="files/HRI2025.mp4" class="button" target="_blank">Video</a> -->
     </div>
   </div>
 
@@ -42,7 +41,6 @@ I am a Ph.D. candidate in the [Gradudate school of Informatics](https://www.i.ky
     <p>Top HRI conference, 24.7% acceptance rate (87/352)</p>
     <div class="links">
       <a href="files/HRI2024.pdf" class="button" target="_blank">Paper</a>
-      <!-- <a href="files/HRI2024.mp4" class="button" target="_blank">Video</a> -->
     </div>
   </div>
 
