@@ -64,11 +64,13 @@
     text-align: center;                 /* 文本居中 */
     transition: all 0.2s ease;          /* 增加过渡效果 */
     cursor: pointer;                    /* 鼠标悬浮时显示手型 */
+    text-decoration: none;              /* 去掉下划线 */
   }
   
   .button:hover {
     background-color: #f0f0f0;        /* 鼠标悬浮时的背景颜色（浅灰） */
     border-color: #999;               /* 悬浮时边框颜色加深 */
     color: #000;                      /* 文字颜色加深 */
+    text-decoration: none;              /* 悬浮时仍无下划线 */
   }
   
