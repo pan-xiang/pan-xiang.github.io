@@ -18,16 +18,17 @@
     border-radius: 5px;
   }
   
-  .pub-item h3 {
-    /* font-size: 1.2em; */
-    /* margin: 0 0 5px; */
-    color: #333;
-    text-decoration: none;
+
+  /* 正常状态下：黑色、无下划线 */
+  .pub-item h3 a {
+    color: #333;               /* 黑色字体 */
+    text-decoration: none;      /* 去掉下划线 */
   }
-  
+
+  /* 悬浮状态下：保持黑色且无下划线 */
   .pub-item h3 a:hover {
-    color: #00FFFF;            /* 悬浮时变色（可选） */
-    text-decoration: none;     /* 悬浮时也无下划线 */
+    color: #00FFFF;               /* 悬浮时仍保持黑色 */
+    text-decoration: none;      /* 悬浮时无下划线 */
   }
 
   .pub-item p {
