@@ -18,7 +18,6 @@
     border-radius: 5px;
   }
   
-  /* 通用标题样式（无论是否有超链接） */
   .pub-item h3 {
     font-size: 1.2em;                    /* 略微加大标题字体 */
     color: #555;                       /* 黑色字体 */
