@@ -29,23 +29,27 @@ I am a Ph.D. candidate in the [Gradudate school of Informatics](https://www.i.ky
     <p>Top HRI conference, 25% acceptance rate (100/400)</p>
     <div class="links">
       <a href="files/HRI2025.pdf" class="button" target="_blank">Paper</a>
-      <a href="files/HRI2025.mp4" class="button" target="_blank">Video</a>
+      <!-- <a href="files/HRI2025.mp4" class="button" target="_blank">Video</a> -->
     </div>
   </div>
 
   <div class="pub-item">
-    <h3>What Is Your Other Hand Doing, Robot? A Model of Behavior for Shopkeeper Robot's Idle Hand</h3>
+    <h3>
+      <a href="https://dl.acm.org/doi/10.1145/3610977.3634986" target="_blank">What Is Your Other Hand Doing, Robot? A Model of Behavior for Shopkeeper Robot's Idle Hand</a>
+    </h3>
     <p><strong>Xiang Pan *</strong>, Malcolm Doering, and Takayuki Kanda</p>
     <p><em>ACM/IEEE International Conference on Human-Robot Interaction, Colorado, USA, 2024</em></p>
     <p>Top HRI conference, 24.7% acceptance rate (87/352)</p>
     <div class="links">
       <a href="files/HRI2024.pdf" class="button" target="_blank">Paper</a>
-      <a href="files/HRI2024.mp4" class="button" target="_blank">Video</a>
+      <!-- <a href="files/HRI2024.mp4" class="button" target="_blank">Video</a> -->
     </div>
   </div>
 
   <div class="pub-item">
-    <h3>Efficient Barcode Localization Method for Low-Quality Images</h3>
+    <h3>
+      <a href="https://dl.acm.org/doi/10.1145/3338472.3338474" target="_blank">Efficient Barcode Localization Method for Low-Quality Images</a>
+    </h3>
     <p><strong>Xiang Pan</strong>, Dong Li, Weijia Wu, and Hong Zhou *</p>
     <p><em>International Conference on Graphics and Signal Processing, Hong Kong, China, 2019</em></p>
     <div class="links">
