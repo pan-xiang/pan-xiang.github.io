@@ -11,19 +11,22 @@
   }
   
   .pub-item {
-    margin-bottom: 20px;
-    padding: 10px;
+    margin-bottom: 5px;   /* 元素底部外边距 */
+    padding: 10px;        /* 元素内边距 */
     border-left: 3px solid #00FFFF; /* 左侧蓝色边框 */
     background-color: #f9f9f9; /* 背景颜色 */
-    border-radius: 5px;
+    border-radius: 5px;    /* 圆角边框 */
   }
   
   .pub-item h3 a {
+    font-size: 1.2em; 
+    margin: 0 0 5px;
     color: #333;
   }
 
   /* 正常状态下：黑色、无下划线 */
   .pub-item h3 a {
+    font-size: 1.2em; 
     color: #333;               /* 黑色字体 */
     text-decoration: none;      /* 去掉下划线 */
   }
