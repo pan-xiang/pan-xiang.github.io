@@ -13,8 +13,8 @@
   .pub-item {
     margin-bottom: 10px;                 /* 每个条目之间的间距 */
     padding: 10px;
-    border-left: 3px solid #92ccdc;    /* 左侧蓝色边框 */
-    background-color: #fff;         /* 背景颜色 */
+    border-left: 3px solid #9ed1e0;    /* 左侧蓝色边框 */
+    background-color: #f9f9f9;         /* 背景颜色 */
     border-radius: 5px;
   }
   
@@ -25,15 +25,9 @@
     margin: 0 0 5px;
   }
 
-  /* 有超链接的标题 */
-  .pub-item h3 a {
-    color: #333;                  /* 黑色字体 */
-    text-decoration: none;          /* 去掉下划线 */
-  }
-
   /* 悬浮状态下：保持蓝色且无下划线 */
   .pub-item h3 a:hover {
-    color: #54accc;               /* 悬浮时变色 */
+    color: #9ed1e0;               /* 悬浮时变色 */
     text-decoration: none;          /* 仍无下划线 */
   }
 
@@ -55,8 +49,9 @@
   .button {
     display: inline-block;
     padding: 4px 10px;                  /* 按钮内部的间距 */
-    background-color: #fff;           /* 背景颜色为白色 */
+    background-color: white;          /* 背景颜色为白色 */
     color: #333;                      /* 文字颜色为深灰色或黑色 */
+    text-decoration: none;              /* 去掉下划线 */
     border: 1px solid #ccc;           /* 浅灰色边框 */
     border-radius: 5px;                 /* 圆角设置 */
     font-size: 0.9em;                   /* 字体大小 */
@@ -64,7 +59,6 @@
     text-align: center;                 /* 文本居中 */
     transition: all 0.2s ease;          /* 增加过渡效果 */
     cursor: pointer;                    /* 鼠标悬浮时显示手型 */
-    text-decoration: none;              /* 去掉下划线 */
   }
   
   .button:hover {
