@@ -18,6 +18,9 @@
     border-radius: 5px;
   }
   
+  .pub-item h3 a {
+    color: #333;
+  }
 
   /* 正常状态下：黑色、无下划线 */
   .pub-item h3 a {
