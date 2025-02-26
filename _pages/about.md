@@ -38,7 +38,7 @@ I am a Ph.D. candidate in the [Gradudate School of Informatics](https://www.i.ky
     <p><em>ACM/IEEE International Conference on Human-Robot Interaction, Colorado, USA, 2024</em></p>
     <p>Top HRI conference, 24.7% acceptance rate (87/352)</p>
     <div class="links">
-      <a href="files/HRI2024.pdf" class="button" target="_blank">Paper</a>
+      <a href="https://web.archive.org/web/20240314200112id_/https://dl.acm.org/doi/pdf/10.1145/3610977.3634986" class="button" target="_blank">Paper</a>
       <a href="https://dl.acm.org/doi/10.1145/3610977.3634986" class="button" target="_blank">Page</a>
     </div>
   </div>
