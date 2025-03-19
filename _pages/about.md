@@ -13,7 +13,6 @@ I am a Ph.D. candidate in the [Gradudate School of Informatics](https://www.i.ky
 
 
 # Selected Publications 
----
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -59,7 +58,6 @@ I am a Ph.D. candidate in the [Gradudate School of Informatics](https://www.i.ky
 
 
 # Academic Service
----
 - ## Conference Reviewer  
   - ACM Conference on Human Factors in Computing Systems (CHI), 2023  
   - ACM/IEEE International Conference on Human-Robot Interaction (HRI), 2025  
@@ -77,7 +75,6 @@ I am a Ph.D. candidate in the [Gradudate School of Informatics](https://www.i.ky
   - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2022   
 
 # Selected Awards  
----
 - Outstanding Graduate, Zhejiang University, 2020  
 - Outstanding Graduate Student Leader, Zhejiang University, 2018  
 - Outstanding Graduate, Anhui Province, 2017  
@@ -86,7 +83,6 @@ I am a Ph.D. candidate in the [Gradudate School of Informatics](https://www.i.ky
 
 
 # Education  
----
 - **Kyoto University** (2022.4 - Present)  
   *Ph.D. Student, Kyoto, Japan*  
 
