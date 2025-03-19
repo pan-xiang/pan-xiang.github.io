@@ -26,7 +26,7 @@ I am a Ph.D. candidate in the [Gradudate School of Informatics](https://www.i.ky
     <h3>Communicating Physical Properties through Robot Object Manipulation</h3>
     <p><strong>Xiang Pan *</strong>, Malcolm Doering, Stela H. Seo, and Takayuki Kanda</p>
     <p><em>ACM/IEEE International Conference on Human-Robot Interaction, Melbourne, Australia, 2025</em></p>
-    <p>Top HRI conference, 25% acceptance rate (100/400)</p>
+    <p>Note: Top HRI conference, 25% acceptance rate (100/400)</p>
     <div class="links">
       <a href="files/HRI2025.pdf" class="button" target="_blank">Paper</a>
       <a href="https://dl.acm.org/doi/10.5555/3721488.3721579" class="button" target="_blank">Webpage</a>
@@ -37,7 +37,7 @@ I am a Ph.D. candidate in the [Gradudate School of Informatics](https://www.i.ky
     <h3>What Is Your Other Hand Doing, Robot? A Model of Behavior for Shopkeeper Robot's Idle Hand</h3>
     <p><strong>Xiang Pan *</strong>, Malcolm Doering, and Takayuki Kanda</p>
     <p><em>ACM/IEEE International Conference on Human-Robot Interaction, Colorado, USA, 2024</em></p>
-    <p>Top HRI conference, 24.7% acceptance rate (87/352)</p>
+    <p>Note: Top HRI conference, 24.7% acceptance rate (87/352)</p>
     <div class="links">
       <a href="https://web.archive.org/web/20240314200112id_/https://dl.acm.org/doi/pdf/10.1145/3610977.3634986" class="button" target="_blank">Paper</a>
       <a href="https://dl.acm.org/doi/10.1145/3610977.3634986" class="button" target="_blank">Webpage</a>
@@ -54,8 +54,6 @@ I am a Ph.D. candidate in the [Gradudate School of Informatics](https://www.i.ky
     </div>
   </div>
 
-  <p>* indicates contact author</p>
-
 </div>
 
 
@@ -64,13 +62,13 @@ I am a Ph.D. candidate in the [Gradudate School of Informatics](https://www.i.ky
 ---
 - ## Conference Reviewer  
   - ACM Conference on Human Factors in Computing Systems (CHI), 2023  
-  - IEEE International Conference on Robot and Human Interactive Communication (RO-MAN), 2024  
-  - International Conference on Human-Agent Interaction (HAI), 2024  
   - ACM/IEEE International Conference on Human-Robot Interaction (HRI), 2025  
   - ACM Conference on Designing Interactive Systems (DIS), 2025  
+  - IFIP TC13 International Conference on Human-Computer Interaction (INTERACT), 2025  
   - ACM Interaction Design and Children Conference (IDC), 2025  
   - IEEE World Haptics Conference (WHC), 2025  
-  - IFIP TC13 International Conference on Human-Computer Interaction (INTERACT), 2025  
+  - IEEE International Conference on Robot and Human Interactive Communication (RO-MAN), 2024  
+  - International Conference on Human-Agent Interaction (HAI), 2024  
 
 - ## Journal Reviewer  
   - Electronics Letters  

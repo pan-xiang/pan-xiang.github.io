@@ -11,7 +11,7 @@
   }
   
   .pub-item {
-    margin-bottom: 10px;                 /* 每个条目之间的间距 */
+    margin-bottom: 15px;                 /* 每个条目之间的间距 */
     padding: 10px;
     border-left: 3px solid #9ed1e0;    /* 左侧蓝色边框 */
     background-color: #fff;            /* 背景颜色 */
@@ -19,7 +19,6 @@
   }
   
   .pub-item h3 {
-    font-size: 1.2em;                    /* 略微加大标题字体 */
     color: #555;                       /* 黑色字体 */
     margin: 0 0 5px;
   }
