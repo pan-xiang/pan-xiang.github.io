@@ -58,7 +58,7 @@ I am a Ph.D. candidate in the [Gradudate School of Informatics](https://www.i.ky
 
 
 # Academic Service
-## Conference Reviewer  
+**Conference Reviewer**  
   - ACM Conference on Human Factors in Computing Systems (CHI), 2023  
   - ACM/IEEE International Conference on Human-Robot Interaction (HRI), 2025  
   - ACM Conference on Designing Interactive Systems (DIS), 2025  
@@ -68,10 +68,10 @@ I am a Ph.D. candidate in the [Gradudate School of Informatics](https://www.i.ky
   - IEEE International Conference on Robot and Human Interactive Communication (RO-MAN), 2024  
   - International Conference on Human-Agent Interaction (HAI), 2024  
 
-## Journal Reviewer  
+**Journal Reviewer**  
   - Electronics Letters  
 
-## Student Volunteer
+**Student Volunteer**
   - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2022   
 
 # Selected Awards  
