@@ -5,6 +5,10 @@
  * Purpose: Styling for the publications page, including buttons, layout, and typography.
  */
 
+ h2, h3, h4 {
+  border-bottom: none !important;
+}
+
 .publications {
     font-family: Arial, sans-serif;
     margin-top: 20px;
