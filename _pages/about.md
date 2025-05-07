@@ -28,7 +28,8 @@ I am a Ph.D. candidate in the [Gradudate School of Informatics](https://www.i.ky
     <p>Note: Top HRI conference, 25% acceptance rate (100/400)</p>
     <div class="links">
       <a href="files/HRI2025.pdf" class="button" target="_blank">Paper</a>
-      <a href="https://dl.acm.org/doi/10.5555/3721488.3721579" class="button" target="_blank">Link</a>
+      <a href="https://dl.acm.org/doi/10.5555/3721488.3721579" class="button" target="_blank">ACM</a>
+      <a href="https://ieeexplore.ieee.org/abstract/document/10973989" class="button" target="_blank">IEEE</a>
     </div>
   </div>
 
@@ -38,8 +39,9 @@ I am a Ph.D. candidate in the [Gradudate School of Informatics](https://www.i.ky
     <p><em>ACM/IEEE International Conference on Human-Robot Interaction, Colorado, USA, 2024</em></p>
     <p>Note: Top HRI conference, 24.7% acceptance rate (87/352)</p>
     <div class="links">
-      <a href="https://web.archive.org/web/20240314200112id_/https://dl.acm.org/doi/pdf/10.1145/3610977.3634986" class="button" target="_blank">Paper</a>
-      <a href="https://dl.acm.org/doi/10.1145/3610977.3634986" class="button" target="_blank">Link</a>
+      <a href="files/HRI2024.pdf" class="button" target="_blank">Paper</a>
+      <a href="https://dl.acm.org/doi/10.1145/3610977.3634986" class="button" target="_blank">ACM</a>
+      <a href="https://ieeexplore.ieee.org/abstract/document/10661005" class="button" target="_blank">ACM</a>
     </div>
   </div>
 
@@ -49,7 +51,7 @@ I am a Ph.D. candidate in the [Gradudate School of Informatics](https://www.i.ky
     <p><em>International Conference on Graphics and Signal Processing, Hong Kong, China, 2019</em></p>
     <div class="links">
       <a href="files/ICGSP2019.pdf" class="button" target="_blank">Paper</a>
-      <a href="https://dl.acm.org/doi/10.1145/3338472.3338474" class="button" target="_blank">Link</a>
+      <a href="https://dl.acm.org/doi/10.1145/3338472.3338474" class="button" target="_blank">ACM</a>
     </div>
   </div>
 
