@@ -41,7 +41,7 @@ I am a Ph.D. candidate in the [Gradudate School of Informatics](https://www.i.ky
     <div class="links">
       <a href="files/HRI2024.pdf" class="button" target="_blank">Paper</a>
       <a href="https://dl.acm.org/doi/10.1145/3610977.3634986" class="button" target="_blank">ACM</a>
-      <a href="https://ieeexplore.ieee.org/abstract/document/10661005" class="button" target="_blank">ACM</a>
+      <a href="https://ieeexplore.ieee.org/abstract/document/10661005" class="button" target="_blank">IEEE</a>
     </div>
   </div>
 
