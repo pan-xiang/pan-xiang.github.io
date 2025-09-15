@@ -8,8 +8,7 @@ redirect_from:
 ---
 
 
-I am a Ph.D. candidate in the [Gradudate School of Informatics](https://www.i.kyoto-u.ac.jp/en/) at [Kyoto University](https://www.kyoto-u.ac.jp/en), supported by the Japanese Government (MEXT) Scholarship. I conduct research in the [Human-Robot Interaction Lab](https://www.robot.soc.i.kyoto-u.ac.jp/en/) under the supervision of Prof. [Takayuki Kanda](https://scholar.google.com/citations?hl=en&user=BL9EACgAAAAJ). My research mainly focuses on human-robot interaction, and social robotics.
-
+I am a Ph.D. candidate in the [Gradudate School of Informatics](https://www.i.kyoto-u.ac.jp/en/) at [Kyoto University](https://www.kyoto-u.ac.jp/en), supported by the Japanese Government (MEXT) Scholarship. I conduct research in the [Human-Robot Interaction Lab](https://www.robot.soc.i.kyoto-u.ac.jp/en/) under the supervision of Prof. [Takayuki Kanda](https://scholar.google.com/citations?hl=en&user=BL9EACgAAAAJ). My research focuses on object-based, two-handed human-robot interaction, with the goal of enhancing the fluency and naturalness of robot behaviors in environments shared with humans.
 
 
 # Selected Publications 
@@ -58,7 +57,6 @@ I am a Ph.D. candidate in the [Gradudate School of Informatics](https://www.i.ky
 </div>
 
 
-
 # Academic Service
 - ## Conference Reviewer  
   - ACM Conference on Human Factors in Computing Systems (CHI), 2023  
@@ -82,7 +80,8 @@ I am a Ph.D. candidate in the [Gradudate School of Informatics](https://www.i.ky
 - Outstanding Graduate, Anhui Province, 2017  
 - Youth May Fourth Medal, Anhui University of Technology, 2017 *(Highest Honor for Undergraduate Students)*  
 
-
+# Teaching Experience
+- Teaching Assistant, **Information Systems Analysis**, 2025, Kyoto University
 
 # Education  
 - **Kyoto University** (2022.4 - Present)  
