@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I am a final-year Ph.D. candidate in the [Gradudate School of Informatics](https://www.i.kyoto-u.ac.jp/en/) at [Kyoto University](https://www.kyoto-u.ac.jp/en), supported by the Japanese Government (MEXT) Scholarship. I conduct research in the [Human-Robot Interaction Lab](https://www.robot.soc.i.kyoto-u.ac.jp/en/) under the supervision of Prof. [Takayuki Kanda](https://scholar.google.com/citations?hl=en&user=BL9EACgAAAAJ). My research focuses on object-based, two-handed human-robot interaction, aiming to improve the fluency and naturalness of robot behavior in human-shared environments.
+I am a final-year Ph.D. candidate in the [Gradudate School of Informatics](https://www.i.kyoto-u.ac.jp/en/) at [Kyoto University](https://www.kyoto-u.ac.jp/en), funded by the Japanese Government (MEXT) Scholarship. I conduct research in the [Human-Robot Interaction Lab](https://www.robot.soc.i.kyoto-u.ac.jp/en/) under the supervision of Prof. [Takayuki Kanda](https://scholar.google.com/citations?hl=en&user=BL9EACgAAAAJ). My research focuses on object-based, two-handed human-robot interaction, aiming to improve the fluency and naturalness of robot behavior in human-shared environments.
 
 
 # Selected Publications 
