@@ -24,7 +24,7 @@ I am a final-year Ph.D. candidate in the [Gradudate School of Informatics](https
     <h3>Communicating Physical Properties through Robot Object Manipulation</h3>
     <p><strong>Xiang Pan *</strong>, Malcolm Doering, Stela H. Seo, and Takayuki Kanda</p>
     <p><em>ACM/IEEE International Conference on Human-Robot Interaction, Melbourne, Australia, 2025</em></p>
-    <p>Note: Top HRI conference, 25% acceptance rate (100/400)</p>
+    <p>Note: Top HRI conference (CORE A), 25% acceptance rate (100/400)</p>
     <div class="links">
       <a href="files/HRI2025.pdf" class="button" target="_blank">Paper</a>
       <a href="https://dl.acm.org/doi/10.5555/3721488.3721579" class="button" target="_blank">ACM</a>
@@ -36,7 +36,7 @@ I am a final-year Ph.D. candidate in the [Gradudate School of Informatics](https
     <h3>What Is Your Other Hand Doing, Robot? A Model of Behavior for Shopkeeper Robot's Idle Hand</h3>
     <p><strong>Xiang Pan *</strong>, Malcolm Doering, and Takayuki Kanda</p>
     <p><em>ACM/IEEE International Conference on Human-Robot Interaction, Colorado, USA, 2024</em></p>
-    <p>Note: Top HRI conference, 24.7% acceptance rate (87/352)</p>
+    <p>Note: Top HRI conference (CORE A), 24.7% acceptance rate (87/352)</p>
     <div class="links">
       <a href="files/HRI2024.pdf" class="button" target="_blank">Paper</a>
       <a href="https://dl.acm.org/doi/10.1145/3610977.3634986" class="button" target="_blank">ACM</a>
