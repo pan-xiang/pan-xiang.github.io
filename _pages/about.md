@@ -60,7 +60,7 @@ I am a final-year Ph.D. candidate in the [Gradudate School of Informatics](https
 # Academic Service
 - ## Conference Reviewer  
   - ACM Conference on Human Factors in Computing Systems (CHI), 2023  
-  - ACM/IEEE International Conference on Human-Robot Interaction (HRI), 2025  
+  - ACM/IEEE International Conference on Human-Robot Interaction (HRI), 2025, 2026  
   - ACM Conference on Designing Interactive Systems (DIS), 2025  
   - IFIP TC13 International Conference on Human-Computer Interaction (INTERACT), 2025  
   - ACM Interaction Design and Children Conference (IDC), 2025  
