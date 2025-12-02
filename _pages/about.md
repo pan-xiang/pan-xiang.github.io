@@ -23,7 +23,7 @@ I am a final-year Ph.D. candidate in the [Gradudate School of Informatics](https
   <div class="pub-item">
     <h3>Communicating Object Relations through Robot Gestures</h3>
     <p><strong>Xiang Pan *</strong>, Malcolm Doering, and Takayuki Kanda</p>
-    <p><em>ACM/IEEE International Conference on Human-Robot Interaction, Melbourne, Australia, 2025</em></p>
+    <p><em>ACM/IEEE International Conference on Human-Robot Interaction, Edinburgh, Scotland, 2026</em></p>
     <p>Note: Top-tier HRI venue, 23.2% acceptance rate (129/557)</p>
   </div>
 
