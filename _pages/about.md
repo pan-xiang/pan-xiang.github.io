@@ -27,19 +27,6 @@ I am a final-year Ph.D. candidate in the [Gradudate School of Informatics](https
     <p>Note: Top-tier HRI venue, 23.2% acceptance rate (129/557)</p>
   </div>
 </div>
-
-<div class="publications">
-  <div class="pub-item">
-    <h3>Communicating Physical Properties through Robot Object Manipulation</h3>
-    <p><strong>Xiang Pan *</strong>, Malcolm Doering, Stela H. Seo, and Takayuki Kanda</p>
-    <p><em>ACM/IEEE International Conference on Human-Robot Interaction, Melbourne, Australia, 2025</em></p>
-    <p>Note: Top-tier HRI venue, 25% acceptance rate (100/400)</p>
-    <div class="links">
-      <a href="files/HRI2025.pdf" class="button" target="_blank">Paper</a>
-      <a href="https://dl.acm.org/doi/10.5555/3721488.3721579" class="button" target="_blank">ACM</a>
-      <a href="https://ieeexplore.ieee.org/abstract/document/10973989" class="button" target="_blank">IEEE</a>
-    </div>
-  </div>
   
 <div class="publications">
   <div class="pub-item">
