@@ -95,10 +95,8 @@ I am a final-year Ph.D. candidate in the [Gradudate School of Informatics](https
 # Education
 - **Kyoto University** (Apr. 2022 – Jan. 2026 expected)  
   *Ph.D., Kyoto, Japan*
-
 - **Zhejiang University** (Sept. 2017 – June 2020)  
   *M.S., Hangzhou, China*
-
 - **Anhui University of Technology** (Sept. 2013 – July 2017)  
   *B.S., Ma’anshan, China*
 
