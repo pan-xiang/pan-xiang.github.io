@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I am a final-year Ph.D. candidate in the [Gradudate School of Informatics](https://www.i.kyoto-u.ac.jp/en/) at [Kyoto University](https://www.kyoto-u.ac.jp/en), funded by the Japanese Government (MEXT) Scholarship. I conduct research in the [Human-Robot Interaction Lab](https://www.robot.soc.i.kyoto-u.ac.jp/en/) under the supervision of Prof. [Takayuki Kanda](https://scholar.google.com/citations?hl=en&user=BL9EACgAAAAJ). My research focuses on object-based, two-handed human-robot interaction, aiming to improve the fluency and naturalness of robot behavior in human-shared environments.
+I am a final-year Ph.D. candidate in the [Gradudate School of Informatics](https://www.i.kyoto-u.ac.jp/en/) at [Kyoto University](https://www.kyoto-u.ac.jp/en), funded by the Japanese Government (MEXT) Scholarship. I conduct research in the [Human-Robot Interaction Lab](https://www.robot.soc.i.kyoto-u.ac.jp/en/) under the supervision of Prof. [Takayuki Kanda](https://scholar.google.com/citations?hl=en&user=BL9EACgAAAAJ). My research focuses on human-robot interaction and embodied AI, with an emphasis on designing informative manipulation to improve the transparency and naturalness of robot actions in human-shared environments.
 
 
 # Selected Publications 
@@ -19,6 +19,27 @@ I am a final-year Ph.D. candidate in the [Gradudate School of Informatics](https
   <link rel="stylesheet" href="assets/css/style.css">
 </head>
 
+<div class="publications">
+  <div class="pub-item">
+    <h3>Communicating Object Relations through Robot Gestures</h3>
+    <p><strong>Xiang Pan *</strong>, Malcolm Doering, and Takayuki Kanda</p>
+    <p><em>ACM/IEEE International Conference on Human-Robot Interaction, Melbourne, Australia, 2025</em></p>
+    <p>Note: Top-tier HRI venue, 23.2% acceptance rate (129/557)</p>
+  </div>
+
+<div class="publications">
+  <div class="pub-item">
+    <h3>Communicating Physical Properties through Robot Object Manipulation</h3>
+    <p><strong>Xiang Pan *</strong>, Malcolm Doering, Stela H. Seo, and Takayuki Kanda</p>
+    <p><em>ACM/IEEE International Conference on Human-Robot Interaction, Melbourne, Australia, 2025</em></p>
+    <p>Note: Top-tier HRI venue, 25% acceptance rate (100/400)</p>
+    <div class="links">
+      <a href="files/HRI2025.pdf" class="button" target="_blank">Paper</a>
+      <a href="https://dl.acm.org/doi/10.5555/3721488.3721579" class="button" target="_blank">ACM</a>
+      <a href="https://ieeexplore.ieee.org/abstract/document/10973989" class="button" target="_blank">IEEE</a>
+    </div>
+  </div>
+  
 <div class="publications">
   <div class="pub-item">
     <h3>Communicating Physical Properties through Robot Object Manipulation</h3>
@@ -84,12 +105,12 @@ I am a final-year Ph.D. candidate in the [Gradudate School of Informatics](https
 - Teaching Assistant, *Information Systems Analysis*, 2025, Kyoto University
 
 # Education  
-- **Kyoto University** (2022.4 - Present)  
-  *Ph.D. Student, Kyoto, Japan*  
+- **Kyoto University** (Apr. 2022 – Jan. 2026 expected)
+  *Ph.D., Kyoto, Japan*  
 
-- **Zhejiang University** (2017.9 - 2020.6)  
+- **Zhejiang University** (Sept. 2017 – June 2020)  
   *M.S., Hangzhou, China*  
 
-- **Anhui University of Technology** (2013.9 - 2017.7)  
+- **Anhui University of Technology** (Sept. 2013 – July 2017)  
   *B.S., Ma’anshan, China*  
 
