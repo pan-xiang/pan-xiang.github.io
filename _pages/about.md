@@ -26,6 +26,7 @@ I am a final-year Ph.D. candidate in the [Gradudate School of Informatics](https
     <p><em>ACM/IEEE International Conference on Human-Robot Interaction, Edinburgh, Scotland, 2026</em></p>
     <p>Note: Top-tier HRI venue, 23.2% acceptance rate (129/557)</p>
   </div>
+</div>
 
 <div class="publications">
   <div class="pub-item">
