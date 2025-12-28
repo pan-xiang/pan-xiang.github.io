@@ -90,7 +90,7 @@ I am a final-year Ph.D. candidate in the [Gradudate School of Informatics](https
 - Youth May Fourth Medal, Anhui University of Technology, 2017 *(Highest Honor for Undergraduate Students)*  
 
 # Teaching Experience
-- Teaching Assistant, *Information Systems Analysis*, 2025, Kyoto University
+- Teaching Assistant, *Information System Analysis*, 2025, Kyoto University
 
 # Education
 - **Kyoto University** (Apr. 2022 – Jan. 2026 expected)  
