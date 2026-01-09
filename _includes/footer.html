@@ -20,14 +20,15 @@
 {% endif %} -->
 
 <div class="page__footer-copyright">
-  &copy; {{ site.time | date: '%Y' }} {{ site.author.name | default: site.title }}, {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://github.com/academicpages/academicpages.github.io">AcademicPages</a>, a fork of <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.<br />
-  <!-- Site last updated {{ "now" | date: '%Y-%m-%d' %}} -->
+  © {{ site.time | date: '%Y' }} {{ site.author.name | default: site.title }} ·
+  Powered by <a href="https://jekyllrb.com">Jekyll</a> &
+  <a href="https://github.com/academicpages/academicpages.github.io">AcademicPages</a>
 </div>
 
-<div style="width: 100%; display: flex; justify-content: center; margin-top: 10px;">
-  <div style="width: 100px; height: 100px;">
-    <script type="text/javascript" id="clstr_globe"
-            src="//clustrmaps.com/globe.js?d=0fLFhVUo_NwdYn7Bxkf3b5mVEK5UCitEC2XJY1eqdro">
-    </script>
-  </div>
+<div class="footer-clustrmaps">
+  <script
+    type="text/javascript"
+    id="clstr_globe"
+    src="//clustrmaps.com/globe.js?d=0fLFhVUo_NwdYn7Bxkf3b5mVEK5UCitEC2XJY1eqdro">
+  </script>
 </div>

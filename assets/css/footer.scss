@@ -1,0 +1,24 @@
+.page__footer {
+  background-color: #9ed1e0;   // 灰色背景
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.page__footer-copyright {
+  margin-bottom: 5px;
+  font-size: 0.85em;
+  color: #666;
+}
+
+.footer-clustrmaps {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  margin-top: 5px;
+}
+
+.footer-clustrmaps canvas,
+.footer-clustrmaps iframe {
+  max-width: 80px;
+  max-height: 80px;
+}
