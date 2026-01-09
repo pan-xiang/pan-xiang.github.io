@@ -24,11 +24,11 @@ author:
   avatar           : "xiang.jpg"
   name             : "Xiang Pan"
   pronouns         : # example: "she/her"  
-  bio              : "PhD Candidate at Kyoto University"
+  bio              : "Ph.D., Kyoto University"
   location         : "Kyoto, Japan"
   # employer         : "Kyoto University"
   # uri              : # URL
-  email            : "pan.xiang.35w@st.kyoto-u.ac.jp" 
+  email            : "pan@robot.soc.i.kyoto-u.ac.jp" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
