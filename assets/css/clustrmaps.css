@@ -1,15 +1,13 @@
 .clustrmaps-float {
   position: fixed;
-  right: 16px;
-  bottom: 16px;
-  width: 80px;
-  height: 80px;
+  right: 12px;
+  bottom: 12px;
+  width: 72px;
+  height: 72px;
   z-index: 9999;
-
-  background: rgba(255, 255, 255, 0.9);
-  border-radius: 10px;
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
-
+  background: rgba(255,255,255,0.85);
+  border-radius: 8px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.12);
   display: flex;
   align-items: center;
   justify-content: center;
@@ -18,8 +16,8 @@
 
 .clustrmaps-float canvas,
 .clustrmaps-float iframe {
-  width: 80px !important;
-  height: 80px !important;
+  width: 72px !important;
+  height: 72px !important;
 }
 
 @media (max-width: 768px) {
