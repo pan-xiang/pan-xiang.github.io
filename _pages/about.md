@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I am a final-year Ph.D. candidate in the [Gradudate School of Informatics](https://www.i.kyoto-u.ac.jp/en/) at [Kyoto University](https://www.kyoto-u.ac.jp/en), funded by the Japanese Government (MEXT) Scholarship. I conduct research in the [Human-Robot Interaction Lab](https://www.robot.soc.i.kyoto-u.ac.jp/en/) under the supervision of Prof. [Takayuki Kanda](https://scholar.google.com/citations?hl=en&user=BL9EACgAAAAJ). My research focuses on human-robot interaction and embodied AI, with an emphasis on designing informative manipulation to improve the transparency and naturalness of robot actions in human-shared environments.
+I will continue my research in the [Human-Robot Interaction Lab](https://www.robot.soc.i.kyoto-u.ac.jp/en/) as a postdoctoral researcher, collaborating with Prof. [Takayuki Kanda](https://scholar.google.com/citations?hl=en&user=BL9EACgAAAAJ). My research focuses on human-robot interaction and embodied AI, with an emphasis on designing informative manipulation to improve the transparency and naturalness of robot actions in human-shared environments.
 
 
 # Selected Publications 
@@ -25,6 +25,9 @@ I am a final-year Ph.D. candidate in the [Gradudate School of Informatics](https
     <p><strong>Xiang Pan *</strong>, Malcolm Doering, and Takayuki Kanda</p>
     <p><em>ACM/IEEE International Conference on Human-Robot Interaction, Edinburgh, Scotland, 2026</em></p>
     <p>Note: Top-tier HRI venue, 23.2% acceptance rate (129/557)</p>
+    <div class="links">
+      <a href="files/HRI2026.pdf" class="button" target="_blank">Paper</a>
+    </div>
   </div>
 </div>
   
@@ -93,7 +96,7 @@ I am a final-year Ph.D. candidate in the [Gradudate School of Informatics](https
 - Teaching Assistant, *Information System Analysis*, 2025, Kyoto University
 
 # Education
-- **Kyoto University** (Apr. 2022 – Jan. 2026 expected)  
+- **Kyoto University** (Apr. 2022 – Jan. 2026)  
   *Ph.D., Kyoto, Japan*
 - **Zhejiang University** (Sept. 2017 – June 2020)  
   *M.S., Hangzhou, China*
