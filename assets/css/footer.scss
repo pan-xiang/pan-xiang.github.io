@@ -1,5 +1,5 @@
 .page__footer {
-  background-color: #8cdaf1;   // 灰色背景
+  background-color: #8cdaf1;  
   padding-top: 10px;
   padding-bottom: 10px;
 }
@@ -14,11 +14,22 @@
   width: 100%;
   display: flex;
   justify-content: center;
-  margin-top: 5px;
+  margin-top: 6px;
 }
 
-.footer-clustrmaps canvas,
-.footer-clustrmaps iframe {
-  max-width: 80px;
-  max-height: 80px;
+.footer-clustrmaps__box {
+  width: 90px;
+  height: 90px;
+  overflow: hidden;
+  line-height: 0;
+}
+
+.footer-clustrmaps__box canvas,
+.footer-clustrmaps__box iframe,
+.footer-clustrmaps__box svg {
+  width: 90px !important;
+  height: 90px !important;
+  max-width: 90px !important;
+  max-height: 90px !important;
+  display: block;
 }
