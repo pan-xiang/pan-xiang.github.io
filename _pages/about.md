@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I will continue my research in the [Human-Robot Interaction Lab](https://www.robot.soc.i.kyoto-u.ac.jp/en/) as a postdoctoral researcher, collaborating with Prof. [Takayuki Kanda](https://scholar.google.com/citations?hl=en&user=BL9EACgAAAAJ). My research focuses on human-robot interaction and embodied AI, with an emphasis on designing informative manipulation to improve the transparency and naturalness of robot actions in human-shared environments.
+I will continue my research in the [Human-Robot Interaction Lab](https://www.robot.soc.i.kyoto-u.ac.jp/en/) as a postdoctoral researcher, collaborating with Prof. [Takayuki Kanda](https://scholar.google.com/citations?hl=en&user=BL9EACgAAAAJ). My research focuses on human-robot interaction and embodied AI, with an emphasis on designing expressive manipulation to improve the transparency and naturalness of robot actions in human-shared environments.
 
 
 # Selected Publications 
