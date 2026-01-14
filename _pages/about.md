@@ -22,7 +22,7 @@ I will continue my research as a postdoctoral researcher in the [Human-Robot Int
   <div class="pub-item">
     <h3>Communicating Object Relations through Robot Gestures</h3>
     <p><strong>Xiang Pan *</strong>, Malcolm Doering, and Takayuki Kanda</p>
-    <p><em>ACM/IEEE International Conference on Human-Robot Interaction, Edinburgh, Scotland, 2026</em></p>
+    <p><em>ACM/IEEE International Conference on Human-Robot Interaction, Edinburgh, Scotland, UK, 2026</em></p>
     <p>Note: Top-tier HRI venue, 23.2% acceptance rate (129/557)</p>
     <div class="links">
       <a href="files/HRI2026.pdf" class="button" target="_blank">Paper</a>
