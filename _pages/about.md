@@ -7,8 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I will continue my research as a postdoctoral researcher in the [Human-Robot Interaction Lab](https://www.robot.soc.i.kyoto-u.ac.jp/en/) at Kyoto University starting in February 2026, in collaboration with Prof. [Takayuki Kanda](https://scholar.google.com/citations?hl=en&user=BL9EACgAAAAJ). My research focuses on human-robot interaction and embodied AI, with an emphasis on designing expressive manipulation to improve the transparency and naturalness of robot actions in human-shared environments.
-
+I continue my research as a postdoctoral researcher in the [Human-Robot Interaction Lab](https://www.robot.soc.i.kyoto-u.ac.jp/en/) at Kyoto University, in collaboration with Prof. [Takayuki Kanda](https://scholar.google.com/citations?hl=en&user=BL9EACgAAAAJ). My work focuses on human–robot interaction and embodied AI, with particular emphasis on developing expressive manipulation strategies that enhance the transparency, legibility, and naturalness of robot behavior in shared human environments.
 
 # Selected Publications 
 <head>
@@ -69,18 +68,21 @@ I will continue my research as a postdoctoral researcher in the [Human-Robot Int
 
 
 # Academic Service
-- ## Conference Reviewer  
+- ## Conference Review  
   - ACM Conference on Human Factors in Computing Systems (CHI), 2023  
   - ACM/IEEE International Conference on Human-Robot Interaction (HRI), 2025, 2026  
-  - ACM Conference on Designing Interactive Systems (DIS), 2025  
+  - ACM Conference on Designing Interactive Systems (DIS), 2025, 2026  
   - IFIP TC13 International Conference on Human-Computer Interaction (INTERACT), 2025  
-  - ACM Interaction Design and Children Conference (IDC), 2025  
+  - ACM Interaction Design and Children Conference (IDC), 2025, 2026  
   - IEEE World Haptics Conference (WHC), 2025  
   - IEEE International Conference on Robot and Human Interactive Communication (RO-MAN), 2024  
   - International Conference on Human-Agent Interaction (HAI), 2024  
 
-- ## Journal Reviewer  
+- ## Journal Review  
   - Electronics Letters  
+
+- ## Conference Workshop Organisor
+  - 2026 [Multi-Agentic Systems in HRI (MAgicS-HRI): Bridging Design and Real-World Challenges for End Users](https://sites.google.com/view/magics-hri/home), HRI’26
 
 - ## Student Volunteer
   - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2022   
