@@ -72,8 +72,8 @@ I serve as a postdoctoral researcher in the [Human-Robot Interaction Lab](https:
   - ACM Conference on Human Factors in Computing Systems (CHI), 2023  
   - ACM/IEEE International Conference on Human-Robot Interaction (HRI), 2025, 2026  
   - ACM Conference on Designing Interactive Systems (DIS), 2025, 2026  
-  - IFIP TC13 International Conference on Human-Computer Interaction (INTERACT), 2025  
-  - ACM Interaction Design and Children Conference (IDC), 2025, 2026  
+  - ACM Interaction Design and Children Conference (IDC), 2025, 2026
+  - IFIP TC13 International Conference on Human-Computer Interaction (INTERACT), 2025    
   - IEEE World Haptics Conference (WHC), 2025  
   - IEEE International Conference on Robot and Human Interactive Communication (RO-MAN), 2024  
   - International Conference on Human-Agent Interaction (HAI), 2024  
