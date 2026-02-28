@@ -90,7 +90,7 @@ I serve as a postdoctoral researcher in the [Human-Robot Interaction Lab](https:
   - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2022   
 
 # Selected Awards
-- Japanese Government Scholarshop, Ministry of Education, Culture, Sports, Science and Technology, 2021  
+- Japanese Government Scholarship, Ministry of Education, Culture, Sports, Science and Technology, 2021  
 - Outstanding Graduate, Zhejiang University, 2020  
 - Outstanding Graduate Student Leader, Zhejiang University, 2018  
 - Outstanding Graduate, Anhui Province, 2017  
