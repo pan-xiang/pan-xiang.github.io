@@ -20,7 +20,7 @@ I am a postdoctoral researcher in the [Human-Robot Interaction Lab](https://www.
 
 <details>
 
-  <summary style="text-align:center; color:#2a7ae2; cursor:pointer; font-weight:600; margin:8px 0;">
+  <summary style="text-align:center; color:#6bc9e6; cursor:pointer; font-weight:600; margin:8px 0;">
     Show more
   </summary>
 
