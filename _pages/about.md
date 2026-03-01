@@ -18,16 +18,23 @@ I am a postdoctoral researcher in the [Human-Robot Interaction Lab](https://www.
 {% endfor %}
 </ul>
 
-<details>
-  <summary>more</summary>
-  <ul>
-  {% for item in site.data.news offset:4 %}
-    <li>
-      <strong>{{ item.date }}:</strong> {{ item.content }}
-    </li>
-  {% endfor %}
-  </ul>
-</details>
+<div style="text-align:center; margin-top:10px;">
+  <details style="display:inline-block;">
+
+    <summary style="color:#2a7ae2; cursor:pointer; font-weight:600;">
+      Show more
+    </summary>
+
+    <ul style="text-align:left; margin-top:8px;">
+    {% for item in site.data.news offset:4 %}
+      <li>
+        <strong>{{ item.date }}:</strong> {{ item.content }}
+      </li>
+    {% endfor %}
+    </ul>
+
+  </details>
+</div>
 
 # Publications 
 <head>
