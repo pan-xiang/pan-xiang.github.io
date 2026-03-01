@@ -22,9 +22,9 @@ I am a postdoctoral researcher in the [Human-Robot Interaction Lab](https://www.
     <h3>Communicating Object Relations through Robot Gestures</h3>
     <p><strong>Xiang Pan *</strong>, Malcolm Doering, and Takayuki Kanda</p>
     <p><em>ACM/IEEE International Conference on Human-Robot Interaction, Edinburgh, Scotland, UK, 2026</em></p>
-    <p>Note: Top-tier HRI venue, 23.2% acceptance rate (129/557)</p>
+    <p>Note: Top-tier HRI venue, 23.2% acceptance rate  (129/557)</p>
     <div class="links">
-      <a href="files/Commucate_Object_Relations.pdf" class="button" target="_blank">Paper</a>
+      <a href="files/HRI2026.pdf" class="button" target="_blank">Paper</a>
     </div>
   </div>
 
@@ -34,7 +34,7 @@ I am a postdoctoral researcher in the [Human-Robot Interaction Lab](https://www.
     <p><em>ACM/IEEE International Conference on Human-Robot Interaction, Melbourne, Australia, 2025</em></p>
     <p>Note: Top-tier HRI venue, 25% acceptance rate (100/400)</p>
     <div class="links">
-      <a href="files/Communicate_Physical_Properties.pdf" class="button" target="_blank">Paper</a>
+      <a href="files/HRI2025.pdf" class="button" target="_blank">Paper</a>
       <a href="https://dl.acm.org/doi/10.5555/3721488.3721579" class="button" target="_blank">ACM</a>
       <a href="https://ieeexplore.ieee.org/abstract/document/10973989" class="button" target="_blank">IEEE</a>
     </div>
@@ -46,7 +46,7 @@ I am a postdoctoral researcher in the [Human-Robot Interaction Lab](https://www.
     <p><em>ACM/IEEE International Conference on Human-Robot Interaction, Colorado, USA, 2024</em></p>
     <p>Note: Top-tier HRI venue, 24.7% acceptance rate (87/352)</p>
     <div class="links">
-      <a href="files/Support_Hand_Motion.pdf" class="button" target="_blank">Paper</a>
+      <a href="files/HRI2024.pdf" class="button" target="_blank">Paper</a>
       <a href="https://dl.acm.org/doi/10.1145/3610977.3634986" class="button" target="_blank">ACM</a>
       <a href="https://ieeexplore.ieee.org/abstract/document/10661005" class="button" target="_blank">IEEE</a>
     </div>
@@ -57,7 +57,7 @@ I am a postdoctoral researcher in the [Human-Robot Interaction Lab](https://www.
     <p><strong>Xiang Pan</strong>, Dong Li, Weijia Wu, and Hong Zhou *</p>
     <p><em>International Conference on Graphics and Signal Processing, Hong Kong, China, 2019</em></p>
     <div class="links">
-      <a href="files/Efficient_Barcode_Localization.pdf" class="button" target="_blank">Paper</a>
+      <a href="files/ICGSP2019.pdf" class="button" target="_blank">Paper</a>
       <a href="https://dl.acm.org/doi/10.1145/3338472.3338474" class="button" target="_blank">ACM</a>
     </div>
   </div>
