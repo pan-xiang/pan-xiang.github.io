@@ -123,7 +123,7 @@ I am a postdoctoral researcher in the [Human-Robot Interaction Lab](https://www.
 - Excellent Postgraduate Student Award, Zhejiang University, 2020  
 - Outstanding Graduate Leader Award, Zhejiang University, 2018  
 - Outstanding Graduate Student Award, Anhui Province, 2017  
-- Youth May Fourth Medal, Anhui University of Technology, 2017 *(Highest Honor for Undergraduate Students)*  
+- Youth May Fourth Medal, Anhui University of Technology, 2017 *(Highest Undergraduate Honor, 10 Awardees University-wide)*  
 
 
 # Education
