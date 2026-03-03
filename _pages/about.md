@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher in the [Human-Robot Interaction Lab](https://www.robot.soc.i.kyoto-u.ac.jp/en/) at Kyoto University, where I collaborate with Professor [Takayuki Kanda](https://www.robot.soc.i.kyoto-u.ac.jp/~kanda/index.html). My work focuses on human–robot interaction and embodied AI, with particular emphasis on developing expressive manipulation strategies that enhance the transparency, legibility, and naturalness of robot behavior in human-shared environments.
+I am a postdoctoral researcher in the [Human-Robot Interaction Lab](https://www.robot.soc.i.kyoto-u.ac.jp/en/) at Kyoto University, where I collaborate with [Prof. Takayuki Kanda](https://www.robot.soc.i.kyoto-u.ac.jp/~kanda/index.html). My work focuses on human–robot interaction and embodied AI, with particular emphasis on developing expressive manipulation strategies that enhance the transparency, legibility, and naturalness of robot behavior in human-shared environments.
 
 # News
 <ul>
@@ -20,7 +20,7 @@ I am a postdoctoral researcher in the [Human-Robot Interaction Lab](https://www.
 
 <details>
 
-  <summary style="text-align:left; color:#6bc9e6; cursor:pointer; font-weight:600; margin:8px 0;">
+  <summary style="text-align:center; color:#6bc9e6; cursor:pointer; font-weight:600; margin:8px 0;">
     ...
   </summary>
 
