@@ -123,14 +123,16 @@ I am a postdoctoral researcher in the [Human-Robot Interaction Lab](https://www.
 - Teaching Assistant, *Information System Analysis*, 2025, Kyoto University
 
 # Education
-- **Kyoto University** (Apr. 2022 – Jan. 2026)  
-  *Ph.D., Kyoto, Japan*
-  * Advisor: Prof. [Takayuki Kanda](https://www.robot.soc.i.kyoto-u.ac.jp/~kanda/index.html)
-- **Zhejiang University** (Sept. 2017 – Jun. 2020)  
-  *M.S., Hangzhou, China*
-  * Advisor: Prof. [Hong Zhou](https://person.zju.edu.cn/zhouhong/)
-- **Anhui University of Technology** (Sept. 2013 – Jul. 2017)  
-  *B.S., Ma’anshan, China*
-  *Advisor: Prof. [Bing Wang](https://www.aufe.edu.cn/2023/1228/c8256a209006/page.htm)
+- **Kyoto University**, Kyoto, Japan  
+  Ph.D. in Social Informatics (Apr 2022 – Jan 2026)  
+  Advisor: [Prof. Takayuki Kanda](https://www.robot.soc.i.kyoto-u.ac.jp/~kanda/index.html)
+
+- **Zhejiang University**, Hangzhou, China  
+  M.S. in Instrumentation and Measurement Engineering (Sept 2017 – Jun 2020)  
+  Advisor: [Prof. Hong Zhou](https://person.zju.edu.cn/zhouhong/)
+
+- **Anhui University of Technology**, Ma’anshan, China  
+  B.S. in Electronic and Information Engineering (Sept 2013 – Jul 2017)  
+  Advisor: [Prof. Bing Wang](https://www.aufe.edu.cn/2023/1228/c8256a209006/page.htm)
   
 
