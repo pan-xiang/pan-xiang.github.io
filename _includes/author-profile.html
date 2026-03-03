@@ -36,17 +36,15 @@
       {% if author.email %}
         <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a></li>
       {% endif %}
-      {% if author.links %}
-        {% for link in author.links %}
-          <li>
-            <a href="{{ link.url | relative_url }}" rel="nofollow noopener" target="_blank">
-              {% if link.icon %}<i class="{{ link.icon }}" aria-hidden="true"></i>{% endif %}
-              {% if link.label %}<span class="label">{{ link.label }}</span>{% endif %}
-            </a>
-          </li>
-        {% endfor %}
+      {% if author.cv %}
+        <li>
+          <a href="{{ author.cv | relative_url }}">
+            <i class="fas fa-fw fa-file-pdf icon-pad-right" aria-hidden="true"></i>
+            CV
+          </a>
+        </li>
       {% endif %}
-
+      
       <!-- Font Awesome and Academicons icons / Academic websites -->
       {% if author.arxiv %}
         <li><a href="{{ author.arxiv }}"><i class="ai ai-arxiv ai-fw icon-pad-right"></i>arXiv</a></li>

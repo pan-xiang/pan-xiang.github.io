@@ -51,7 +51,7 @@ I am a postdoctoral researcher in the [Human-Robot Interaction Lab](https://www.
     <p><em>ACM/IEEE International Conference on Human-Robot Interaction, Edinburgh, Scotland, UK, 2026</em></p>
     <p>Note: CORE A*, Top-tier HRI venue, 23.2% acceptance rate  (129/557)</p>
     <div class="links">
-      <a href="files/HRI2026.pdf" class="button" target="_blank">Paper</a>
+      <a href="files/HRI_2026.pdf" class="button" target="_blank">Paper</a>
     </div>
   </div>
 
