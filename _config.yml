@@ -31,8 +31,8 @@ author:
   email            : "pan@robot.soc.i.kyoto-u.ac.jp" 
   links:
     - label: "CV"
-      icon: "fas fa-file-pdf"
-      url: "/files/CV2026.pdf"
+      icon: "fas fa-fw fa-file-pdf"
+      url: "/files/CV_2026.pdf"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
