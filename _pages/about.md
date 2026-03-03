@@ -61,7 +61,7 @@ I am a postdoctoral researcher in the [Human-Robot Interaction Lab](https://www.
     <p><em>ACM/IEEE International Conference on Human-Robot Interaction, Melbourne, Australia, 2025</em></p>
     <p>Note: CORE A*, Top-tier HRI venue, 25% acceptance rate (100/400)</p>
     <div class="links">
-      <a href="files/HRI2025.pdf" class="button" target="_blank">Paper</a>
+      <a href="files/HRI_2025.pdf" class="button" target="_blank">Paper</a>
       <a href="https://dl.acm.org/doi/10.5555/3721488.3721579" class="button" target="_blank">ACM</a>
       <a href="https://ieeexplore.ieee.org/abstract/document/10973989" class="button" target="_blank">IEEE</a>
     </div>
@@ -73,7 +73,7 @@ I am a postdoctoral researcher in the [Human-Robot Interaction Lab](https://www.
     <p><em>ACM/IEEE International Conference on Human-Robot Interaction, Colorado, USA, 2024</em></p>
     <p>Note: CORE A*, Top-tier HRI venue, 24.7% acceptance rate (87/352)</p>
     <div class="links">
-      <a href="files/HRI2024.pdf" class="button" target="_blank">Paper</a>
+      <a href="files/HRI_2024.pdf" class="button" target="_blank">Paper</a>
       <a href="https://dl.acm.org/doi/10.1145/3610977.3634986" class="button" target="_blank">ACM</a>
       <a href="https://ieeexplore.ieee.org/abstract/document/10661005" class="button" target="_blank">IEEE</a>
     </div>

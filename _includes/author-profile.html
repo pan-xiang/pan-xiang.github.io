@@ -36,15 +36,7 @@
       {% if author.email %}
         <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a></li>
       {% endif %}
-      {% if author.cv %}
-        <li>
-          <a href="{{ author.cv | relative_url }}">
-            <i class="fas fa-fw fa-file-pdf icon-pad-right" aria-hidden="true"></i>
-            CV
-          </a>
-        </li>
-      {% endif %}
-      
+
       <!-- Font Awesome and Academicons icons / Academic websites -->
       {% if author.arxiv %}
         <li><a href="{{ author.arxiv }}"><i class="ai ai-arxiv ai-fw icon-pad-right"></i>arXiv</a></li>
@@ -71,7 +63,16 @@
         <li><a href="{{ author.scopus }}"><i class="ai ai-scopus icon-pad-right"></i>Scopus</a></li>
       {% endif %}
 
-      <!-- Font Awesome icons / Repositories and software development -->
+      <!-- Font Awesome icons / document -->
+      {% if author.cv %}
+        <li>
+          <a href="{{ author.cv | relative_url }}">
+            <i class="fas fa-file-pdf icon-pad-right" aria-hidden="true"></i>
+            CV
+          </a>
+        </li>
+      {% endif %}
+
       {% if author.bitbucket %}
         <li><a href="https://bitbucket.org/{{ author.bitbucket }}"><i class="fab fa-fw fa-bitbucket icon-pad-right" aria-hidden="true"></i>Bitbucket</a></li>
       {% endif %}
