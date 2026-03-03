@@ -97,6 +97,9 @@ I am a postdoctoral researcher in the [Human-Robot Interaction Lab](https://www.
 
 
 # Academic Service
+- ## Conference Workshop Organisor
+  - 2026 [Multi-Agentic Systems in HRI (MAgicS-HRI): Bridging Design and Real-World Challenges for End Users](https://sites.google.com/view/magics-hri/home), HRI’26
+
 - ## Conference Review  
   - ACM Conference on Human Factors in Computing Systems (CHI), 2023  
   - ACM/IEEE International Conference on Human-Robot Interaction (HRI), 2025, 2026  
@@ -111,9 +114,6 @@ I am a postdoctoral researcher in the [Human-Robot Interaction Lab](https://www.
   - IEEE Robotics and Automation Letters (RA-L)
   - Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)
   - Electronics Letters  
-
-- ## Conference Workshop Organisor
-  - 2026 [Multi-Agentic Systems in HRI (MAgicS-HRI): Bridging Design and Real-World Challenges for End Users](https://sites.google.com/view/magics-hri/home), HRI’26
 
 - ## Student Volunteer
   - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2022   
