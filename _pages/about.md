@@ -120,10 +120,9 @@ I am a postdoctoral researcher in the [Human-Robot Interaction Lab](https://www.
 
 
 # Selected Awards
-- Japanese Government Scholarship, Ministry of Education, Culture, Sports, Science and Technology, 2021  
-- Outstanding Graduate, Zhejiang University, 2020  
-- Outstanding Graduate Student Leader, Zhejiang University, 2018  
-- Outstanding Graduate, Anhui Province, 2017  
+- Excellent Postgraduate Students' Award, Zhejiang University, 2020  
+- Outstanding Graduate Leader Award, Zhejiang University, 2018  
+- Outstanding Graduate Students' Award, Anhui Province, 2017  
 - Youth May Fourth Medal, Anhui University of Technology, 2017 *(Highest Honor for Undergraduate Students)*  
 
 
