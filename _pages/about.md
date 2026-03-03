@@ -125,8 +125,8 @@ I am a postdoctoral researcher in the [Human-Robot Interaction Lab](https://www.
 # Education
 - **Kyoto University** (Apr. 2022 – Jan. 2026)  
   *Ph.D., Kyoto, Japan*
-- **Zhejiang University** (Sept. 2017 – June 2020)  
+- **Zhejiang University** (Sept. 2017 – Jun. 2020)  
   *M.S., Hangzhou, China*
-- **Anhui University of Technology** (Sept. 2013 – July 2017)  
+- **Anhui University of Technology** (Sept. 2013 – Jul. 2017)  
   *B.S., Ma’anshan, China*
 
