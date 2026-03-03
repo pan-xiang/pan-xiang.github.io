@@ -128,11 +128,9 @@ I am a postdoctoral researcher in the [Human-Robot Interaction Lab](https://www.
   Advisor: [Prof. Takayuki Kanda](https://www.robot.soc.i.kyoto-u.ac.jp/~kanda/index.html)
 
 - **Zhejiang University**, Hangzhou, China  
-  M.S. in Instrumentation and Measurement Engineering (Sept 2017 – Jun 2020)  
+  M.S. in Instrument and Meter Engineering (Sept 2017 – Jun 2020)  
   Advisor: [Prof. Hong Zhou](https://person.zju.edu.cn/zhouhong/)
 
 - **Anhui University of Technology**, Ma’anshan, China  
   B.S. in Electronic and Information Engineering (Sept 2013 – Jul 2017)  
   Advisor: [Prof. Bing Wang](https://www.aufe.edu.cn/2023/1228/c8256a209006/page.htm)
-  
-
