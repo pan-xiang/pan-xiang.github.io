@@ -111,9 +111,9 @@ I am a postdoctoral researcher in the [Human-Robot Interaction Lab](https://www.
   - International Conference on Human-Agent Interaction (HAI), 2024  
 
 - ## Journal Review  
-  - IEEE Robotics and Automation Letters (RA-L)
-  - Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)
-  - Electronics Letters  
+  - IEEE Robotics and Automation Letters (RA-L), 2026 
+  - Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), 2026 
+  - Electronics Letters, 2020 
 
 - ## Student Volunteer
   - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2022   
