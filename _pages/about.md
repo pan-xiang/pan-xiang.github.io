@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher in the [Human-Robot Interaction Lab](https://www.robot.soc.i.kyoto-u.ac.jp/en/) at Kyoto University, where I collaborate with Professor [Takayuki Kanda](https://scholar.google.com/citations?hl=en&user=BL9EACgAAAAJ). My work focuses on human–robot interaction and embodied AI, with particular emphasis on developing expressive manipulation strategies that enhance the transparency, legibility, and naturalness of robot behavior in human-shared environments.
+I am a postdoctoral researcher in the [Human-Robot Interaction Lab](https://www.robot.soc.i.kyoto-u.ac.jp/en/) at Kyoto University, where I collaborate with Professor [Takayuki Kanda](https://www.robot.soc.i.kyoto-u.ac.jp/~kanda/index.html). My work focuses on human–robot interaction and embodied AI, with particular emphasis on developing expressive manipulation strategies that enhance the transparency, legibility, and naturalness of robot behavior in human-shared environments.
 
 # News
 <ul>
@@ -125,8 +125,12 @@ I am a postdoctoral researcher in the [Human-Robot Interaction Lab](https://www.
 # Education
 - **Kyoto University** (Apr. 2022 – Jan. 2026)  
   *Ph.D., Kyoto, Japan*
+  * Advisor: Prof. [Takayuki Kanda](https://www.robot.soc.i.kyoto-u.ac.jp/~kanda/index.html)
 - **Zhejiang University** (Sept. 2017 – Jun. 2020)  
   *M.S., Hangzhou, China*
+  * Advisor: Prof. [Hong Zhou](https://person.zju.edu.cn/zhouhong/)
 - **Anhui University of Technology** (Sept. 2013 – Jul. 2017)  
   *B.S., Ma’anshan, China*
+  *Advisor: Prof. [Bing Wang](https://www.aufe.edu.cn/2023/1228/c8256a209006/page.htm)
+  
 
