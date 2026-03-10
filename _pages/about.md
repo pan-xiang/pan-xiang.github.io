@@ -93,12 +93,8 @@ I am a postdoctoral researcher in the [Human-Robot Interaction Lab](https://www.
 </div>
 
 
-# Teaching Experience
-- Teaching Assistant, *Information System Analysis*, 2025, Kyoto University
-
-
 # Academic Service
-- ## Conference Workshop Organisor
+- ## Conference Workshop Organiser
   - 2026 [Multi-Agentic Systems in HRI (MAgicS-HRI): Bridging Design and Real-World Challenges for End Users](https://sites.google.com/view/magics-hri/home), HRI’26
 
 - ## Conference Review  
@@ -118,6 +114,10 @@ I am a postdoctoral researcher in the [Human-Robot Interaction Lab](https://www.
 
 - ## Student Volunteer
   - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2022   
+
+
+# Teaching Experience
+- Teaching Assistant, *Information System Analysis*, 2025, Kyoto University
 
 
 # Selected Awards
