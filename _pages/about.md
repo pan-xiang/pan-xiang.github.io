@@ -11,29 +11,21 @@ I am a postdoctoral researcher in the [Human-Robot Interaction Lab](https://www.
 
 
 # News
+
 <ul>
-{% for item in site.data.news limit:4 %}
+{% for item in site.data.news limit:8 %}
   <li>
     <strong>{{ item.date }}:</strong> {{ item.content }}
   </li>
 {% endfor %}
 </ul>
 
-<details>
-
-  <summary style="text-align:center; color:#6bc9e6; cursor:pointer; font-weight:600; margin:8px 0;">
-    ...
-  </summary>
-
-  <ul>
-  {% for item in site.data.news offset:4 %}
-    <li>
-      <strong>{{ item.date }}:</strong> {{ item.content }}
-    </li>
-  {% endfor %}
-  </ul>
-
-</details>
+<div style="text-align: right; margin-top: 10px;">
+  <a href="{{ '/news/' | relative_url }}" 
+     style="color: #2a7ae2; font-size: 0.9em; text-transform: uppercase; letter-spacing: 0.4px;">
+    Learn More >>
+  </a>
+</div>
 
 
 # Publications 
@@ -94,7 +86,24 @@ I am a postdoctoral researcher in the [Human-Robot Interaction Lab](https://www.
 
 
 # Academic Service
-- ## Conference Workshop Organiser
+## Conference Workshop Organiser
+  - 2026 [Multi-Agentic Systems in HRI (MAgicS-HRI): Bridging Design and Real-World Challenges for End Users](https://sites.google.com/view/magics-hri/home), HRI’26
+
+## Academic Service
+
+**Conference Workshop Organizer**  
+2026: [Multi-Agentic Systems in HRI (MAgicS-HRI): Bridging Design and Real-World Challenges for End Users](https://sites.google.com/view/magics-hri/home), HRI'26
+
+**Conference Reviewer / Program Committee Member**  
+HRI (2025, 2026); CHI (2023); DIS (2025, 2026); IDC (2025, 2026); INTERACT (2025); WHC (2025); RO-MAN (2024); HAI (2024); HRI LBR (2026)
+
+**Journal Reviewer**  
+IEEE Robotics and Automation Letters (RA-L); Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)
+
+**Student Volunteer**  
+IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS, 2022)
+
+<!-- - ## Conference Workshop Organiser
   - 2026 [Multi-Agentic Systems in HRI (MAgicS-HRI): Bridging Design and Real-World Challenges for End Users](https://sites.google.com/view/magics-hri/home), HRI’26
 
 - ## Conference Review  
@@ -110,14 +119,9 @@ I am a postdoctoral researcher in the [Human-Robot Interaction Lab](https://www.
 - ## Journal Review  
   - IEEE Robotics and Automation Letters (RA-L), 2026 
   - Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), 2026 
-  - Electronics Letters, 2020 
 
 - ## Student Volunteer
-  - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2022   
-
-
-# Teaching Experience
-- Teaching Assistant, *Information System Analysis*, 2025, Kyoto University
+  - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2022    -->
 
 
 # Selected Awards
