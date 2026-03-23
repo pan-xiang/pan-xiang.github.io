@@ -22,7 +22,7 @@ Currently, I investigate the integration of large language models (LLMs) and vis
 </ul>
 <details>
   <summary style="text-align:right; margin:10px; color: #6bc9e6; font-size: 0.9em; text-transform: uppercase; letter-spacing: 0.4px;">
-    Learn More >>
+    Learn More
   </summary>
 
   <ul>
