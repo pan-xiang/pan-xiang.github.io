@@ -13,24 +13,30 @@ Currently, I investigate the integration of large language models (LLMs) and vis
 
 
 # News
-
 <ul>
-{% for item in site.data.news limit:8 %}
+{% for item in site.data.news limit:4 %}
   <li>
     <strong>{{ item.date }}:</strong> {{ item.content }}
   </li>
 {% endfor %}
 </ul>
-
-<div style="text-align: right; margin-top: 10px;">
-  <a href="{{ '/news/' | relative_url }}" 
-     style="color: #2a7ae2; font-size: 0.9em; text-transform: uppercase; letter-spacing: 0.4px;">
+<details>
+  <summary style="text-align:right; margin:10px; color: #6bc9e6; font-size: 0.9em; text-transform: uppercase; letter-spacing: 0.4px;">
     Learn More >>
-  </a>
-</div>
+  </summary>
+
+  <ul>
+  {% for item in site.data.news offset:4 %}
+    <li>
+      <strong>{{ item.date }}:</strong> {{ item.content }}
+    </li>
+  {% endfor %}
+  </ul>
+</details>
+
 
 # Selected Publications 
-A full list is available on my [Google Scholar](https://scholar.google.com/citations?user=BksSRrsAAAAJ).
+More publications can be found on my [Google Scholar](https://scholar.google.com/citations?user=BksSRrsAAAAJ).
 
 <head>
   <meta charset="UTF-8">
@@ -90,20 +96,15 @@ A full list is available on my [Google Scholar](https://scholar.google.com/citat
 
 # Academic Service
 ## Conference Workshop Organiser
-  - 2026 [Multi-Agentic Systems in HRI (MAgicS-HRI): Bridging Design and Real-World Challenges for End Users](https://sites.google.com/view/magics-hri/home), HRI’26
+[Multi-Agentic Systems in HRI (MAgicS-HRI): Bridging Design and Real-World Challenges for End Users](https://sites.google.com/view/magics-hri/home), HRI'26
 
-## Academic Service
-
-**Conference Workshop Organizer**  
-2026: [Multi-Agentic Systems in HRI (MAgicS-HRI): Bridging Design and Real-World Challenges for End Users](https://sites.google.com/view/magics-hri/home), HRI'26
-
-**Conference Reviewer / Program Committee Member**  
+## Conference Reviewer  
 HRI (2025, 2026); CHI (2023); DIS (2025, 2026); IDC (2025, 2026); INTERACT (2025); WHC (2025); RO-MAN (2024); HAI (2024); HRI LBR (2026)
 
-**Journal Reviewer**  
+## Journal Reviewer  
 IEEE Robotics and Automation Letters (RA-L); Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)
 
-**Student Volunteer**  
+## Student Volunteer
 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS, 2022)
 
 <!-- - ## Conference Workshop Organiser
