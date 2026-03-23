@@ -27,8 +27,9 @@ I am a postdoctoral researcher in the [Human-Robot Interaction Lab](https://www.
   </a>
 </div>
 
+# Selected Publications 
+A full list is available on my [Google Scholar](https://scholar.google.com/citations?user=BksSRrsAAAAJ).
 
-# Publications 
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -72,7 +73,7 @@ I am a postdoctoral researcher in the [Human-Robot Interaction Lab](https://www.
     </div>
   </div>
 
-  <div class="pub-item">
+  <!-- <div class="pub-item">
     <h3>Efficient Barcode Localization Method for Low-Quality Images</h3>
     <p><strong>Xiang Pan</strong>, Dong Li, Weijia Wu, and Hong Zhou *</p>
     <p><em>International Conference on Graphics and Signal Processing, Hong Kong, China, 2019</em></p>
@@ -80,7 +81,7 @@ I am a postdoctoral researcher in the [Human-Robot Interaction Lab](https://www.
       <a href="files/ICGSP2019.pdf" class="button" target="_blank">Paper</a>
       <a href="https://dl.acm.org/doi/10.1145/3338472.3338474" class="button" target="_blank">ACM</a>
     </div>
-  </div>
+  </div> -->
 
 </div>
 
