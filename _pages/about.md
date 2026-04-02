@@ -11,6 +11,7 @@ I am a postdoctoral researcher in the [Human-Robot Interaction Lab](https://www.
 
 Currently, I investigate how robots can infer and respond to human intentions by leveraging large language models (LLMs) and vision–language models (VLMs), informed by insights from psychology to enable socially appropriate behavior in human–robot interaction.
 
+I am seeking postdoctoral opportunities starting around October 2026.
 
 # News
 <ul>
