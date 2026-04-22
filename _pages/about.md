@@ -51,7 +51,8 @@ More publications can be found on my [Google Scholar](https://scholar.google.com
     <h3>Communicating Object Relations through Robot Gestures</h3>
     <p><strong>Xiang Pan *</strong>, Malcolm Doering, Takayuki Kanda</p>
     <p><em>ACM/IEEE International Conference on Human-Robot Interaction, Edinburgh, Scotland, UK, 2026</em></p>
-    <p>Note: [CORE A*](https://portal.core.edu.au/conf-ranks/?search=HRI&by=all&source=ICORE2026), Top-tier HRI venue, 23.2% acceptance rate (129/557)</p>
+    <p>Note: 
+      <a href="https://portal.core.edu.au/conf-ranks/?search=HRI&by=all&source=ICORE2026" target="_blank">CORE A*</a>, Top-tier HRI venue, 23.2% acceptance rate (129/557)</p>
     <div class="links">
       <a href="files/HRI2026.pdf" class="button" target="_blank">Paper</a>
       <a href="https://dl.acm.org/doi/10.1145/3757279.3785554" class="button" target="_blank">ACM</a>
