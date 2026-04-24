@@ -97,26 +97,15 @@ More publications can be found on my [Google Scholar](https://scholar.google.com
 
 
 # Academic Service
-## Conference Workshop Organiser
-[Multi-Agentic Systems in HRI (MAgicS-HRI): Bridging Design and Real-World Challenges for End Users](https://sites.google.com/view/magics-hri/home), HRI'26
-
-## Conference Reviewer  
-HRI (2025, 2026); CHI (2023); DIS (2025, 2026); IDC (2025, 2026); INTERACT (2025); WHC (2025); RO-MAN (2024); HAI (2024); HRI LBR (2026)
-
-## Journal Reviewer  
-IEEE Robotics and Automation Letters (RA-L); Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)
-
-## Student Volunteer
-IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS, 2022)
-
-<!-- - ## Conference Workshop Organiser
-  - 2026 [Multi-Agentic Systems in HRI (MAgicS-HRI): Bridging Design and Real-World Challenges for End Users](https://sites.google.com/view/magics-hri/home), HRI’26
+- ## Conference Workshop Organiser
+  - [Multi-Agentic Systems in HRI (MAgicS-HRI): Bridging Design and Real-World Challenges for End Users](https://sites.google.com/view/magics-hri/home), HRI’26
 
 - ## Conference Review  
-  - ACM Conference on Human Factors in Computing Systems (CHI), 2023  
   - ACM/IEEE International Conference on Human-Robot Interaction (HRI), 2025, 2026  
+  - ACM Conference on Human Factors in Computing Systems (CHI), 2023  
   - ACM Conference on Designing Interactive Systems (DIS), 2025, 2026  
   - ACM Interaction Design and Children Conference (IDC), 2025, 2026
+  - ACM Conference on Automotive User Interfaces and Interactive Vehicular Applications (AutomotiveUI), 2026
   - IFIP TC13 International Conference on Human-Computer Interaction (INTERACT), 2025    
   - IEEE World Haptics Conference (WHC), 2025  
   - IEEE International Conference on Robot and Human Interactive Communication (RO-MAN), 2024  
@@ -127,7 +116,7 @@ IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS, 2022)
   - Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), 2026 
 
 - ## Student Volunteer
-  - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2022    -->
+  - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2022   
 
 
 # Selected Awards
