@@ -112,8 +112,8 @@ More publications can be found on my [Google Scholar](https://scholar.google.com
   - International Conference on Human-Agent Interaction (HAI), 2024  
 
 - ## Journal Review  
-  - IEEE Robotics and Automation Letters (RA-L), 2026 
-  - Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), 2026 
+  - IEEE Robotics and Automation Letters (RA-L) 
+  - Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)
 
 - ## Student Volunteer
   - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2022   
