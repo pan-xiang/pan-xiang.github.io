@@ -100,6 +100,10 @@ More publications can be found on my [Google Scholar](https://scholar.google.com
 - ## Conference Workshop Organiser
   - [Multi-Agentic Systems in HRI (MAgicS-HRI): Bridging Design and Real-World Challenges for End Users](https://sites.google.com/view/magics-hri/home), HRI’26
 
+- ## Journal Review  
+  - IEEE Robotics and Automation Letters (RA-L) 
+  - Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)
+
 - ## Conference Review  
   - ACM/IEEE International Conference on Human-Robot Interaction (HRI), 2025, 2026  
   - ACM Conference on Human Factors in Computing Systems (CHI), 2023  
@@ -110,10 +114,6 @@ More publications can be found on my [Google Scholar](https://scholar.google.com
   - IEEE World Haptics Conference (WHC), 2025  
   - IEEE International Conference on Robot and Human Interactive Communication (RO-MAN), 2024  
   - International Conference on Human-Agent Interaction (HAI), 2024  
-
-- ## Journal Review  
-  - IEEE Robotics and Automation Letters (RA-L) 
-  - Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)
 
 - ## Student Volunteer
   - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2022   
