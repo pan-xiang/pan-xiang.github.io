@@ -102,6 +102,7 @@ More publications can be found on my [Google Scholar](https://scholar.google.com
 
 - ## Journal Review  
   - IEEE Robotics and Automation Letters (RA-L) 
+  - ACM Transactions on Human-Robot Interaction (THRI)
   - Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)
 
 - ## Conference Review  
