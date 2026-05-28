@@ -6,7 +6,7 @@ lang: zh
 alternate_url: /
 ---
 
-我是京都大学 [Human-Robot Interaction Lab](https://www.robot.soc.i.kyoto-u.ac.jp/en/) 的博士后研究员，与 [Takayuki Kanda 教授](https://www.robot.soc.i.kyoto-u.ac.jp/~kanda/biography.html)合作。我的研究方向位于人机交互与具身人工智能的交叉领域。此前，我主要关注如何设计具有表达性的机器人操作策略，从而提升机器人在人类共享环境中的透明性、可读性与自然性。
+我是京都大学 [Human-Robot Interaction Lab](https://www.robot.soc.i.kyoto-u.ac.jp/en/) 的博士后研究员，与 [Takayuki Kanda 教授](https://www.robot.soc.i.kyoto-u.ac.jp/~kanda/biography.html)合作。我的研究方向位于人机交互与具身智能的交叉领域。此前，我主要关注如何设计具有表达性的机器人操作策略，从而提升机器人在人类共享环境中的透明性、可读性与自然性。
 
 目前，我正在研究机器人如何借助大语言模型（LLMs）和视觉语言模型（VLMs）推断并回应人类意图，同时结合心理学见解，使机器人在人机交互中表现出更符合社会情境的行为。
 
