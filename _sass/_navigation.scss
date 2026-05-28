@@ -176,6 +176,7 @@
   position: relative;
   min-width: 250px;
   background: $background-color;
+  padding-right: 7.5rem;
 
   a {
     display: block;
@@ -307,6 +308,16 @@
         border-bottom: none;
       }
     }
+  }
+
+  .language-toggle {
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin: 0;
+    padding: 0.5rem 0;
+    font-weight: bold;
+    white-space: nowrap;
   }
 }
 

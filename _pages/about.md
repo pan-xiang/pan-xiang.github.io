@@ -1,6 +1,7 @@
 ---
 permalink: /
 title: "" # "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+seo_title: "Homepage"
 author_profile: true
 lang: en
 alternate_url: /zh/

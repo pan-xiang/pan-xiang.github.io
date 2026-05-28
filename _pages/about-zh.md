@@ -1,6 +1,7 @@
 ---
 permalink: /zh/
 title: ""
+seo_title: "主页"
 author_profile: true
 lang: zh
 alternate_url: /
