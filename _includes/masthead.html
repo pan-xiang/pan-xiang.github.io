@@ -15,6 +15,14 @@
             {% endif %}
             <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
           {% endfor %}
+          {% if page.alternate_url %}
+            {% if page.lang == "zh" %}
+              {% assign language_label = "English" %}
+            {% else %}
+              {% assign language_label = "中文" %}
+            {% endif %}
+            <li class="masthead__menu-item"><a href="{{ base_path }}{{ page.alternate_url }}">{{ language_label }}</a></li>
+          {% endif %}
         </ul>
         <ul class="hidden-links hidden"></ul>
       </nav>
