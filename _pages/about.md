@@ -1,10 +1,7 @@
 ---
 permalink: /
 title: "" # "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
-seo_title: "Homepage"
 author_profile: true
-lang: en
-alternate_url: /zh/
 redirect_from: 
   - /about/
   - /about.html
@@ -113,9 +110,9 @@ More publications can be found on my [Google Scholar](https://scholar.google.com
   - ACM Conference on Human Factors in Computing Systems (CHI), 2023  
   - ACM Conference on Designing Interactive Systems (DIS), 2025, 2026  
   - ACM Interaction Design and Children Conference (IDC), 2025, 2026
-  - ACM Conference on Automotive User Interfaces and Interactive Vehicular Applications (AutomotiveUI), 2026
   - IFIP TC13 International Conference on Human-Computer Interaction (INTERACT), 2025    
   - IEEE World Haptics Conference (WHC), 2025  
+  - ACM Conference on Automotive User Interfaces and Interactive Vehicular Applications (AutoUI), 2026
   - IEEE International Conference on Robot and Human Interactive Communication (RO-MAN), 2024  
   - International Conference on Human-Agent Interaction (HAI), 2024  
 
@@ -133,12 +130,12 @@ More publications can be found on my [Google Scholar](https://scholar.google.com
 # Education
 - **Kyoto University**, Kyoto, Japan  
   Ph.D. in Social Informatics (Apr 2022 – Jan 2026)  
-  Advisor: [Prof. Takayuki Kanda](https://www.robot.soc.i.kyoto-u.ac.jp/~kanda/biography.html)
+  Supervisor: [Prof. Takayuki Kanda](https://www.robot.soc.i.kyoto-u.ac.jp/~kanda/biography.html)
 
 - **Zhejiang University**, Hangzhou, China  
   M.S. in Instrument and Meter Engineering (Sept 2017 – Jun 2020)  
-  Advisor: [Prof. Hong Zhou](https://person.zju.edu.cn/zhouhong/)
+  Supervisor: [Prof. Hong Zhou](https://person.zju.edu.cn/zhouhong/)
 
 - **Anhui University of Technology**, Ma’anshan, China  
   B.S. in Electronic and Information Engineering (Sept 2013 – Jul 2017)  
-  Advisor: [Prof. Bing Wang](https://www.aufe.edu.cn/2023/1228/c8256a209006/page.htm)
+  Supervisor: [Prof. Bing Wang](https://www.aufe.edu.cn/2023/1228/c8256a209006/page.htm)

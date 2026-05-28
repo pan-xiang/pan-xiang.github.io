@@ -6,14 +6,7 @@
       <nav id="site-nav" class="greedy-nav">
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
-          {% if page.lang == "zh" %}
-            {% assign masthead_title = "主页" %}
-            {% assign masthead_url = "/zh/" %}
-          {% else %}
-            {% assign masthead_title = "Homepage" %}
-            {% assign masthead_url = "/" %}
-          {% endif %}
-          <li class="masthead__menu-item masthead__menu-item--lg"><a href="{{ base_path }}{{ masthead_url }}">{{ masthead_title }}</a></li>
+          <li class="masthead__menu-item masthead__menu-item--lg"><a href="{{ base_path }}/">{{ site.title }}</a></li>
           {% for link in site.data.navigation.main %}
             {% if link.url contains 'http' %}
               {% assign domain = '' %}
@@ -24,19 +17,6 @@
           {% endfor %}
         </ul>
         <ul class="hidden-links hidden"></ul>
-        {% if page.alternate_url %}
-          <div class="language-toggle" aria-label="Language switcher">
-            {% if page.lang == "zh" %}
-              <a href="{{ base_path }}{{ page.alternate_url }}">EN</a>
-              <span aria-hidden="true">/</span>
-              <span class="is-active">ZH</span>
-            {% else %}
-              <span class="is-active">EN</span>
-              <span aria-hidden="true">/</span>
-              <a href="{{ base_path }}{{ page.alternate_url }}">ZH</a>
-            {% endif %}
-          </div>
-        {% endif %}
       </nav>
     </div>
   </div>

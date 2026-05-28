@@ -176,7 +176,6 @@
   position: relative;
   min-width: 250px;
   background: $background-color;
-  padding-right: 7.5rem;
 
   a {
     display: block;
@@ -310,34 +309,6 @@
     }
   }
 
-  .language-toggle {
-    position: absolute;
-    top: 0;
-    right: 0;
-    margin: 0;
-    padding: 0.5rem 0;
-    font-weight: bold;
-    white-space: nowrap;
-
-    a,
-    span {
-      display: inline;
-      margin: 0;
-      padding: 0;
-    }
-
-    a {
-      color: $masthead-link-color;
-
-      &:hover {
-        color: $masthead-link-color-hover;
-      }
-    }
-
-    .is-active {
-      color: $gray;
-    }
-  }
 }
 
 
