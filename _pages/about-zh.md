@@ -86,15 +86,15 @@ alternate_url: /
 
 
 # 学术服务
-- ## 会议 Workshop 组织
+- ## Conference Workshop Organiser
   - [Multi-Agentic Systems in HRI (MAgicS-HRI): Bridging Design and Real-World Challenges for End Users](https://sites.google.com/view/magics-hri/home), HRI 2026
 
-- ## 期刊审稿
+- ## Journal Review
   - IEEE Robotics and Automation Letters (RA-L)
   - ACM Transactions on Human-Robot Interaction (THRI)
   - Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)
 
-- ## 会议审稿
+- ## Conference Review
   - ACM/IEEE International Conference on Human-Robot Interaction (HRI), 2025, 2026
   - ACM Conference on Human Factors in Computing Systems (CHI), 2023
   - ACM Conference on Designing Interactive Systems (DIS), 2025, 2026
@@ -105,7 +105,7 @@ alternate_url: /
   - IEEE International Conference on Robot and Human Interactive Communication (RO-MAN), 2024
   - International Conference on Human-Agent Interaction (HAI), 2024
 
-- ## 学生志愿者
+- ## Student Volunteer
   - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2022
 
 

@@ -318,6 +318,25 @@
     padding: 0.5rem 0;
     font-weight: bold;
     white-space: nowrap;
+
+    a,
+    span {
+      display: inline;
+      margin: 0;
+      padding: 0;
+    }
+
+    a {
+      color: $masthead-link-color;
+
+      &:hover {
+        color: $masthead-link-color-hover;
+      }
+    }
+
+    .is-active {
+      color: $gray;
+    }
   }
 }
 

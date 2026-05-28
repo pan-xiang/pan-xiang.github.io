@@ -25,7 +25,17 @@
         </ul>
         <ul class="hidden-links hidden"></ul>
         {% if page.alternate_url %}
-          <a class="language-toggle" href="{{ base_path }}{{ page.alternate_url }}">中英文切换</a>
+          <div class="language-toggle" aria-label="Language switcher">
+            {% if page.lang == "zh" %}
+              <a href="{{ base_path }}{{ page.alternate_url }}">EN</a>
+              <span aria-hidden="true">/</span>
+              <span class="is-active">ZH</span>
+            {% else %}
+              <span class="is-active">EN</span>
+              <span aria-hidden="true">/</span>
+              <a href="{{ base_path }}{{ page.alternate_url }}">ZH</a>
+            {% endif %}
+          </div>
         {% endif %}
       </nav>
     </div>
