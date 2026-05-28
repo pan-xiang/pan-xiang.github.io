@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Xiang Pan | Homepage"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : # &name "Xiang Pan"
 description              : # &description "personal description"
@@ -22,7 +22,7 @@ repository               : "pan-xiang/pan-xiang.github.io"
 author:
   # Biographic information
   avatar           : "xiang.jpg"
-  name             : "Xiang Pan"
+  name             : "Homepage"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D., Kyoto University"
   location         : "Kyoto, Japan"
