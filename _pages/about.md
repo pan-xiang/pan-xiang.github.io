@@ -9,7 +9,7 @@ redirect_from:
 
 I am a postdoctoral researcher in the [Human-Robot Interaction Lab](https://www.robot.soc.i.kyoto-u.ac.jp/en/) at Kyoto University, where I collaborate with [Prof. Takayuki Kanda](https://www.robot.soc.i.kyoto-u.ac.jp/~kanda/biography.html). My research lies at the intersection of human–robot interaction and embodied AI. My previous work has focused on developing expressive manipulation strategies to enhance the transparency, legibility, and naturalness of robot behavior in human-shared environments.
 
-Currently, I investigate how robots can infer and respond to human intentions by leveraging large language models (LLMs) and vision–language models (VLMs), informed by insights from psychology to enable socially appropriate behavior in human–robot interaction.
+Currently, I investigate how robots can infer and respond to human intentions by leveraging large language models (LLMs) and vision language models (VLMs), informed by insights from psychology to enable socially appropriate behavior in human–robot interaction.
 
 I am seeking postdoctoral opportunities starting around October 2026.
 
