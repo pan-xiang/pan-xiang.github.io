@@ -114,7 +114,7 @@ More publications can be found on my [Google Scholar](https://scholar.google.com
   - IEEE World Haptics Conference (WHC), 2025  
   - ACM Conference on Automotive User Interfaces and Interactive Vehicular Applications (AutoUI), 2026
   - IEEE International Conference on Robot and Human Interactive Communication (RO-MAN), 2024  
-  - International Conference on Human-Agent Interaction (HAI), 2024  
+  - International Conference on Human-Agent Interaction (HAI), 2024, 2026  
 
 - ## Student Volunteer
   - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2022   
