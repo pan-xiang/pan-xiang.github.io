@@ -97,8 +97,9 @@ More publications can be found on my [Google Scholar](https://scholar.google.com
 
 
 # Academic Service
-- ## Conference Workshop Organiser
-  - [Multi-Agentic Systems in HRI (MAgicS-HRI): Bridging Design and Real-World Challenges for End Users](https://sites.google.com/view/magics-hri/home), HRI’26
+- ## Organisation
+  - [Multi-Agentic Systems in HRI (MAgicS-HRI): Bridging Design and Real-World Challenges for End Users](https://sites.google.com/view/magics-hri/home), ACM/IEEE International Conference on Human-Robot Interaction, 2026,Workshop Organiser
+  - MUSE: Multimodal Human Motion Understanding for Embodied and Interactive Intelligence, International Conference on Intelligent Robotics and Applications, 2026, Special Session Organiser
 
 - ## Journal Review  
   - IEEE Robotics and Automation Letters (RA-L) 
