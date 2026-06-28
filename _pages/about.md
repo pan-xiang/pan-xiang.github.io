@@ -48,10 +48,10 @@ More publications can be found on my [Google Scholar](https://scholar.google.com
 <div class="publications">
   <div class="pub-item">
     <h3>Communicating Object Relations through Robot Gestures</h3>
-    <p><strong>Xiang Pan *</strong>, Malcolm Doering, Takayuki Kanda</p>
+    <p><strong>Xiang Pan*</strong>, Malcolm Doering, Takayuki Kanda</p>
     <p><em>ACM/IEEE International Conference on Human-Robot Interaction, Edinburgh, Scotland, UK, 2026</em></p>
     <p>Note: 
-      <a href="https://portal.core.edu.au/conf-ranks/?search=HRI&by=all&source=ICORE2026" target="_blank">CORE A*</a>, Top-tier HRI venue, 23.2% acceptance rate (129/557)</p>
+      <a href="https://portal.core.edu.au/conf-ranks/?search=HRI&by=all&source=ICORE2026" target="_blank">CORE A*</a>, 23.2% acceptance rate (129/557)</p>
     <div class="links">
       <a href="files/HRI2026.pdf" class="button" target="_blank">Paper</a>
       <a href="https://dl.acm.org/doi/10.1145/3757279.3785554" class="button" target="_blank">ACM</a>
@@ -60,9 +60,9 @@ More publications can be found on my [Google Scholar](https://scholar.google.com
 
   <div class="pub-item">
     <h3>Communicating Physical Properties through Robot Object Manipulation</h3>
-    <p><strong>Xiang Pan *</strong>, Malcolm Doering, Stela H. Seo, Takayuki Kanda</p>
+    <p><strong>Xiang Pan*</strong>, Malcolm Doering, Stela H. Seo, Takayuki Kanda</p>
     <p><em>ACM/IEEE International Conference on Human-Robot Interaction, Melbourne, Australia, 2025</em></p>
-    <p>Note: CORE A*, Top-tier HRI venue, 25% acceptance rate (100/400)</p>
+    <p>Note: CORE A*, 25% acceptance rate (100/400)</p>
     <div class="links">
       <a href="files/HRI2025.pdf" class="button" target="_blank">Paper</a>
       <a href="https://dl.acm.org/doi/10.5555/3721488.3721579" class="button" target="_blank">ACM</a>
@@ -72,9 +72,9 @@ More publications can be found on my [Google Scholar](https://scholar.google.com
 
   <div class="pub-item">
     <h3>What Is Your Other Hand Doing, Robot? A Model of Behavior for Shopkeeper Robot's Idle Hand</h3>
-    <p><strong>Xiang Pan *</strong>, Malcolm Doering, Takayuki Kanda</p>
+    <p><strong>Xiang Pan*</strong>, Malcolm Doering, Takayuki Kanda</p>
     <p><em>ACM/IEEE International Conference on Human-Robot Interaction, Colorado, USA, 2024</em></p>
-    <p>Note: CORE A*, Top-tier HRI venue, 24.7% acceptance rate (87/352)</p>
+    <p>Note: CORE A*, 24.7% acceptance rate (87/352)</p>
     <div class="links">
       <a href="files/HRI2024.pdf" class="button" target="_blank">Paper</a>
       <a href="https://dl.acm.org/doi/10.1145/3610977.3634986" class="button" target="_blank">ACM</a>
@@ -84,7 +84,7 @@ More publications can be found on my [Google Scholar](https://scholar.google.com
 
   <!-- <div class="pub-item">
     <h3>Efficient Barcode Localization Method for Low-Quality Images</h3>
-    <p><strong>Xiang Pan</strong>, Dong Li, Weijia Wu, Hong Zhou *</p>
+    <p><strong>Xiang Pan</strong>, Dong Li, Weijia Wu, Hong Zhou</p>
     <p><em>International Conference on Graphics and Signal Processing, Hong Kong, China, 2019</em></p>
     <div class="links">
       <a href="files/ICGSP2019.pdf" class="button" target="_blank">Paper</a>
