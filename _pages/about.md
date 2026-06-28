@@ -11,7 +11,6 @@ I am a postdoctoral researcher in the [Human-Robot Interaction Lab](https://www.
 
 Currently, I investigate how robots can infer and respond to human intentions by leveraging large language models (LLMs) and vision language models (VLMs), informed by insights from psychology to enable socially appropriate behavior in human–robot interaction.
 
-I am seeking postdoctoral opportunities starting around October 2026.
 
 # News
 <ul>
@@ -97,9 +96,9 @@ More publications can be found on my [Google Scholar](https://scholar.google.com
 
 
 # Academic Service
-- ## Organisation
-  - [Multi-Agentic Systems in HRI (MAgicS-HRI): Bridging Design and Real-World Challenges for End Users](https://sites.google.com/view/magics-hri/home), ACM/IEEE International Conference on Human-Robot Interaction, 2026,Workshop Organiser
-  - MUSE: Multimodal Human Motion Understanding for Embodied and Interactive Intelligence, International Conference on Intelligent Robotics and Applications, 2026, Special Session Organiser
+- ## Organization
+  - [Multi-Agentic Systems in HRI (MAgicS-HRI): Bridging Design and Real-World Challenges for End Users](https://sites.google.com/view/magics-hri/home), ACM/IEEE International Conference on Human-Robot Interaction (HRI 2026), Workshop Organizer
+  - MUSE: Multimodal Human Motion Understanding for Embodied and Interactive Intelligence, International Conference on Intelligent Robotics and Applications (ICIRA 2026), Special Session Organizer
 
 - ## Journal Review  
   - IEEE Robotics and Automation Letters (RA-L) 
