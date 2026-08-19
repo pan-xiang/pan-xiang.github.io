@@ -118,14 +118,13 @@
 }
 
 .home-news-sidebar__item {
-  margin-bottom: 0.55rem;
-  padding: 0.55rem 0.65rem;
-  border-left: 3px solid mix(#fff, $info-color, 30%);
-  border-radius: 0 $border-radius $border-radius 0;
-  background: mix(#fff, $light-gray, 82%);
+  margin: 0;
+  padding: 0.6rem 0;
+  border-top: 1px solid $border-color;
 
   &:first-child {
-    margin-top: 0;
+    padding-top: 0;
+    border-top: 0;
   }
 
   p {
@@ -138,11 +137,10 @@
 }
 
 .home-news-sidebar__date {
-  color: $danger-color;
+  color: $gray;
   font-family: $sans-serif;
   font-size: 0.7rem;
-  font-weight: 700;
-  letter-spacing: 0.02em;
+  font-weight: 600;
 }
 
 .author-profile {

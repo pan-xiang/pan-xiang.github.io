@@ -18,27 +18,24 @@ More publications can be found on my [Google Scholar](https://scholar.google.com
 
 <div class="publications">
   <article class="publication-item">
-    <p class="publication-kicker">HRI '26</p>
+    <p class="publication-kicker">HRI ’26</p>
     <h3>Communicating Object Relations through Robot Gestures <a class="publication-pdf" href="files/HRI2026.pdf" target="_blank" rel="noopener">[PDF]</a></h3>
     <p class="publication-authors"><strong>Xiang Pan*</strong>, Malcolm Doering, Takayuki Kanda</p>
-    <p class="publication-venue"><em>ACM/IEEE International Conference on Human-Robot Interaction, Edinburgh, Scotland, UK, 2026</em></p>
     <p class="publication-note">Note:
       <a href="https://portal.core.edu.au/conf-ranks/?search=HRI&by=all&source=ICORE2026" target="_blank">CORE A*</a>, 23.2% acceptance rate (129/557)</p>
   </article>
 
   <article class="publication-item">
-    <p class="publication-kicker">HRI '25</p>
+    <p class="publication-kicker">HRI ’25</p>
     <h3>Communicating Physical Properties through Robot Object Manipulation <a class="publication-pdf" href="files/HRI2025.pdf" target="_blank" rel="noopener">[PDF]</a></h3>
     <p class="publication-authors"><strong>Xiang Pan*</strong>, Malcolm Doering, Stela H. Seo, Takayuki Kanda</p>
-    <p class="publication-venue"><em>ACM/IEEE International Conference on Human-Robot Interaction, Melbourne, Australia, 2025</em></p>
     <p class="publication-note">Note: CORE A*, 25% acceptance rate (100/400)</p>
   </article>
 
   <article class="publication-item">
-    <p class="publication-kicker">HRI '24</p>
+    <p class="publication-kicker">HRI ’24</p>
     <h3>What Is Your Other Hand Doing, Robot? A Model of Behavior for Shopkeeper Robot's Idle Hand <a class="publication-pdf" href="files/HRI2024.pdf" target="_blank" rel="noopener">[PDF]</a></h3>
     <p class="publication-authors"><strong>Xiang Pan*</strong>, Malcolm Doering, Takayuki Kanda</p>
-    <p class="publication-venue"><em>ACM/IEEE International Conference on Human-Robot Interaction, Colorado, USA, 2024</em></p>
     <p class="publication-note">Note: CORE A*, 24.7% acceptance rate (87/352)</p>
   </article>
 
@@ -46,29 +43,16 @@ More publications can be found on my [Google Scholar](https://scholar.google.com
 
 
 # Academic Service
-- ## Organization
-  - [Multi-Agentic Systems in HRI (MAgicS-HRI): Bridging Design and Real-World Challenges for End Users](https://sites.google.com/view/magics-hri/home), ACM/IEEE International Conference on Human-Robot Interaction (HRI 2026), Workshop Organizer
-  - MUSE: Multimodal Human Motion Understanding for Embodied and Interactive Intelligence, International Conference on Intelligent Robotics and Applications (ICIRA 2026), Special Session Organizer
+## Organization
+- [MAgicS-HRI @ HRI 2026](https://sites.google.com/view/magics-hri/home) — Workshop Organizer
+- MUSE @ ICIRA 2026 — Special Session Organizer
 
-- ## Journal Review  
-  - IEEE Robotics and Automation Letters (RA-L) 
-  - ACM Transactions on Human-Robot Interaction (THRI)
-  - Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)
+## Reviewing
+- **Journals:** RA-L, THRI, IMWUT
+- **Conferences:** HRI (2025–26); CHI (2023); DIS (2025–26); IDC (2025–26); ISS (2026); INTERACT (2025); WHC (2025); AutoUI (2026); RO-MAN (2024); HAI (2024, 2026)
 
-- ## Conference Review  
-  - ACM/IEEE International Conference on Human-Robot Interaction (HRI), 2025, 2026  
-  - ACM Conference on Human Factors in Computing Systems (CHI), 2023  
-  - ACM Conference on Designing Interactive Systems (DIS), 2025, 2026  
-  - ACM Interaction Design and Children Conference (IDC), 2025, 2026
-  - ACM International Conference on Interactive Surfaces and Spaces (ISS), 2026
-  - IFIP TC13 International Conference on Human-Computer Interaction (INTERACT), 2025    
-  - IEEE World Haptics Conference (WHC), 2025  
-  - ACM Conference on Automotive User Interfaces and Interactive Vehicular Applications (AutoUI), 2026
-  - IEEE International Conference on Robot and Human Interactive Communication (RO-MAN), 2024  
-  - International Conference on Human-Agent Interaction (HAI), 2024, 2026  
-
-- ## Student Volunteer
-  - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2022   
+## Volunteering
+- IROS 2022 — Student Volunteer
 
 
 # Selected Awards
