@@ -1,0 +1,11 @@
+<aside class="home-news-sidebar" aria-labelledby="home-news-title">
+  <h2 id="home-news-title">News</h2>
+  <div class="home-news-sidebar__list">
+    {% for item in site.data.news %}
+      <article class="home-news-sidebar__item">
+        <time class="home-news-sidebar__date">{{ item.date }}</time>
+        <p>{{ item.content }}</p>
+      </article>
+    {% endfor %}
+  </div>
+</aside>
