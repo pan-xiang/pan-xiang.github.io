@@ -56,12 +56,12 @@
 
 .service-list {
   margin: 0.75rem 0 1.5rem;
-  border-top: 1px solid #e5e5e5;
 }
 
 .service-item {
-  padding: 0.9rem 0;
-  border-bottom: 1px solid #e5e5e5;
+  margin-bottom: 1rem;
+  padding: 0.65rem 0 0.75rem 0.8rem;
+  border-left: 2px solid #52adc8;
 }
 
 .service-item h3 {
