@@ -110,6 +110,7 @@ More publications can be found on my [Google Scholar](https://scholar.google.com
   - ACM Conference on Human Factors in Computing Systems (CHI), 2023  
   - ACM Conference on Designing Interactive Systems (DIS), 2025, 2026  
   - ACM Interaction Design and Children Conference (IDC), 2025, 2026
+  - ACM Interactive Surfaces and Spaces (ISS), 2026
   - IFIP TC13 International Conference on Human-Computer Interaction (INTERACT), 2025    
   - IEEE World Haptics Conference (WHC), 2025  
   - ACM Conference on Automotive User Interfaces and Interactive Vehicular Applications (AutoUI), 2026
