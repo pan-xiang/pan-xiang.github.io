@@ -6,7 +6,7 @@
   @include container;
   @include clearfix;
   margin-top: 1rem;
-  padding-left: 1.5rem;
+  padding-left: 2rem;
   padding-right: 1.5rem;
   animation: intro 0.3s both;
   animation-delay: 0.35s;
@@ -19,7 +19,7 @@
 .page {
   @include breakpoint($large) {
     @include span(10 of 12 last);
-    @include prefix(0.75 of 12);
+    @include prefix(1 of 12);
     @include suffix(0);
   }
 
