@@ -75,7 +75,7 @@ Currently, I investigate how robots can infer and respond to human intentions by
 
 - **Zhejiang University**, Hangzhou, China  
   M.S. in Instrument and Meter Engineering (Sept 2017 – Jun 2020)  
-  Supervisor: [Prof. Hong Zhou](https://person.zju.edu.cn/en/zhouhong)
+  Supervisor: [Prof. Hong Zhou](https://person.zju.edu.cn/zhouhong)
 
 - **Anhui University of Technology**, Ma’anshan, China  
   B.S. in Electronic and Information Engineering (Sept 2013 – Jul 2017)  
