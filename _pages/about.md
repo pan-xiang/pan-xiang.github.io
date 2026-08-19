@@ -44,8 +44,16 @@ More publications can be found on my [Google Scholar](https://scholar.google.com
 
 # Academic Service
 ## Organization
-- [MAgicS-HRI @ HRI 2026](https://sites.google.com/view/magics-hri/home) — Workshop Organizer
-- MUSE @ ICIRA 2026 — Special Session Organizer
+<div class="service-list">
+  <article class="service-item">
+    <h3><a href="https://sites.google.com/view/magics-hri/home">Multi-Agentic Systems in HRI (MAgicS-HRI): Bridging Design and Real-World Challenges for End Users</a></h3>
+    <p class="service-meta"><strong>Workshop Organizer</strong> &middot; HRI 2026</p>
+  </article>
+  <article class="service-item">
+    <h3>MUSE: Multimodal Human Motion Understanding for Embodied and Interactive Intelligence</h3>
+    <p class="service-meta"><strong>Special Session Organizer</strong> &middot; ICIRA 2026</p>
+  </article>
+</div>
 
 ## Reviewing
 - **Journals:** RA-L, THRI, IMWUT
