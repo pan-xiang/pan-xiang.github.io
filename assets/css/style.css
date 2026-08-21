@@ -66,17 +66,33 @@
 
 .service-item h3 {
   margin: 0;
+  color: #353535;
   font-family: "Avenir Next", "Segoe UI Variable Display", "Segoe UI", Helvetica, Arial, sans-serif;
-  font-size: 0.95rem;
+  font-size: 1rem;
   font-weight: 600;
-  line-height: 1.4;
+  line-height: 1.35;
 }
 
-.service-item .service-meta {
-  margin: 0.2rem 0 0;
-  color: #6f767b;
-  font-size: 0.8rem;
-  line-height: 1.4;
+.service-item h3 a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.service-item h3 a:hover {
+  text-decoration: underline;
+}
+
+.service-item .service-kicker {
+  margin: 0 0 0.25rem;
+  color: #555;
+  font-family: "Avenir Next", "Segoe UI Variable Display", "Segoe UI", Helvetica, Arial, sans-serif;
+  font-size: 0.72rem;
+  line-height: 1.35;
+}
+
+.service-item .service-kicker span {
+  color: #d9534f;
+  font-weight: 700;
 }
 
 @media screen and (max-width: 600px) {
