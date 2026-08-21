@@ -85,14 +85,14 @@
 .service-item .service-kicker {
   margin: 0 0 0.25rem;
   color: #555;
-  font-family: "Avenir Next", "Segoe UI Variable Display", "Segoe UI", Helvetica, Arial, sans-serif;
-  font-size: 0.72rem;
+  font-family: inherit;
+  font-size: 1em;
   line-height: 1.35;
 }
 
 .service-item .service-kicker span {
   color: #d9534f;
-  font-weight: 700;
+  font-weight: 400;
 }
 
 @media screen and (max-width: 600px) {
