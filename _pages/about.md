@@ -54,6 +54,7 @@ Currently, I investigate how robots can infer and respond to human intentions by
 </div>
 
 ## Reviewing
+- **THRI Distinguished Reviewer Board** 
 - **Journals:** RA-L, THRI, IMWUT
 - **Conferences:** HRI (2025–26); CHI (2023); DIS (2025–26); IDC (2025–26); ISS (2026); INTERACT (2025); WHC (2025); AutoUI (2026); RO-MAN (2024); HAI (2024, 2026)
 
