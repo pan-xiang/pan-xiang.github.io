@@ -44,11 +44,11 @@ Currently, I investigate how robots can infer and respond to human intentions by
 ## Organization
 <div class="service-list">
   <article class="service-item">
-    <p class="service-kicker"><span>HRI 2026</span> &middot; <strong>Workshop Organizer</strong></p>
+    <p class="service-kicker"><span>HRI ’26</span> &middot; <strong>Workshop Organizer</strong></p>
     <h3><a href="https://sites.google.com/view/magics-hri/home">Multi-Agentic Systems in HRI (MAgicS-HRI): Bridging Design and Real-World Challenges for End Users</a></h3>
   </article>
   <article class="service-item">
-    <p class="service-kicker"><span>ICIRA 2026</span> &middot; <strong>Special Session Organizer</strong></p>
+    <p class="service-kicker"><span>ICIRA ’26</span> &middot; <strong>Special Session Organizer</strong></p>
     <h3>MUSE: Multimodal Human Motion Understanding for Embodied and Interactive Intelligence</h3>
   </article>
 </div>
@@ -59,7 +59,7 @@ Currently, I investigate how robots can infer and respond to human intentions by
 - **Conferences:** HRI (2025–26); CHI (2023); DIS (2025–26); IDC (2025–26); ISS (2026); INTERACT (2025); WHC (2025); AutoUI (2026); RO-MAN (2024); HAI (2024, 2026)
 
 ## Volunteering
-- IROS 2022 — Student Volunteer
+- ** Student Volunteer:** IROS (2022)
 
 
 # Selected Awards
