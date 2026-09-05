@@ -32,7 +32,7 @@
 .publication-item .publication-pdf {
   margin-left: 0.3rem;
   font-family: Arial, sans-serif;
-  font-size: 0.75em;
+  font-size: 15px;
   font-weight: 700;
   white-space: nowrap;
 }
@@ -42,7 +42,7 @@
   margin: 0.18rem 0 0;
   color: #555;
   font-family: inherit;
-  font-size: 0.82rem;
+  font-size: 15px;
   line-height: 1.45;
 }
 
@@ -72,7 +72,7 @@
 .service-item .service-title {
   color: #353535;
   font-family: "Avenir Next", "Segoe UI Variable Display", "Segoe UI", Helvetica, Arial, sans-serif;
-  font-size: 1rem;
+  font-size: 16px;
   font-weight: 600;
 }
 
@@ -97,7 +97,7 @@
   margin-right: 0.35rem;
   color: #d9534f;
   font-family: "Avenir Next", "Segoe UI Variable Display", "Segoe UI", Helvetica, Arial, sans-serif;
-  font-size: 1em;
+  font-size: 16px;
   font-weight: 700;
   letter-spacing: 0.02em;
   text-transform: uppercase;
