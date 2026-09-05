@@ -59,7 +59,7 @@ Currently, I investigate how robots can infer and respond to human intentions by
 - **Conferences:** HRI (2025–26); CHI (2023); DIS (2025–26); IDC (2025–26); ISS (2026); INTERACT (2025); WHC (2025); AutoUI (2026); RO-MAN (2024); HAI (2024, 2026)
 
 ## Volunteering
-- ** Student Volunteer:** IROS (2022)
+- **Student Volunteer:** IROS (2022)
 
 
 # Selected Awards
