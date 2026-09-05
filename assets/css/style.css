@@ -14,7 +14,7 @@
   margin: 0 0 0.25rem;
   color: #d9534f;
   font-family: "Avenir Next", "Segoe UI Variable Display", "Segoe UI", Helvetica, Arial, sans-serif;
-  font-size: 0.72rem;
+  font-size: 1em;
   font-weight: 700;
   letter-spacing: 0.02em;
   text-transform: uppercase;
@@ -64,35 +64,43 @@
   border-left: 2px solid #52adc8;
 }
 
-.service-item h3 {
+.service-item .service-details {
   margin: 0;
+  line-height: 1.35;
+}
+
+.service-item .service-title {
   color: #353535;
   font-family: "Avenir Next", "Segoe UI Variable Display", "Segoe UI", Helvetica, Arial, sans-serif;
   font-size: 1rem;
   font-weight: 600;
-  line-height: 1.35;
 }
 
-.service-item h3 a {
+.service-item a.service-title {
   color: inherit;
   text-decoration: none;
 }
 
-.service-item h3 a:hover {
+.service-item a.service-title:hover {
   text-decoration: underline;
 }
 
-.service-item .service-kicker {
+.service-item .service-role {
   margin: 0 0 0.25rem;
-  color: #555;
-  font-family: inherit;
   font-size: 1em;
   line-height: 1.35;
+  color: #555;
+  font-weight: 700;
 }
 
-.service-item .service-kicker span {
+.service-item .service-kicker {
+  margin-right: 0.35rem;
   color: #d9534f;
-  font-weight: 400;
+  font-family: "Avenir Next", "Segoe UI Variable Display", "Segoe UI", Helvetica, Arial, sans-serif;
+  font-size: 1em;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
 }
 
 @media screen and (max-width: 600px) {

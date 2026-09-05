@@ -44,12 +44,12 @@ Currently, I investigate how robots can infer and respond to human intentions by
 ## Organizing
 <div class="service-list">
   <article class="service-item">
-    <p class="service-kicker"><span>HRI ’26</span> &middot; <strong>Workshop Organizer</strong></p>
-    <h3><a href="https://sites.google.com/view/magics-hri/home">Multi-Agentic Systems in HRI (MAgicS-HRI): Bridging Design and Real-World Challenges for End Users</a></h3>
+    <p class="service-role">Workshop Organizer</p>
+    <p class="service-details"><span class="service-kicker">HRI ’26</span> <a class="service-title" href="https://sites.google.com/view/magics-hri/home">Multi-Agentic Systems in HRI (MAgicS-HRI): Bridging Design and Real-World Challenges for End Users</a></p>
   </article>
   <article class="service-item">
-    <p class="service-kicker"><span>ICIRA ’26</span> &middot; <strong>Special Session Organizer</strong></p>
-    <h3>MUSE: Multimodal Human Motion Understanding for Embodied and Interactive Intelligence</h3>
+    <p class="service-role">Special Session Organizer</p>
+    <p class="service-details"><span class="service-kicker">ICIRA ’26</span> <span class="service-title">MUSE: Multimodal Human Motion Understanding for Embodied and Interactive Intelligence</span></p>
   </article>
 </div>
 
