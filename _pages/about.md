@@ -41,7 +41,7 @@ Currently, I investigate how robots can infer and respond to human intentions by
 
 
 # Academic Service
-## Organizating
+## Organizing
 <div class="service-list">
   <article class="service-item">
     <p class="service-kicker"><span>HRI ’26</span> &middot; <strong>Workshop Organizer</strong></p>
