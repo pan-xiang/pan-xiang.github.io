@@ -68,9 +68,6 @@ I welcome opportunities for research collaboration on these topics and in relate
 - **Journals:** RA-L; THRI; IMWUT
 - **Conferences:** HRI (2025–27); CHI (2023); DIS (2025–26); IDC (2025–26); ISS (2026); INTERACT (2025); WHC (2025); AutoUI (2026); RO-MAN (2024); HAI (2024, 2026)
 
-## Volunteering
-- **Student Volunteer:** IROS (2022)
-
 
 # Selected Awards
 - Excellent Postgraduate Student Award, Zhejiang University, 2020  
