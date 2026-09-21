@@ -14,7 +14,7 @@ My research lies at the intersection of human–robot interaction, social roboti
 
 
 
-# Selected Publications 
+# Selected Publications & Manuscripts
 <div class="publications">
   <article class="publication-item">
     <p class="publication-kicker">HRI ’27</p>
