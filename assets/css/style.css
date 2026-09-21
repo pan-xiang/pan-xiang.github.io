@@ -22,10 +22,10 @@
 
 .publication-item h3 {
   margin: 0 0 0.3rem;
-  color: #353535;
-  font-family: "Avenir Next", "Segoe UI Variable Display", "Segoe UI", Helvetica, Arial, sans-serif;
-  font-size: 1rem;
-  font-weight: 600;
+  color: inherit;
+  font-family: inherit;
+  font-size: 1em;
+  font-weight: 700;
   line-height: 1.35;
 }
 
@@ -73,7 +73,7 @@
   color: inherit;
   font-family: inherit;
   font-size: 1em;
-  font-weight: 700;
+  font-weight: 400;
 }
 
 .service-item a.service-title {
@@ -99,7 +99,7 @@
   color: #d9534f;
   font-family: inherit;
   font-size: 1em;
-  font-weight: 700;
+  font-weight: 400;
 }
 
 @media screen and (max-width: 600px) {

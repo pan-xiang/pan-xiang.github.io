@@ -8,9 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a postdoctoral researcher in the [Human-Robot Interaction Lab](https://www.robot.soc.i.kyoto-u.ac.jp/en/) at Kyoto University. In October 2026, I will join the Hong Kong University of Science and Technology (HKUST) as a Post-doctoral Fellow. My research lies at the intersection of human–robot interaction and embodied AI. My previous work has focused on developing expressive manipulation strategies to enhance the transparency, legibility, and naturalness of robot behavior in human-shared environments.
+I am currently a postdoctoral researcher in the [Human-Robot Interaction Lab](https://www.robot.soc.i.kyoto-u.ac.jp/en/) at Kyoto University. In October 2026, I will join the Hong Kong University of Science and Technology as a postdoctoral fellow.
 
-Currently, I investigate how robots can infer and respond to human intentions by leveraging large language models (LLMs) and vision language models (VLMs), informed by insights from psychology to enable socially appropriate behavior in human–robot interaction.
+My research lies at the intersection of human–robot interaction and embodied AI. My previous work has focused on developing expressive manipulation strategies to improve the transparency, legibility, and naturalness of robot behavior in human-shared environments.
+
+My current research investigates how robots can infer and respond to human intentions by leveraging large language models (LLMs) and vision-language models (VLMs), while drawing on insights from psychology to enable more socially appropriate and context-sensitive behavior in human–robot interaction.
+
 
 
 # Selected Publications 
