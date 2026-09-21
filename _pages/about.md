@@ -17,6 +17,11 @@ My research lies at the intersection of human–robot interaction, social roboti
 # Selected Publications 
 <div class="publications">
   <article class="publication-item">
+    <p class="publication-kicker">HRI ’27</p>
+    <h3>Manuscript under review</h3>
+  </article>
+
+  <article class="publication-item">
     <p class="publication-kicker">HRI ’26</p>
     <h3><a class="publication-title" href="https://dl.acm.org/doi/10.1145/3757279.3785554" target="_blank" rel="noopener">Communicating Object Relations through Robot Gestures</a> <a class="publication-pdf" href="files/HRI2026.pdf" target="_blank" rel="noopener">[PDF]</a></h3>
     <p class="publication-authors"><strong>Xiang Pan*</strong>, Malcolm Doering, Takayuki Kanda</p>
