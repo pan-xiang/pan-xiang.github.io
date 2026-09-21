@@ -12,6 +12,8 @@ I am currently a postdoctoral researcher in the [Human-Robot Interaction Lab](ht
 
 My research lies at the intersection of human–robot interaction, social robotics, and embodied AI. My doctoral research focused on developing expressive manipulation strategies to improve the transparency, legibility, and naturalness of robot behavior in human-shared environments. My postdoctoral research investigates how robots can infer and respond to human intentions by leveraging large language models (LLMs) and vision-language models (VLMs), while drawing on insights from psychology to enable socially appropriate behavior in human–robot interaction.
 
+I welcome opportunities for research collaboration on these topics and in related areas, as well as opportunities to contribute through peer review, program committee service, and editorial activities. Please feel free to get in touch via email.
+
 
 
 # Selected Publications & Manuscripts
