@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher in the [Human-Robot Interaction Lab](https://www.robot.soc.i.kyoto-u.ac.jp/en/) at Kyoto University. My research lies at the intersection of human–robot interaction and embodied AI. My previous work has focused on developing expressive manipulation strategies to enhance the transparency, legibility, and naturalness of robot behavior in human-shared environments.
+I am currently a postdoctoral researcher in the [Human-Robot Interaction Lab](https://www.robot.soc.i.kyoto-u.ac.jp/en/) at Kyoto University. In October 2026, I will join the Hong Kong University of Science and Technology (HKUST) as a Post-doctoral Fellow. My research lies at the intersection of human–robot interaction and embodied AI. My previous work has focused on developing expressive manipulation strategies to enhance the transparency, legibility, and naturalness of robot behavior in human-shared environments.
 
 Currently, I investigate how robots can infer and respond to human intentions by leveraging large language models (LLMs) and vision language models (VLMs), informed by insights from psychology to enable socially appropriate behavior in human–robot interaction.
 
@@ -56,7 +56,7 @@ Currently, I investigate how robots can infer and respond to human intentions by
 ## Reviewing
 - **THRI Distinguished Reviewer Board** 
 - **Journals:** RA-L; THRI; IMWUT
-- **Conferences:** HRI (2025–26); CHI (2023); DIS (2025–26); IDC (2025–26); ISS (2026); INTERACT (2025); WHC (2025); AutoUI (2026); RO-MAN (2024); HAI (2024, 2026)
+- **Conferences:** HRI (2025–27); CHI (2023); DIS (2025–26); IDC (2025–26); ISS (2026); INTERACT (2025); WHC (2025); AutoUI (2026); RO-MAN (2024); HAI (2024, 2026)
 
 ## Volunteering
 - **Student Volunteer:** IROS (2022)
@@ -72,7 +72,7 @@ Currently, I investigate how robots can infer and respond to human intentions by
 # Education
 - **Kyoto University**, Kyoto, Japan  
   Ph.D. in Social Informatics (Apr 2022 – Jan 2026)  
-  Supervisor: [Prof. Takayuki Kanda](https://scholar.google.com/citations?user=BL9EACgAAAAJ&hl=en)
+  Supervisor: [Prof. Takayuki Kanda](https://scholar.google.com/citations?user=BL9EACgAAAAJ&hl=en) -->
 
 - **Zhejiang University**, Hangzhou, China  
   M.S. in Instrument and Meter Engineering (Sept 2017 – Jun 2020)  

@@ -70,10 +70,10 @@
 }
 
 .service-item .service-title {
-  color: #353535;
-  font-family: "Avenir Next", "Segoe UI Variable Display", "Segoe UI", Helvetica, Arial, sans-serif;
-  font-size: 16px;
-  font-weight: 600;
+  color: inherit;
+  font-family: inherit;
+  font-size: 1em;
+  font-weight: 700;
 }
 
 .service-item a.service-title {
@@ -87,20 +87,19 @@
 
 .service-item .service-role {
   margin: 0 0 0.25rem;
+  color: inherit;
+  font-family: inherit;
   font-size: 1em;
-  line-height: 1.35;
-  color: #555;
   font-weight: 700;
+  line-height: 1.35;
 }
 
 .service-item .service-kicker {
   margin-right: 0.35rem;
   color: #d9534f;
-  font-family: "Avenir Next", "Segoe UI Variable Display", "Segoe UI", Helvetica, Arial, sans-serif;
-  font-size: 16px;
+  font-family: inherit;
+  font-size: 1em;
   font-weight: 700;
-  letter-spacing: 0.02em;
-  text-transform: uppercase;
 }
 
 @media screen and (max-width: 600px) {
