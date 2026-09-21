@@ -19,12 +19,13 @@ My research lies at the intersection of human–robot interaction, social roboti
   <article class="publication-item">
     <p class="publication-kicker">HRI ’27</p>
     <h3>Manuscript under review</h3>
+    <p class="publication-authors">First and corresponding author</p>
   </article>
 
   <article class="publication-item">
     <p class="publication-kicker">HRI ’26</p>
     <h3><a class="publication-title" href="https://dl.acm.org/doi/10.1145/3757279.3785554" target="_blank" rel="noopener">Communicating Object Relations through Robot Gestures</a> <a class="publication-pdf" href="files/HRI2026.pdf" target="_blank" rel="noopener">[PDF]</a></h3>
-    <p class="publication-authors"><strong>Xiang Pan*</strong>, Malcolm Doering, Takayuki Kanda</p>
+    <p class="publication-authors"><strong>Xiang Pan</strong><sup>*</sup>, Malcolm Doering, Takayuki Kanda</p>
     <p class="publication-note">Note:
       <a href="https://portal.core.edu.au/conf-ranks/?search=HRI&by=all&source=ICORE2026" target="_blank">CORE A*</a>, 23.2% acceptance rate (129/557)</p>
   </article>
@@ -32,18 +33,19 @@ My research lies at the intersection of human–robot interaction, social roboti
   <article class="publication-item">
     <p class="publication-kicker">HRI ’25</p>
     <h3><a class="publication-title" href="https://ieeexplore.ieee.org/document/10973989" target="_blank" rel="noopener">Communicating Physical Properties through Robot Object Manipulation</a> <a class="publication-pdf" href="files/HRI2025.pdf" target="_blank" rel="noopener">[PDF]</a></h3>
-    <p class="publication-authors"><strong>Xiang Pan*</strong>, Malcolm Doering, Stela H. Seo, Takayuki Kanda</p>
+    <p class="publication-authors"><strong>Xiang Pan</strong><sup>*</sup>, Malcolm Doering, Stela H. Seo, Takayuki Kanda</p>
     <p class="publication-note">Note: CORE A*, 25% acceptance rate (100/400)</p>
   </article>
 
   <article class="publication-item">
     <p class="publication-kicker">HRI ’24</p>
     <h3><a class="publication-title" href="https://dl.acm.org/doi/10.1145/3610977.3634986" target="_blank" rel="noopener">What Is Your Other Hand Doing, Robot? A Model of Behavior for Shopkeeper Robot's Idle Hand</a> <a class="publication-pdf" href="files/HRI2024.pdf" target="_blank" rel="noopener">[PDF]</a></h3>
-    <p class="publication-authors"><strong>Xiang Pan*</strong>, Malcolm Doering, Takayuki Kanda</p>
+    <p class="publication-authors"><strong>Xiang Pan</strong><sup>*</sup>, Malcolm Doering, Takayuki Kanda</p>
     <p class="publication-note">Note: CORE A*, 24.7% acceptance rate (87/352)</p>
   </article>
 
 </div>
+<p class="publication-legend"><sup>*</sup> Corresponding author</p>
 
 
 # Academic Service

@@ -63,6 +63,12 @@
   color: inherit;
 }
 
+.publication-legend {
+  margin-top: -0.5rem;
+  color: #555;
+  font-size: 15px;
+}
+
 .service-list {
   margin: 0.75rem 0 1.5rem;
 }
