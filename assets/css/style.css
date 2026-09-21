@@ -29,6 +29,15 @@
   line-height: 1.35;
 }
 
+.publication-item .publication-title {
+  color: inherit;
+  text-decoration: none;
+}
+
+.publication-item .publication-title:hover {
+  text-decoration: underline;
+}
+
 .publication-item .publication-pdf {
   margin-left: 0.3rem;
   font-family: Arial, sans-serif;
@@ -99,7 +108,7 @@
   color: #d9534f;
   font-family: inherit;
   font-size: 1em;
-  font-weight: 400;
+  font-weight: 700;
 }
 
 @media screen and (max-width: 600px) {
