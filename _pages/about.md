@@ -73,7 +73,7 @@ My research lies at the intersection of human–robot interaction, social roboti
 # Education
 - **Kyoto University**, Kyoto, Japan  
   Ph.D. in Social Informatics (Apr 2022 – Jan 2026)  
-  Supervisor: [Prof. Takayuki Kanda](https://scholar.google.com/citations?user=BL9EACgAAAAJ&hl=en) -->
+  Supervisor: [Prof. Takayuki Kanda](https://scholar.google.com/citations?user=BL9EACgAAAAJ&hl=en)
 
 - **Zhejiang University**, Hangzhou, China  
   M.S. in Instrument and Meter Engineering (Sept 2017 – Jun 2020)  
