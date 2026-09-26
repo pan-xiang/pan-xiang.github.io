@@ -1,0 +1,261 @@
+% !TeX program = xelatex
+%============================================================
+% Academic CV (classic, clean, multi-page)
+% Compile with XeLaTeX.
+%============================================================
+\documentclass[11pt,a4paper]{article}
+
+% ---------- Page ----------
+\usepackage[left=1.8cm,right=1.8cm,top=1.8cm,bottom=1.8cm]{geometry}
+\setlength{\parindent}{0pt}
+
+% ---------- Fonts / Symbols ----------
+\usepackage{fontawesome5}
+\usepackage{fontspec}
+\setmainfont{Times New Roman}
+\usepackage{xeCJK}
+\setCJKmainfont{Noto Serif CJK SC}
+
+% ---------- Colors / Links ----------
+\usepackage{xcolor}
+\definecolor{cvteal}{HTML}{2FA5C8}
+\definecolor{cvgray}{HTML}{555555}
+\usepackage{hyperref}
+\hypersetup{
+  colorlinks=true,
+  linkcolor=cvteal,
+  urlcolor=cvteal
+}
+
+% ---------- Layout ----------
+\usepackage{array}
+\usepackage{tabularx}
+\newcolumntype{Y}{>{\raggedright\arraybackslash}X}
+\newcommand{\LcolW}{3.3cm}
+
+\usepackage{enumitem}
+\setlist[itemize]{leftmargin=*,topsep=2pt,itemsep=2pt,parsep=0pt}
+
+% ---------- Section style ----------
+\usepackage{titlesec}
+\titleformat{\section}
+  {\Large\bfseries\color{cvteal}}
+  {}{0pt}{}
+\titlespacing*{\section}{0pt}{12pt}{8pt}
+
+% ---------- CV entries ----------
+\newcommand{\cventry}[2]{%
+  \noindent
+  \begin{tabularx}{\textwidth}{@{}p{\LcolW}@{\hspace{0.35cm}}Y@{}}
+    \raggedright #1 & #2
+  \end{tabularx}\par\vspace{6pt}
+}
+
+% Compact entries used only in Academic Service. They reuse the main CV
+% column width so that all right-hand content starts at the same position.
+\newcommand{\servicegroup}[1]{%
+  \par\vspace{5pt}
+  {\normalsize\bfseries\color{cvteal}#1}\par
+  \vspace{3pt}
+}
+\newcommand{\serviceentry}[2]{%
+  \noindent
+  \begin{tabularx}{\textwidth}{@{}p{\LcolW}@{\hspace{0.35cm}}Y@{}}
+    \raggedright #1 & #2
+  \end{tabularx}\par\vspace{4pt}
+}
+
+% ---------- Emphasis helpers ----------
+\newcommand{\myname}[1]{\textbf{#1}}
+\newcommand{\pubnote}[1]{{\small\color{cvgray}#1}}
+
+% ---------- Header ----------
+\newcommand{\cvname}[1]{\begin{center}\Huge\bfseries #1\end{center}\vspace{1pt}}
+\newcommand{\cvinfo}[1]{\begin{center}\small #1\end{center}\vspace{6pt}}
+
+% ---------- Footer ----------
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\cfoot{\small\thepage}
+\rfoot{\small Updated in June 2026}
+\renewcommand{\headrulewidth}{0pt}
+\setlength{\footskip}{22pt}
+
+\begin{document}
+
+% ===== Header =====
+\cvname{Xiang Pan}
+\cvinfo{%
+  \faPhone\; (+86) 182-5889-9004 \quad
+  \faEnvelope\; \href{mailto:pan.xiang.7p@kyoto-u.ac.jp}{pan.xiang.7p@kyoto-u.ac.jp} \quad
+  \faGlobe\; \href{https://pan-xiang.github.io}{pan-xiang.github.io}
+}
+
+% ===== Research Interests =====
+\cventry{\textbf{Research\\Interests}}{%
+My research lies at the intersection of human--robot interaction, social robotics, and embodied AI. My doctoral research focused on developing expressive manipulation strategies to improve the transparency, legibility, and naturalness of robot behavior in human-shared environments. My postdoctoral research investigates how robots can infer and respond to human intentions by leveraging large language models (LLMs) and vision-language models (VLMs), while drawing on insights from psychology to enable socially appropriate behavior in human--robot interaction.
+}
+
+% ===== Employment =====
+\section{Employment}
+
+\cventry{02/2026 -- Present}{%
+\textbf{Kyoto University} -- Kyoto, Japan\newline
+Postdoctoral Researcher\newline
+Supervisor: \href{https://scholar.google.com/citations?user=BL9EACgAAAAJ\&hl=en}{Prof. Takayuki Kanda}
+}
+
+% ===== Education =====
+\section{Education}
+
+\cventry{04/2022 -- 01/2026}{%
+\textbf{Kyoto University} -- Kyoto, Japan\newline
+Ph.D. in Social Informatics\newline
+Supervisor: \href{https://scholar.google.com/citations?user=BL9EACgAAAAJ\&hl=en}{Prof. Takayuki Kanda}
+}
+
+\cventry{10/2020 -- 08/2021}{%
+\textbf{Northeast Normal University} -- Changchun, China\newline
+Japanese Language Studies
+}
+
+\cventry{09/2017 -- 06/2020}{%
+\textbf{Zhejiang University} -- Hangzhou, China\newline
+M.S. in Instrument and Meter Engineering\newline
+Supervisor: \href{https://person.zju.edu.cn/zhouhong}{Prof. Hong Zhou}
+}
+
+\cventry{09/2013 -- 07/2017}{%
+\textbf{Anhui University of Technology} -- Ma'anshan, China\newline
+B.S. in Electronic and Information Engineering\newline
+Supervisor: \href{https://scholar.google.com/citations?user=312BcwEAAAAJ\&hl=en}{Prof. Bing Wang}
+}
+
+% ===== Publications =====
+\section{Full Papers in Conference Proceedings}
+
+\cventry{2026}{%
+\textbf{Communicating Object Relations through Robot Gestures.}\newline
+\myname{Xiang Pan*}, Malcolm Doering, Takayuki Kanda.
+In Proceedings of the 2026 ACM/IEEE International Conference on Human-Robot Interaction.\newline
+\pubnote{CORE A*; acceptance rate: 23.2\% (129/557).}
+}
+
+\cventry{2025}{%
+\textbf{Communicating Physical Properties through Robot Object Manipulation.}\newline
+\myname{Xiang Pan*}, Malcolm Doering, Stela H. Seo, Takayuki Kanda.
+In Proceedings of the 2025 ACM/IEEE International Conference on Human-Robot Interaction.\newline
+\pubnote{CORE A*; acceptance rate: 25\% (100/400).}
+}
+
+\cventry{2024}{%
+\textbf{What Is Your Other Hand Doing, Robot? A Model of Behavior for Shopkeeper Robot's Idle Hand.}\newline
+\myname{Xiang Pan*}, Malcolm Doering, Takayuki Kanda.
+In Proceedings of the 2024 ACM/IEEE International Conference on Human-Robot Interaction.\newline
+\pubnote{CORE A*; acceptance rate: 24.7\% (87/352).}
+}
+
+\cventry{2019}{%
+\textbf{Efficient Barcode Localization Method for Low-Quality Images.}\newline
+\myname{Xiang Pan}, Dong Li, Weijia Wu, Hong Zhou.
+In Proceedings of the 2019 International Conference on Graphics and Signal Processing.
+}
+
+% ===== Invention Patents =====
+\section{Invention Patents}
+
+\cventry{2024}{%
+\textbf{High Voltage LED Chip Set, LED Light Source for Plant Light Supplementation and Illuminating Device.}\newline
+\myname{Xiang Pan}, Xuke Li. US Patent US12051677B2, granted.
+}
+
+\cventry{2023}{%
+\textbf{LED Light Source for Plant Light Supplementation and Lamp Comprising the Same.}\newline
+Xuke Li, \myname{Xiang Pan}. European Patent EP3767167B1, granted.
+}
+
+\cventry{2022}{%
+\textbf{LED Light Source for Supplemental Lighting for Plants and Lamp with Light Source.}\newline
+Xuke Li, \myname{Xiang Pan}. US Patent US11419278B2, granted.
+}
+
+% ===== Teaching Experience =====
+\section{Teaching Experience}
+
+\cventry{2025}{%
+\textbf{Information System Analysis}\newline
+Teaching Assistant
+}
+
+% ===== Academic Service =====
+\section{Academic Service}
+
+\servicegroup{Organizing}
+
+\serviceentry{HRI~'26}{%
+\textbf{Workshop Organizer}\newline
+\href{https://sites.google.com/view/magics-hri/home}{Multi-Agentic Systems in HRI (MAgicS-HRI): Bridging Design and Real-World Challenges for End Users}
+}
+
+\serviceentry{ICIRA~'26}{%
+\textbf{Special Session Organizer}\newline
+MUSE: Multimodal Human Motion Understanding for Embodied and Interactive Intelligence
+}
+
+\servicegroup{Reviewing}
+
+\serviceentry{}{%
+\textbf{THRI Distinguished Reviewer Board}
+}
+
+\serviceentry{Journals}{%
+RA-L; THRI; IMWUT
+}
+
+\serviceentry{Conferences}{%
+HRI (2025--27); CHI (2023); DIS (2025--26); IDC (2025--26); ISS (2026); INTERACT (2025); WHC (2025); AutoUI (2026); RO-MAN (2024); HAI (2024, 2026)
+}
+
+% ===== Invited Talks =====
+\section{Invited Talks}
+
+\cventry{2025}{%
+\textbf{Communicating Object Relations through Robot Gestures.}\newline
+Invited Speaker, Center for Digital Media Computation, Xiamen University
+}
+
+\cventry{2024}{%
+\textbf{Communicating Physical Properties through Robot Object Manipulation.}\newline
+Invited Speaker, Center for Digital Media Computation, Xiamen University
+}
+
+% ===== Selected Awards =====
+\section{Selected Awards}
+
+\cventry{2021}{%
+\textbf{Japanese Government (MEXT) Scholarship}\newline
+Ministry of Education, Culture, Sports, Science and Technology
+}
+
+\cventry{2020}{%
+\textbf{Excellent Postgraduate Student Award}\newline
+Zhejiang University
+}
+
+\cventry{2018}{%
+\textbf{Outstanding Graduate Student Leader Award}\newline
+Zhejiang University
+}
+
+\cventry{2017}{%
+\textbf{Outstanding Graduate Award}\newline
+Anhui Province
+}
+
+\cventry{2017}{%
+\textbf{Youth May Fourth Medal}\newline
+Anhui University of Technology (highest undergraduate honor; 10 recipients university-wide)
+}
+
+\end{document}
