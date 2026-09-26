@@ -70,7 +70,7 @@ I welcome opportunities for research collaboration on these topics and in relate
 
 
 # Selected Awards
-- Excellent Graduating Postgraduate Student Award, Zhejiang University, 2020  
+- Excellent Postgraduate Student Award, Zhejiang University, 2020  
 - Outstanding Graduate Leader Award, Zhejiang University, 2018  
 - Outstanding Graduate Award, Anhui Province, 2017  
 - Youth May Fourth Medal, Anhui University of Technology, 2017 *(highest undergraduate honor; 10 recipients university-wide)*  
