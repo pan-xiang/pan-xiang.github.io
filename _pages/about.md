@@ -66,7 +66,7 @@ I welcome opportunities for research collaboration on these topics and in relate
 ## Reviewing
 - **THRI Distinguished Reviewer Board** 
 - **Journals:** RA-L; THRI; IMWUT
-- **Conferences:** HRI (2025–27); CHI (2023); DIS (2025–26); IDC (2025–26); ISS (2026); INTERACT (2025); WHC (2025); AutoUI (2026); RO-MAN (2024); HAI (2024, 2026)
+- **Conferences:** HRI (2025–27); CHI (2023, 2027); DIS (2025–26); IDC (2025–26); ISS (2026); INTERACT (2025); WHC (2025); AutoUI (2026); RO-MAN (2024); HAI (2024, 2026)
 
 
 # Selected Awards
