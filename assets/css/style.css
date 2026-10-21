@@ -63,7 +63,7 @@
   color: inherit;
 }
 
-.publication-legend {
+.page__content p.publication-legend {
   margin-top: -0.5rem;
   color: #555;
   font-size: 15px;
