@@ -57,20 +57,12 @@ I welcome opportunities for research collaboration on these topics and in relate
 - **Associate Chair:** IUI (2027)
 
 ## Organizing
-<div class="service-list">
-  <article class="service-item">
-    <p class="service-role">Workshop Organizer</p>
-    <p class="service-details"><span class="service-kicker">HRI ’26</span> <a class="service-title" href="https://sites.google.com/view/magics-hri/home">Multi-Agentic Systems in HRI (MAgicS-HRI): Bridging Design and Real-World Challenges for End Users</a></p>
-  </article>
-  <article class="service-item">
-    <p class="service-role">Special Session Organizer</p>
-    <p class="service-details"><span class="service-kicker">ICIRA ’26</span> <span class="service-title">MUSE: Multimodal Human Motion Understanding for Embodied and Interactive Intelligence</span></p>
-  </article>
-</div>
+- **Workshop Organizer:** HRI (2026) — [Multi-Agentic Systems in HRI (MAgicS-HRI): Bridging Design and Real-World Challenges for End Users](https://sites.google.com/view/magics-hri/home)
+- **Special Session Organizer:** ICIRA (2026) — MUSE: Multimodal Human Motion Understanding for Embodied and Interactive Intelligence
 
 ## Reviewing
-- **THRI Distinguished Reviewer Board** 
-- **Journals:** RA-L; THRI; IMWUT
+- **Distinguished Reviewer Board:** ACM THRI
+- **Journals:** IEEE RA-L; ACM THRI; ACM IMWUT
 - **Conferences:** HRI (2025–27); CHI (2023, 2027); DIS (2025–26); IDC (2025–26); ISS (2026); INTERACT (2025); WHC (2025); AutoUI (2026); RO-MAN (2024); HAI (2024, 2026)
 
 
