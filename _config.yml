@@ -24,10 +24,10 @@ author:
   avatar           : "xiang.jpg"
   name             : "Xiang Pan"
   pronouns         : # example: "she/her"  
-  bio              : "Postdoctoral researcher, Kyoto University"
+  bio              : "Postdoctoral fellow, HKUST"
   location         :
-  # employer         : "Kyoto University"
-  # uri              : # URL
+  employer         : 
+  uri              : 
   email            : "seanpan0111@gmail.com"
 
   # Academic websites
