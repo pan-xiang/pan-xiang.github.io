@@ -61,8 +61,8 @@ I welcome opportunities for research collaboration on these topics and in relate
 - **Special Session Organizer:** ICIRA (2026) — MUSE: Multimodal Human Motion Understanding for Embodied and Interactive Intelligence
 
 ## Reviewing
-- [**THRI Distinguished Reviewer Board**] (https://dl.acm.org/journal/thri editorial-board#distinguished-reviewers)
-- **Journals:** IEEE RA-L; ACM THRI; ACM IMWUT
+- **[ACM THRI Distinguished Reviewer Board](https://dl.acm.org/journal/thri/editorial-board#distinguished-reviewers)**
+- **Journals:** ACM THRI; IEEE RA-L; ACM IMWUT
 - **Conferences:** HRI (2025–27); CHI (2023, 2027); DIS (2025–26); IDC (2025–26); ISS (2026); INTERACT (2025); WHC (2025); AutoUI (2026); RO-MAN (2024); HAI (2024, 2026)
 
 
