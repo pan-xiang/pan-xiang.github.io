@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral fellow at The Hong Kong University of Science and Technology (HKUST), working with [Prof. Xiaojuan Ma](https://www.cse.ust.hk/~mxj/).
+I am a Postdoctoral Fellow in the Department of Computer Science and Engineering at The Hong Kong University of Science and Technology, working with [Prof. Xiaojuan Ma](https://www.cse.ust.hk/~mxj/).
 
 I received my Ph.D. in Social Informatics at Kyoto University under the supervision of [Prof. Takayuki Kanda](https://scholar.google.com/citations?user=BL9EACgAAAAJ&hl=en), and continued there as a postdoctoral researcher in the [Human-Robot Interaction Lab](https://www.robot.soc.i.kyoto-u.ac.jp/en/). I hold an M.S. in Instrument and Meter Engineering from Zhejiang University and a B.S. in Electronic and Information Engineering from Anhui University of Technology, where I was supervised by [Prof. Hong Zhou](https://person.zju.edu.cn/zhouhong) and [Prof. Bing Wang](https://scholar.google.com/citations?user=312BcwEAAAAJ&hl=en), respectively.
 
