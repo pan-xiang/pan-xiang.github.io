@@ -10,7 +10,7 @@ redirect_from:
 
 I am a postdoctoral fellow at The Hong Kong University of Science and Technology (HKUST), working with [Prof. Xiaojuan Ma](https://www.cse.ust.hk/~mxj/).
 
-I earned my Ph.D. in Social Informatics at Kyoto University under the supervision of [Prof. Takayuki Kanda](https://scholar.google.com/citations?user=BL9EACgAAAAJ&hl=en), and continued there as a postdoctoral researcher in the [Human-Robot Interaction Lab](https://www.robot.soc.i.kyoto-u.ac.jp/en/). I hold an M.S. in Instrument and Meter Engineering from Zhejiang University and a B.S. in Electronic and Information Engineering from Anhui University of Technology, where I was supervised by [Prof. Hong Zhou](https://person.zju.edu.cn/zhouhong) and [Prof. Bing Wang](https://scholar.google.com/citations?user=312BcwEAAAAJ&hl=en), respectively.
+I received my Ph.D. in Social Informatics at Kyoto University under the supervision of [Prof. Takayuki Kanda](https://scholar.google.com/citations?user=BL9EACgAAAAJ&hl=en), and continued there as a postdoctoral researcher in the [Human-Robot Interaction Lab](https://www.robot.soc.i.kyoto-u.ac.jp/en/). I hold an M.S. in Instrument and Meter Engineering from Zhejiang University and a B.S. in Electronic and Information Engineering from Anhui University of Technology, where I was supervised by [Prof. Hong Zhou](https://person.zju.edu.cn/zhouhong) and [Prof. Bing Wang](https://scholar.google.com/citations?user=312BcwEAAAAJ&hl=en), respectively.
 
 My research lies at the intersection of human–robot interaction, social robotics, and embodied AI. My doctoral research focused on developing expressive manipulation strategies to improve the transparency, legibility, and naturalness of robot behavior in human-shared environments. My postdoctoral research investigates how robots can infer and respond to human intentions by leveraging large language models (LLMs) and vision-language models (VLMs), while drawing on insights from psychology to enable socially appropriate behavior in human–robot interaction.
 
@@ -53,8 +53,8 @@ I welcome opportunities for research collaboration on these topics and in relate
 
 
 # Academic Service
-## Program Committee
-- **Associate Chair:** IUI (2027)
+<!-- ## Program Committee
+- **Associate Chair:** IUI (2027) -->
 
 ## Organizing
 - **Workshop Organizer:** HRI (2026) — [Multi-Agentic Systems in HRI (MAgicS-HRI): Bridging Design and Real-World Challenges for End Users](https://sites.google.com/view/magics-hri/home)
